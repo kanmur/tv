@@ -294,7 +294,7 @@ http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/10
 http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/65/ts
 #EXTINF:-1 tvg-name="DA VİNCİ" tvg-id="" tvg-logo="https://i.ibb.co/26fY31B/da-vinci.png" group-title="BELGESEL",DA VİNCİ
 http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/90/ts
-#EXTINF:-1 tvg-name="VİASAT HİSTORY" tvg-id="" tvg-logo="https://i.ibb.co/thHBkvY/viasat-history.png" group-title="BELGESEL",VİASAT HİSTORY
-http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/49/ts
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="" tvg-logo="https://i.ibb.co/thHBkvY/viasat-history.png" group-title="BELGESEL",VİASAT HİSTORY
+http://95.67.12.82:9098
 #EXTINF:-1 tvg-name="WOMANTV" tvg-id="" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="BELGESEL",VİASAT EXPLORE
 https://embedlp.becdn.net/womantv.m3u8
