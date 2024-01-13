@@ -296,5 +296,5 @@ http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/65
 http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/90/ts
 #EXTINF:-1 tvg-name="VİASAT HİSTORY" tvg-id="" tvg-logo="https://i.ibb.co/thHBkvY/viasat-history.png" group-title="BELGESEL",VİASAT HİSTORY
 http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/49/ts
-#EXTINF:-1 tvg-name="VİASAT EXPLORE" tvg-id="" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="BELGESEL",VİASAT EXPLORE
-http://ae156026-dba6-4f90-a3f9-ff020b5a3c70.fr-par-2.baremetal.scw.cloud:8989/51/ts
+#EXTINF:-1 tvg-name="WOMANTV" tvg-id="" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="BELGESEL",VİASAT EXPLORE
+https://embedlp.becdn.net/womantv.m3u8
