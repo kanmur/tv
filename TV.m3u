@@ -289,9 +289,9 @@ https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/102?/chunklist_hd.m3
 #EXTINF:-1 tvg-name="SPOR SMART 2" tvg-id="SPOR.SMART.2.tr" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" group-title="SPOR-X",SPOR SMART 2
 https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/104?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 #EXTINF:-1 tvg-name="FILSPOR 2" tvg-id="TARIH.TV.HD.tr" tvg-logo="https://i.ibb.co/TBM9Jzb/tarih-tv.png" group-title="BELGESEL",FILSPOR 2
-http://stream2.filbox.com.tr/live/hls/1401/index.m3u8
+https://stream2.filbox.com.tr/live/hls/1401/index.m3u8
 #EXTINF:-1 tvg-name="FILSPOR 1" tvg-id="" tvg-logo="https://i.ibb.co/K5M8VpH/love-nature.png" group-title="BELGESEL",FILSPOR 1 
-http://stream2.filbox.com.tr/live/hls/1400/index.m3u8
+https://stream2.filbox.com.tr/live/hls/1400/index.m3u8
 #EXTINF:-1 tvg-name="TRACE SPORTS" tvg-id="" tvg-logo="https://i.ibb.co/26fY31B/da-vinci.png" group-title="BELGESEL",TRACE SPORTS
 http://95.67.12.82:9067
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="" tvg-logo="https://i.ibb.co/thHBkvY/viasat-history.png" group-title="BELGESEL",LOVE NATURE
