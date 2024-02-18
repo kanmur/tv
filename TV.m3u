@@ -298,5 +298,5 @@ http://95.67.12.82:9067
 http://95.67.12.82:9098
 #EXTINF:-1 tvg-name="WOMANTV" tvg-id="" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="BELGESEL",WOMANTV
 https://embedlp.becdn.net/womantv.m3u8
-#EXTINF:-1 WILDEARTH
+#EXTINF:-1 tvg-name="WILDEARTH" tvg-id="" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="BELGESEL",WILDEARTH
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
