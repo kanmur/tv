@@ -1,18 +1,4 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/turkeypremium2.xml,https://www.bevy.be/bevyfiles/turkeypremium1.xml,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
-#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-id="Teve2.HD.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="A2 HD" tvg-id="A2.HD.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2
-http://116.202.238.88/A2_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-id="360.HD.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-name="TV4" tvg-id="TV.4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV4
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-name="AS TV" tvg-id="" tvg-logo="https://i.ibb.co/yRLqr27/as-tv.png" group-title="ULUSAL",AS TV
-https://live.artidijitalmedya.com/artidijital_astv/astv1/playlist.m3u8
-#EXTINF:-1 tvg-name="ON6 TV" tvg-id="" tvg-logo="https://i.ibb.co/98Ps1rh/on6-w.png" group-title="ULUSAL",ON6 TV
-https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
-#EXTINF:-1 tvg-name="ANADOLU NET TV" tvg-id="" tvg-logo="https://i.ibb.co/2gCH2hV/anadolu-nettv.png" group-title="ULUSAL",ANADOLU NET TV
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 tvg-name="WOMAN LİFE" tvg-id="" tvg-logo="https://i.ibb.co/wJm7sfQ/woman-life.png" group-title="ULUSAL",WOMAN LİFE
 https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
 #EXTINF:-1 tvg-name="TGRT EU" tvg-id="" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png" group-title="ULUSAL",TGRT EU
