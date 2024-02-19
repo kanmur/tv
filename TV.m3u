@@ -59,86 +59,10 @@ https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
 #EXTINF:-1 tvg-name="POWER TURK SLOW" tvg-id="" tvg-logo="https://i.ibb.co/r55cF2v/pslow.png" group-title="MUZIK",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="SPOR-X",beIN SPORTS 1
-https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://i.ibb.co/T4MTTVm/bein-sports-2.png" group-title="SPOR-X",beIN SPORTS 2
-https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://i.postimg.cc/k5ZpRjjn/bein-sports-3.png" group-title="SPOR-X",beIN SPORTS 3
-https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://i.postimg.cc/J4k4sgPh/bein-sports-4.png" group-title="SPOR-X",beIN SPORTS 4
-https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-id="beIN.SPORTS.5.tr" tvg-logo="https://i.postimg.cc/hvxvR3Yh/bein-sports-5.png" group-title="SPOR-X",beIN SPORTS 5
-https://corsproxy.org/?https://cakal.click/yayinb5.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS MAX HD 1" tvg-id="beIN.SPORTS.MAX.HD.1.tr" tvg-logo="https://i.postimg.cc/pTczL7kZ/bein-sports-1-max.png" group-title="SPOR-X",beIN SPORTS MAX 1
-https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS MAX HD 2" tvg-id="beIN.SPORTS.MAX.HD.2.tr" tvg-logo="https://i.postimg.cc/zfs32rd4/bein-sports-2-max.png" group-title="SPOR-X",beIN SPORTS MAX 2
-https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
-#EXTINF:-1 tvg-name="S SPORT" tvg-id="S.Sport.tr" tvg-logo="https://i.ibb.co/QNQgnBQ/s-sport.png" group-title="SPOR-X",S SPORT
-https://corsproxy.org/?https://cakal.click/yayinss.m3u8
-#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="S.Sport2.tr" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" group-title="SPOR-X",S SPORT 2
-https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
-#EXTINF:-1 tvg-name="SPOR SMART" tvg-id="Spor.Smart.tr" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" group-title="SPOR-X",SPOR SMART
-https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
-#EXTINF:-1 tvg-name="SPOR SMART 2" tvg-id="SPOR.SMART.2.tr" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" group-title="SPOR-X",SPOR SMART 2
-https://corsproxy.org/?https://cakal.click/yayinsms2.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 1" tvg-id="" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" group-title="SPOR-X",TIVIBI SPOR 1
-https://corsproxy.org/?https://cakal.click/yayint1.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-id="" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" group-title="SPOR-X",TIVIBI SPOR 2
-https://corsproxy.org/?https://cakal.click/yayint2.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-id="" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" group-title="SPOR-X",TIVIBI SPOR 3
-https://corsproxy.org/?https://cakal.click/yayint3.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.postimg.cc/PrVXFHJK/nba-tv.png" group-title="SPOR-X",NBA TV
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/112?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 #EXTINF:-1 tvg-name="EDGE SPORT" tvg-id="EDGEsport.tr" tvg-logo="https://i.postimg.cc/527XvrZQ/edge-sport.png" group-title="SPOR-X",EDGE SPORT
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="EDGE SPORTS TRIBAL" tvg-id="EDGEsport.tr" tvg-logo="https://i.postimg.cc/527XvrZQ/edge-sport.png" group-title="SPOR-X",EDGE SPORTS TRIBAL
 https://edgesports-sportstribal.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-name="EXXEN 1" tvg-id="" tvg-logo="https://i.postimg.cc/PJCjg6S9/exxen.png" group-title="SPOR-X",EXXEN 1
-https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
-#EXTINF:-1 tvg-name="EXXEN 2" tvg-id="" tvg-logo="https://i.postimg.cc/PJCjg6S9/exxen.png" group-title="SPOR-X",EXXEN 2
-https://corsproxy.org/?https://cakal.click/yayinex2.m3u8
-#EXTINF:-1 tvg-name="EXXEN 3" tvg-id="" tvg-logo="https://i.postimg.cc/PJCjg6S9/exxen.png" group-title="SPOR-X",EXXEN 3
-https://corsproxy.org/?https://cakal.click/yayinex3.m3u8
-#EXTINF:-1 tvg-name="EXXEN 4" tvg-id="" tvg-logo="https://i.postimg.cc/PJCjg6S9/exxen.png" group-title="SPOR-X",EXXEN 4
-https://corsproxy.org/?https://cakal.click/yayinex4.m3u8
-#EXTINF:-1 tvg-name="EXXEN 6" tvg-id="" tvg-logo="https://i.postimg.cc/PJCjg6S9/exxen.png" group-title="SPOR-X",EXXEN 6
-https://corsproxy.org/?https://cakal.click/yayinex6.m3u8
-#EXTINF:-1 tvg-name="EXXEN 7" tvg-id="" tvg-logo="https://i.postimg.cc/PJCjg6S9/exxen.png" group-title="SPOR-X",EXXEN 7
-https://corsproxy.org/?https://cakal.click/yayinex7.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="SPOR-X",beIN SPORTS 1
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="SPOR-X",beIN SPORTS 1
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/2?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="SPOR-X",beIN SPORTS 1
-https://corsproxy.org/?https://volestream-cdn-ooooo.cdnvolestreamcdn.workers.dev/hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-id="beIN.SPORTS.2.tr" tvg-logo="https://i.ibb.co/T4MTTVm/bein-sports-2.png" group-title="SPOR-X",beIN SPORTS 2
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/602?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-id="beIN.SPORTS.3.tr" tvg-logo="https://i.postimg.cc/k5ZpRjjn/bein-sports-3.png" group-title="SPOR-X",beIN SPORTS 3
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/603?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-id="beIN.SPORTS.4.tr" tvg-logo="https://i.postimg.cc/J4k4sgPh/bein-sports-4.png" group-title="SPOR-X",beIN SPORTS 4
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/604?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-id="beIN.SPORTS.5.tr" tvg-logo="https://i.postimg.cc/hvxvR3Yh/bein-sports-5.png" group-title="SPOR-X",beIN SPORTS 5
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/705?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS MAX HD 1" tvg-id="beIN.SPORTS.MAX.HD.1.tr" tvg-logo="https://i.postimg.cc/pTczL7kZ/bein-sports-1-max.png" group-title="SPOR-X",beIN SPORTS MAX 1
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/805?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS MAX HD 2" tvg-id="beIN.SPORTS.MAX.HD.2.tr" tvg-logo="https://i.postimg.cc/zfs32rd4/bein-sports-2-max.png" group-title="SPOR-X",beIN SPORTS MAX 2
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/806?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 1" tvg-id="" tvg-logo="https://i.ibb.co/YtYHTDn/tivibu-spor-1.png" group-title="SPOR-X",TIVIBI SPOR 1
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/606?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-id="" tvg-logo="https://i.ibb.co/0QS5rS4/tivibu-spor-2.png" group-title="SPOR-X",TIVIBI SPOR 2
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/607?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-id="" tvg-logo="https://i.ibb.co/wyCVpXJ/tivibu-spor-3.png" group-title="SPOR-X",TIVIBI SPOR 3
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/608?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="TIVIBU SPOR 4" tvg-id="" tvg-logo="https://i.ibb.co/6gWtBM3/tivibu-spor-4.png" group-title="SPOR-X",TIVIBI SPOR 4
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/609?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="S SPORT" tvg-id="S.Sport.tr" tvg-logo="https://i.ibb.co/51RqLRP/s-sport.png" group-title="SPOR-X",S SPORT
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3450?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="S.Sport2.tr" tvg-logo="https://i.ibb.co/YccKHLm/s-sport-2.png" group-title="SPOR-X",S SPORT 2
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/3451?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="SPOR SMART" tvg-id="Spor.Smart.tr" tvg-logo="https://i.ibb.co/QcLZ4Sn/spor-smart.png" group-title="SPOR-X",SPOR SMART
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/102?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
-#EXTINF:-1 tvg-name="SPOR SMART 2" tvg-id="SPOR.SMART.2.tr" tvg-logo="https://i.ibb.co/DY6MWKj/spor-smart-2.png" group-title="SPOR-X",SPOR SMART 2
-https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/104?/chunklist_hd.m3u8?|Referer=https://olalivehdplay.ru/&e=.m3u8
 #EXTINF:-1 tvg-name="TRACE SPORTS" tvg-id="" tvg-logo="https://i.ibb.co/26fY31B/da-vinci.png" group-title="BELGESEL",TRACE SPORTS
 http://95.67.12.82:9067
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-id="" tvg-logo="https://i.ibb.co/thHBkvY/viasat-history.png" group-title="BELGESEL",LOVE NATURE
