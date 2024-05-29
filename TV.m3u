@@ -65,5 +65,459 @@ http://95.67.12.82:9098
 https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-name="WILDEARTH" tvg-id="" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="BELGESEL",WILDEARTH
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-name="TARIHTV" tvg-id="" tvg-logo="https://i.ibb.co/jDB9dc5/viasat-explore.png" group-title="BELGESEL",TARIH
-https://live.anystreamrectv3.live/live/tarih.m3u8
+#EXTINF:0,Furrera Action
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3563
+#EXTINF:0,Furrera Cinema
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2545
+#EXTINF:0,Furrera Aflam
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2701
+#EXTINF:0,Furrera Kids
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3401
+#EXTINF:0,Furrera Documentary
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3564
+#EXTINF:0,FeleSport 1 4K
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2607
+#EXTINF:0,FeleSport 2 4K
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2611
+#EXTINF:0,FeleSport 3 4K
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2609
+#EXTINF:0,MBC1 HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1888
+#EXTINF:0,MBC2 HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1890
+#EXTINF:0,MBC3 HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1892
+#EXTINF:0,MBC4 HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1894
+#EXTINF:0,MBC5 HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2621
+#EXTINF:0,MBC Max HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1889
+#EXTINF:0,MBC IRAQ HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2025
+#EXTINF:0,MBC Action HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1887
+#EXTINF:0,MBC Drama HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1885
+#EXTINF:0,MBC Drama+ HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2623
+#EXTINF:0,MBC Variety +
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3967
+#EXTINF:0,MBC Bollywood
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1886
+#EXTINF:0,MBC MASR
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2496
+#EXTINF:0,MBC Masr2
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2497
+#EXTINF:0,MBC Persia
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2625
+#EXTINF:0,MBC Power+
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4167
+#EXTINF:0,MBC eLife
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4168
+#EXTINF:0,Palestine HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1928
+#EXTINF:0,Palestine Live HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1933
+#EXTINF:0,Al Seraj TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2530
+#EXTINF:0,Al Jazeera HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1881
+#EXTINF:0,Al Jazeera English HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1872
+#EXTINF:0,Al Jazeera Mubasher HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1877
+#EXTINF:0,Al Ghad HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3362
+#EXTINF:0,Al Mashhad HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4174
+#EXTINF:0,Al Manar
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2481
+#EXTINF:0,AL Mayadeen TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2482
+#EXTINF:0,Al Arabiya Alhadath
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2485
+#EXTINF:0,Sky News Arabia HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1964
+#EXTINF:0,Al Arabiya
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1904
+#EXTINF:0,Al Araby HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2317
+#EXTINF:0,AL Araby 2 HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3877
+#EXTINF:0,BBC Arabic HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3178
+#EXTINF:0,RO'YA HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2041
+#EXTINF:0,Roya Comedy
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4196
+#EXTINF:0,Roya Masrh
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4197
+#EXTINF:0,Roya Islamic
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4198
+#EXTINF:0,Roya Action
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4199
+#EXTINF:0,Roya Music
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4200
+#EXTINF:0,Roya Drama
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4194
+#EXTINF:0,Roya Documentaries
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4201
+#EXTINF:0,ROYA ADVENTURES
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4202
+#EXTINF:0,ROYA THE BIG WORLD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4203
+#EXTINF:0,ROYA AROUND THE WORLD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4204
+#EXTINF:0,ROYA STORIES
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4205
+#EXTINF:0,ROYA KITCHEN
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4206
+#EXTINF:0,ROYA CHIEF MANN
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4207
+#EXTINF:0,ROYA GALTA
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4208
+#EXTINF:0,ROYA NADIN
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4209
+#EXTINF:0,ROYA REDBULL
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4210
+#EXTINF:0,ROYA ZST
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4211
+#EXTINF:0,ROYA 911
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4212
+#EXTINF:0,Roya Palestine
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4244
+#EXTINF:0,ROYA SOCIAL
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4213
+#EXTINF:0,Roya Sett Alnakhat
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4245
+#EXTINF:0,Roya Ramadan 2024
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4246
+#EXTINF:0,BBC World News HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1950
+#EXTINF:0,TRT Arabi HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1935
+#EXTINF:0,CNN
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2005
+#EXTINF:0,RT Arabic HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1936
+#EXTINF:0,France 24 HD Arabic
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1931
+#EXTINF:0,France 24 HD English
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1929
+#EXTINF:0,i24 News Arabic
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2504
+#EXTINF:0,Al Hurra HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1917
+#EXTINF:0,Al Hurra TV Iraq
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3357
+#EXTINF:0,Zain TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4193
+#EXTINF:0,Radio Basma
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4243
+#EXTINF:0,Raya TV 1
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4141
+#EXTINF:0,Raya TV 2
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4142
+#EXTINF:0,Raya TV 3
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4143
+#EXTINF:0,Fajer TV 1
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2199
+#EXTINF:0,Fajer TV 2
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2200
+#EXTINF:0,Fajer TV 3
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4084
+#EXTINF:0,Fajer TV 4
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4085
+#EXTINF:0,Fajer TV 5
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4086
+#EXTINF:0,Post TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4067
+#EXTINF:0,Post Sport TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4068
+#EXTINF:0,AJYAL TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2123
+#EXTINF:0,Maan TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2040
+#EXTINF:0,Hala Ramallah
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2667
+#EXTINF:0,PNN
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2858
+#EXTINF:0,Watan
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2762
+#EXTINF:0,Watar
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4049
+#EXTINF:0,Hebron Sat
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4074
+#EXTINF:0,Palestine EDU HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2856
+#EXTINF:0,Palestine Sport
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1953
+#EXTINF:0,Musawa HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1941
+#EXTINF:0,Awdeh
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2052
+#EXTINF:0,ALKOFIYA
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2197
+#EXTINF:0,Rajeen
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4087
+#EXTINF:0,Nablus 1
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4027
+#EXTINF:0,Nablus 2
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4028
+#EXTINF:0,Nablus 3
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4029
+#EXTINF:0,Radio Mawwal Bethlehem
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4249
+#EXTINF:0,Shabab Quran
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4081
+#EXTINF:0,Nablus Quran Kareem
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2605
+#EXTINF:0,Nablus TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2601
+#EXTINF:0,Nawras TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4083
+#EXTINF:0,Kol Nas TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3760
+#EXTINF:0,AL Najah
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4070
+#EXTINF:0,Salam TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3146
+#EXTINF:0,Marah TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3263
+#EXTINF:0,Al Hureya 1
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3274
+#EXTINF:0,Palestine Today
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3363
+#EXTINF:0,Radio Shabab Nablus
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3898
+#EXTINF:0,Al Madina
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3807
+#EXTINF:0,Hekaya
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4026
+#EXTINF:0,Saudi ch for Quran HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1900
+#EXTINF:0,Saudi Ch for Sunnah HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1908
+#EXTINF:0,MTA 3
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3113
+#EXTINF:0,AL Istiqama
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3316
+#EXTINF:0,Hadramaus TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3328
+#EXTINF:0,Rehan TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4250
+#EXTINF:0,Teleliban TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2205
+#EXTINF:0,MTV Lebanon HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1932
+#EXTINF:0,ALJADEED
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2204
+#EXTINF:0,LBCI
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2206
+#EXTINF:0,LBC HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1862
+#EXTINF:0,NBN HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2207
+#EXTINF:0,O TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2503
+#EXTINF:0,Aghani
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2522
+#EXTINF:0,Arabica
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2525
+#EXTINF:0,Taha
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3152
+#EXTINF:0,Suboro Tv
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3904
+#EXTINF:0,Al Mamlaka TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2004
+#EXTINF:0,Amman TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2006
+#EXTINF:0,Jordan HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1991
+#EXTINF:0,CNBC Arabiya
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1982
+#EXTINF:0,Al hureya
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4177
+#EXTINF:0,Al Hureya Sport
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4178
+#EXTINF:0,Lana TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1977
+#EXTINF:0,Sama TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2191
+#EXTINF:0,Rotana Music HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1901
+#EXTINF:0,Wanasah
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1879
+#EXTINF:0,Syria TV
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2516
+#EXTINF:0,Syria Drama
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2515
+#EXTINF:0,Majid Kids TV HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2028
+#EXTINF:0,Nile News HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2027
+#EXTINF:0,El Sharq
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2707
+#EXTINF:0,EL Sharq LIVE
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=4225
+#EXTINF:0,PEACE TV HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=1863
+#EXTINF:0,KAN 11 HD
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=2084
+#EXTINF:0,Ch 12 Keshet
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3060
+#EXTINF:0,Ch 13 Reshet
+#EXTVLCOPT:http-user-agent=FMP (Linux) ExoPlayerLib/2.10.8
+http://laurakaren.serv00.net/Furrera.php?HLS=3062
