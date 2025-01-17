@@ -238,11 +238,17 @@ https://streaming.thestream.cyou/live/43-playlist.m3u8
 https://streaming.thestream.cyou/live/44-playlist.m3u8
 https://streaming.thestream.cyou/live/45-playlist.m3u8
 https://streaming.thestream.cyou/live/46-playlist.m3u8
+#EXTINF:0, 1001
 https://stream1.itv.uz/1001/playlist.m3u8
+#EXTINF:0, 1002
 https://stream1.itv.uz/1002/playlist.m3u8
+#EXTINF:0, 1003
 https://stream1.itv.uz/1003/playlist.m3u8
+#EXTINF:0, 1004
 https://stream1.itv.uz/1004/playlist.m3u8
+#EXTINF:0, 1005
 https://stream1.itv.uz/1005/playlist.m3u8
+#EXTINF:0, 1006
 https://stream1.itv.uz/1006/playlist.m3u8
 https://stream1.itv.uz/1007/playlist.m3u8
 https://stream1.itv.uz/1008/playlist.m3u8
@@ -447,7 +453,9 @@ https://stream1.itv.uz/1421/playlist.m3u8
 https://stream1.itv.uz/1422/playlist.m3u8
 https://stream1.itv.uz/1423/playlist.m3u8
 https://stream1.itv.uz/1424/playlist.m3u8
+#EXTINF:0, 1425
 https://stream1.itv.uz/1425/playlist.m3u8
+#EXTINF:0, 1426
 https://stream1.itv.uz/1426/playlist.m3u8
 #EXTINF:0, 1427
 https://stream1.itv.uz/1427/playlist.m3u8
