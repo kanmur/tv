@@ -209,7 +209,7 @@ https://tv.arectv3.xyz:443/live/bil1.m3u8
 #EXTINF:0, bil2
 https://tv.arectv3.xyz:443/live/bil2.m3u8
 #EXTINF:0,19. FUTBOL1 RUS
-http://185.129.1.242:80/matchfutbol1/mpegts?checkedby:iptvcat.com
+http://185.129.1.242:80/matchfutbol1/mpegts?token=test
 #EXTINF:0,20. Kanal D
 http://185.129.1.242/kanald/mpegts?token=test
 #EXTINF:0,21. Star TV
