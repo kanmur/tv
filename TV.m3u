@@ -208,12 +208,12 @@ https://tv.arectv3.xyz:443/live/ger2.m3u8
 https://tv.arectv3.xyz:443/live/bil1.m3u8
 #EXTINF:0, bil2
 https://tv.arectv3.xyz:443/live/bil2.m3u8
-#EXTINF:0,19. FUTBOL1 RUS
+#EXTINF:0,FUTBOL1 RUS
 http://185.129.1.242:80/matchfutbol1/mpegts?token=test
-#EXTINF:0,20. Kanal D
-http://185.129.1.242/kanald/mpegts?token=test
-#EXTINF:0,21. Star TV
-http://185.129.1.242:80/startv/mpegts?token=test
+#EXTINF:0,FUTBOL2 RUS
+http://185.129.1.242/matchfutbol2/mpegts?token=test
+#EXTINF:0,FUTBOL3 RUS
+http://185.129.1.242:80/matchfutbol3/mpegts?token=test
 #EXTINF:0,22. Show TV
 http://185.129.1.242:80/showtv/mpegts?token=test
 #EXTINF:0,23. NOW TV
