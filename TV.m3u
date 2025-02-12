@@ -208,254 +208,79 @@ https://tv.arectv3.xyz:443/live/ger2.m3u8
 https://tv.arectv3.xyz:443/live/bil1.m3u8
 #EXTINF:0, bil2
 https://tv.arectv3.xyz:443/live/bil2.m3u8
-https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
-https://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8?hls_proxy_host=22b5db40ced763465289cd8236e019fb
-https://v4.proofix.ru/8tv-russia/tracks-v1a1/mono.ts.m3u8
-https://streaming.thestream.cyou/live/211-playlist.m3u8
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/int/tracks-v1a1/mono.m3u8?hls_proxy_host=66b2d1fd60123162dc1839635f0d1180
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-https://spas.mediacdn.ru/cdn/spas/playlist_sdhigh.m3u8
-https://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/tracks-v1a1/mono.m3u8?hls_proxy_host=81bff34f754eb9b7c8ac62a9fc335fa4
-https://origin5.mediacdn.ru/live/prodvizhenie_new/tracks-v1a1/mono.m3u8
-https://e5-online-video.rbc.ru/online2/rbctvhd_480p/index.m3u8
-https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
-https://j3.cdntv.online/high/ynemik5cl9/19.m3u8
-https://hls.goodgame.ru/hls/157239.m3u8
-https://hls.goodgame.ru/hls/5346.m3u8
-http://178.57.121.38:8080/perez/tracks-v1a1/mono.m3u8?token=test
-https://streaming.thestream.cyou/live/210-playlist.m3u8
-https://streaming.thestream.cyou/live/211-playlist.m3u8
-https://streaming.thestream.cyou/live/213-playlist.m3u8
-https://streaming.thestream.cyou/live/232-playlist.m3u8
-https://streaming.thestream.cyou/live/250-playlist.m3u8
-https://streaming.thestream.cyou/live/296-playlist.m3u8
-https://streaming.thestream.cyou/live/30-playlist.m3u8
-https://streaming.thestream.cyou/live/38-playlist.m3u8
-https://streaming.thestream.cyou/live/43-playlist.m3u8
-https://streaming.thestream.cyou/live/44-playlist.m3u8
-https://streaming.thestream.cyou/live/45-playlist.m3u8
-https://streaming.thestream.cyou/live/46-playlist.m3u8
-#EXTINF:0, 1001
-https://stream1.itv.uz/1001/playlist.m3u8
-#EXTINF:0, 1002
-https://stream1.itv.uz/1002/playlist.m3u8
-#EXTINF:0, 1003
-https://stream1.itv.uz/1003/playlist.m3u8
-#EXTINF:0, 1004
-https://stream1.itv.uz/1004/playlist.m3u8
-#EXTINF:0, 1005
-https://stream1.itv.uz/1005/playlist.m3u8
-#EXTINF:0, 1006
-https://stream1.itv.uz/1006/playlist.m3u8
-https://stream1.itv.uz/1007/playlist.m3u8
-https://stream1.itv.uz/1008/playlist.m3u8
-https://stream1.itv.uz/1009/playlist.m3u8
-https://stream1.itv.uz/1010/playlist.m3u8
-https://stream1.itv.uz/1011/playlist.m3u8
-https://stream1.itv.uz/1012/playlist.m3u8
-https://stream1.itv.uz/1013/playlist.m3u8
-https://stream1.itv.uz/1014/playlist.m3u8
-https://stream1.itv.uz/1015/playlist.m3u8
-https://stream1.itv.uz/1016/playlist.m3u8
-https://stream1.itv.uz/1017/playlist.m3u8
-https://stream1.itv.uz/1018/playlist.m3u8
-https://stream1.itv.uz/1019/playlist.m3u8
-https://stream1.itv.uz/1020/playlist.m3u8
-https://stream1.itv.uz/1021/playlist.m3u8
-https://stream1.itv.uz/1022/playlist.m3u8
-https://stream1.itv.uz/1023/playlist.m3u8
-https://stream1.itv.uz/1024/playlist.m3u8
-https://stream1.itv.uz/1025/playlist.m3u8
-https://stream1.itv.uz/1026/playlist.m3u8
-https://stream1.itv.uz/1027/playlist.m3u8
-https://stream1.itv.uz/1028/playlist.m3u8
-https://stream1.itv.uz/1029/playlist.m3u8
-https://stream1.itv.uz/1030/playlist.m3u8
-https://stream1.itv.uz/1031/playlist.m3u8
-https://stream1.itv.uz/1032/playlist.m3u8
-https://stream1.itv.uz/1033/playlist.m3u8
-https://stream1.itv.uz/1034/playlist.m3u8
-https://stream1.itv.uz/1035/playlist.m3u8
-https://stream1.itv.uz/1036/playlist.m3u8
-https://stream1.itv.uz/1037/playlist.m3u8
-https://stream1.itv.uz/1038/playlist.m3u8
-https://stream1.itv.uz/1039/playlist.m3u8
-https://stream1.itv.uz/1040/playlist.m3u8
-https://stream1.itv.uz/1041/playlist.m3u8
-https://stream1.itv.uz/1042/playlist.m3u8
-https://stream1.itv.uz/1043/playlist.m3u8
-https://stream1.itv.uz/1044/playlist.m3u8
-https://stream1.itv.uz/1045/playlist.m3u8
-https://stream1.itv.uz/1046/playlist.m3u8
-https://stream1.itv.uz/1047/playlist.m3u8
-https://stream1.itv.uz/1048/playlist.m3u8
-https://stream1.itv.uz/1049/playlist.m3u8
-https://stream1.itv.uz/1050/playlist.m3u8
-https://stream1.itv.uz/1051/playlist.m3u8
-https://stream1.itv.uz/1052/playlist.m3u8
-https://stream1.itv.uz/1053/playlist.m3u8
-https://stream1.itv.uz/1054/playlist.m3u8
-https://stream1.itv.uz/1055/playlist.m3u8
-https://stream1.itv.uz/1056/playlist.m3u8
-https://stream1.itv.uz/1057/playlist.m3u8
-https://stream1.itv.uz/1058/playlist.m3u8
-https://stream1.itv.uz/1059/playlist.m3u8
-https://stream1.itv.uz/1060/playlist.m3u8
-https://stream1.itv.uz/1061/playlist.m3u8
-https://stream1.itv.uz/1062/playlist.m3u8
-https://stream1.itv.uz/1063/playlist.m3u8
-https://stream1.itv.uz/1200/playlist.m3u8
-https://stream1.itv.uz/1201/playlist.m3u8
-https://stream1.itv.uz/1202/playlist.m3u8
-https://stream1.itv.uz/1203/playlist.m3u8
-https://stream1.itv.uz/1204/playlist.m3u8
-https://stream1.itv.uz/1205/playlist.m3u8
-https://stream1.itv.uz/1206/playlist.m3u8
-https://stream1.itv.uz/1207/playlist.m3u8
-https://stream1.itv.uz/1208/playlist.m3u8
-https://stream1.itv.uz/1209/playlist.m3u8
-https://stream1.itv.uz/1210/playlist.m3u8
-https://stream1.itv.uz/1211/playlist.m3u8
-https://stream1.itv.uz/1212/playlist.m3u8
-https://stream1.itv.uz/1213/playlist.m3u8
-https://stream1.itv.uz/1214/playlist.m3u8
-https://stream1.itv.uz/1215/playlist.m3u8
-https://stream1.itv.uz/1216/playlist.m3u8
-https://stream1.itv.uz/1217/playlist.m3u8
-https://stream1.itv.uz/1218/playlist.m3u8
-https://stream1.itv.uz/1219/playlist.m3u8
-https://stream1.itv.uz/1220/playlist.m3u8
-https://stream1.itv.uz/1221/playlist.m3u8
-https://stream1.itv.uz/1222/playlist.m3u8
-https://stream1.itv.uz/1225/playlist.m3u8
-https://stream1.itv.uz/1226/playlist.m3u8
-https://stream1.itv.uz/1227/playlist.m3u8
-https://stream1.itv.uz/1228/playlist.m3u8
-https://stream1.itv.uz/1229/playlist.m3u8
-https://stream1.itv.uz/1230/playlist.m3u8
-https://stream1.itv.uz/1231/playlist.m3u8
-https://stream1.itv.uz/1232/playlist.m3u8
-https://stream1.itv.uz/1233/playlist.m3u8
-https://stream1.itv.uz/1234/playlist.m3u8
-https://stream1.itv.uz/1235/playlist.m3u8
-https://stream1.itv.uz/1236/playlist.m3u8
-https://stream1.itv.uz/1237/playlist.m3u8
-https://stream1.itv.uz/1238/playlist.m3u8
-https://stream1.itv.uz/1239/playlist.m3u8
-https://stream1.itv.uz/1240/playlist.m3u8
-https://stream1.itv.uz/1241/playlist.m3u8
-https://stream1.itv.uz/1242/playlist.m3u8
-https://stream1.itv.uz/1243/playlist.m3u8
-https://stream1.itv.uz/1244/playlist.m3u8
-https://stream1.itv.uz/1245/playlist.m3u8
-https://stream1.itv.uz/1246/playlist.m3u8
-https://stream1.itv.uz/1247/playlist.m3u8
-https://stream1.itv.uz/1248/playlist.m3u8
-https://stream1.itv.uz/1249/playlist.m3u8
-https://stream1.itv.uz/1250/playlist.m3u8
-https://stream1.itv.uz/1251/playlist.m3u8
-https://stream1.itv.uz/1252/playlist.m3u8
-https://stream1.itv.uz/1253/playlist.m3u8
-https://stream1.itv.uz/1254/playlist.m3u8
-https://stream1.itv.uz/1255/playlist.m3u8
-https://stream1.itv.uz/1256/playlist.m3u8
-https://stream1.itv.uz/1257/playlist.m3u8
-https://stream1.itv.uz/1258/playlist.m3u8
-https://stream1.itv.uz/1259/playlist.m3u8
-https://stream1.itv.uz/1260/playlist.m3u8
-https://stream1.itv.uz/1261/playlist.m3u8
-https://stream1.itv.uz/1262/playlist.m3u8
-https://stream1.itv.uz/1263/playlist.m3u8
-https://stream1.itv.uz/1264/playlist.m3u8
-https://stream1.itv.uz/1265/playlist.m3u8
-https://stream1.itv.uz/1266/playlist.m3u8
-https://stream1.itv.uz/1267/playlist.m3u8
-https://stream1.itv.uz/1270/playlist.m3u8
-https://stream1.itv.uz/1271/playlist.m3u8
-https://stream1.itv.uz/1272/playlist.m3u8
-https://stream1.itv.uz/1273/playlist.m3u8
-https://stream1.itv.uz/1274/playlist.m3u8
-https://stream1.itv.uz/1276/playlist.m3u8
-https://stream1.itv.uz/1277/playlist.m3u8
-https://stream1.itv.uz/1278/playlist.m3u8
-https://stream1.itv.uz/1279/playlist.m3u8
-https://stream1.itv.uz/1280/playlist.m3u8
-https://stream1.itv.uz/1281/playlist.m3u8
-https://stream1.itv.uz/1282/playlist.m3u8
-https://stream1.itv.uz/1283/playlist.m3u8
-https://stream1.itv.uz/1284/playlist.m3u8
-https://stream1.itv.uz/1285/playlist.m3u8
-https://stream1.itv.uz/1404/playlist.m3u8
-https://stream1.itv.uz/1405/playlist.m3u8
-https://stream1.itv.uz/1406/playlist.m3u8
-https://stream1.itv.uz/1407/playlist.m3u8
-https://stream1.itv.uz/1408/playlist.m3u8
-https://stream1.itv.uz/1409/playlist.m3u8
-https://stream1.itv.uz/1410/playlist.m3u8
-https://stream1.itv.uz/1411/playlist.m3u8
-https://stream1.itv.uz/1412/playlist.m3u8
-https://stream1.itv.uz/1413/playlist.m3u8
-https://stream1.itv.uz/1414/playlist.m3u8
-https://stream1.itv.uz/1415/playlist.m3u8
-https://stream1.itv.uz/1416/playlist.m3u8
-https://stream1.itv.uz/1417/playlist.m3u8
-https://stream1.itv.uz/1418/playlist.m3u8
-https://stream1.itv.uz/1419/playlist.m3u8
-https://stream1.itv.uz/1420/playlist.m3u8
-https://stream1.itv.uz/1421/playlist.m3u8
-https://stream1.itv.uz/1422/playlist.m3u8
-https://stream1.itv.uz/1423/playlist.m3u8
-https://stream1.itv.uz/1424/playlist.m3u8
-https://stream1.itv.uz/1425/playlist.m3u8
-https://stream1.itv.uz/1426/playlist.m3u8
-https://stream1.itv.uz/1427/playlist.m3u8
-https://stream1.itv.uz/1428/playlist.m3u8
-https://stream1.itv.uz/1429/playlist.m3u8
-https://stream1.itv.uz/1430/playlist.m3u8
-https://stream1.itv.uz/1431/playlist.m3u8
-https://stream1.itv.uz/1432/playlist.m3u8
-https://stream1.itv.uz/1433/playlist.m3u8
-https://stream1.itv.uz/1434/playlist.m3u8
-https://stream1.itv.uz/1435/playlist.m3u8
-https://stream1.itv.uz/1436/playlist.m3u8
-https://stream1.itv.uz/1437/playlist.m3u8
-https://stream1.itv.uz/1438/playlist.m3u8
-https://stream1.itv.uz/1439/playlist.m3u8
-https://stream1.itv.uz/1440/playlist.m3u8
-https://stream1.itv.uz/1441/playlist.m3u8
-https://stream1.itv.uz/1442/playlist.m3u8
-https://stream1.itv.uz/1443/playlist.m3u8
-https://stream1.itv.uz/1444/playlist.m3u8
-https://stream1.itv.uz/1445/playlist.m3u8
-https://stream1.itv.uz/1446/playlist.m3u8
-https://stream1.itv.uz/1447/playlist.m3u8
-https://stream1.itv.uz/1448/playlist.m3u8
-https://stream1.itv.uz/1449/playlist.m3u8
-https://stream1.itv.uz/1455/playlist.m3u8
-https://stream1.itv.uz/1456/playlist.m3u8
-https://stream1.itv.uz/1457/playlist.m3u8
-https://stream1.itv.uz/1458/playlist.m3u8
-https://stream1.itv.uz/1464/playlist.m3u8
-https://stream1.itv.uz/1467/playlist.m3u8
-https://stream1.itv.uz/1469/playlist.m3u8
-https://stream1.itv.uz/1470/playlist.m3u8
-https://stream1.itv.uz/1472/playlist.m3u8
-https://stream1.itv.uz/1473/playlist.m3u8
-https://stream1.itv.uz/1474/playlist.m3u8
-https://stream1.itv.uz/1475/playlist.m3u8
-https://stream1.itv.uz/1476/playlist.m3u8
-https://stream1.itv.uz/1500/playlist.m3u8
-https://stream1.itv.uz/1420/playlist.m3u8
-https://stream1.itv.uz/1421/playlist.m3u8
-https://stream1.itv.uz/1422/playlist.m3u8
-https://stream1.itv.uz/1423/playlist.m3u8
-https://stream1.itv.uz/1424/playlist.m3u8
-#EXTINF:0, 1425
-https://stream1.itv.uz/1425/playlist.m3u8
-#EXTINF:0, 1426
-https://stream1.itv.uz/1426/playlist.m3u8
-#EXTINF:0, 1427
-https://stream1.itv.uz/1427/playlist.m3u8
+#EXTINF:0,19. FUTBOL1 RUS
+http://185.129.1.242:80/matchfutbol1/mpegts?token=test
+#EXTINF:0,20. Kanal D
+http://185.129.1.242/kanald/mpegts?token=test
+#EXTINF:0,21. Star TV
+http://185.129.1.242:80/startv/mpegts?token=test
+#EXTINF:0,22. Show TV
+http://185.129.1.242:80/showtv/mpegts?token=test
+#EXTINF:0,23. NOW TV
+http://185.129.1.242/foxtvturk/mpegts?token=test
+#EXTINF:0,24. Kanal 7
+http://185.129.1.242:80/kanal7/mpegts?token=test
+#EXTINF:0,25. TV2
+http://185.129.1.242:80/tv2/mpegts?token=test
+#EXTINF:0,26. TV8
+http://185.129.1.242:80/tv8/mpegts?token=test
+#EXTINF:0,27. TV8 Int
+http://185.129.1.242:80/tv8int/mpegts?token=test
+#EXTINF:0,28. NTV Türkiye
+http://185.129.1.242:80/ntvturk/mpegts?token=test
+#EXTINF:0,29. TRT 1
+http://185.129.1.242:80/trt1/mpegts?token=test
+#EXTINF:0,30. TRT Türk
+http://185.129.1.242:80/trtturk/mpegts?token=test
+#EXTINF:0,31. TRT Haber
+http://185.129.1.242:80/trthaber/mpegts?token=test
+#EXTINF:0,32. 360
+http://185.129.1.242:80/360TV/mpegts?token=test
+#EXTINF:0,33. Haber Turk
+http://185.129.1.242:80/haberturk/mpegts?token=test
+#EXTINF:0,34. A Haber
+http://185.129.1.242:80/ahaber/mpegts?token=test
+#EXTINF:0,35. TELE 1
+http://185.129.1.242:80/TELE1/mpegts?token=test
+#EXTINF:0,36. CNN TURK
+http://185.129.1.242:80/cnnturk/mpegts?token=test
+#EXTINF:0,37. Bloomberg Türk
+http://185.129.1.242:80/Bloomberg/mpegts?token=test
+#EXTINF:0,38. TRT Belgesel HD
+http://185.129.1.242:80/trtbelgeselhd/mpegts?token=test
+#EXTINF:0,39. Berat TV
+http://185.129.1.242/berattv/mpegts?token=test
+#EXTINF:0,40. Dmax HD
+http://185.129.1.242:80/dmaxhd/mpegts?token=test
+#EXTINF:0,41. TLC Turk HD
+http://185.129.1.242:80/tlcturkhd/mpegts?token=test
+#EXTINF:0,42. TRT SPOR HD
+http://185.129.1.242:80/trtsporhd/mpegts?token=test
+#EXTINF:0,43. A Spor HD
+http://185.129.1.242:80/asporhd/mpegts?token=test
+#EXTINF:0,44. tivibu SPOR
+http://185.129.1.242:80/tivibuSPOR/mpegts?token=test
+#EXTINF:0,45. FB TV
+http://185.129.1.242/fb/mpegts?token=test
+#EXTINF:0,46. Minika Çocuk
+http://185.129.1.242:80/minikacocuk/mpegts?token=test
+#EXTINF:0,47. Minika Go
+http://185.129.1.242:80/minikago/mpegts?token=test
+#EXTINF:0,48. TRT Çocuk HD
+http://185.129.1.242:80/trtcocukhd/mpegts?token=test
+#EXTINF:0,49. Çocuk SMART HD
+http://185.129.1.242/cocuksmarthd/mpegts?token=test
+#EXTINF:0,50. Cartoon Network Tr
+http://185.129.1.242:80/cartoonnetwo...gts?token=test
+#EXTINF:0,51. NR1 Turk
+http://185.129.1.242:80/nr1turkhd/mpegts?token=test
+#EXTINF:0,52. Tatlıses
+http://185.129.1.242:80/Tatlises/mpegts?token=test
+#EXTINF:0,53. Dream Turk HD
+http://185.129.1.242:80/dreamturk/mpegts?token=test
+#EXTINF:0,54. TMB TV HD
+http://185.129.1.242/tmbturk/mpegts?token=test
+#EXTINF:0,55. TRT AVAZ HD
+http://185.129.1.242:80/trtavaz/mpegts?token=test
+#EXTINF:0,56. TempoTv
+http://185.129.1.242/tempotv/mpegts?token=test
