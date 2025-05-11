@@ -1,163 +1,1241 @@
-#EXTM3U
-#EXTINF:-1,TABİİ SPOR 1
-https://tabii-spor.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TABİİ SPOR 2
-https://tabii-spor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TABİİ SPOR 3
-https://tabii-spor3.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TABİİ SPOR 4
-https://tabii-spor4.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TABİİ SPOR 5
-https://tabii-spor5.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TABİİ SPOR 6
-https://tabii-spor6.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,EUROSPORT 1 BLUTV
-https://d1ry0tq05gs10r.cloudfront.net/out/v1/7f32ad91a5384123be10850487fd669a/index.m3u8
-#EXTINF:-1,EUROSPORT 2 BLUTV
-https://d12i7u2tmvmyze.cloudfront.net/out/v1/fe0dcdbc92f34eccac00df6d7b52ebe2/index.m3u8
-#EXTINF:-1,EUROSPORT 3 BLUTV
-https://d1m5647xilimr4.cloudfront.net/out/v1/955d5d90fa5247dca98839adc5c0a16b/index.m3u8
-#EXTINF:-1,EUROSPORT 4 BLUTV
-https://d28x47c58ja819.cloudfront.net/out/v1/e7e967b4b9904d8da44812692796a8d4/index.m3u8
-#EXTINF:-1,EUROSPORT 5 BLUTV
-https://d1bn0xr4zxv7zv.cloudfront.net/out/v1/cdbb553658e74f8a8003ae3d33e3fe5f/index.m3u8
-#EXTINF:-1,EUROSPORT 6 BLUTV
-https://d2i8i5our07l5g.cloudfront.net/out/v1/0b43ba8991954d9590fd5fe0eadeb635/index.m3u8
-#EXTINF:-1,EUROSPORT 7 BLUTV
-https://d2caitgb7lnkie.cloudfront.net/out/v1/4a7be8a0a55944b7801f29ec2aa83652/index.m3u8
-#EXTINF:-1,EUROSPORT 8 BLUTV
-https://d2ggogrshs0gag.cloudfront.net/out/v1/e8d938ffe10f4efca9d49e7f104ff7e3/index.m3u8
-#EXTINF:-1,EUROSPORT 9 BLUTV
-https://d82ppvpgge0np.cloudfront.net/out/v1/57e4e11e0b754ff881f638ec60b98417/index.m3u8
-#EXTINF:-1,BYHORSES BLUTV
-https://byhorses.blutv.com/blutv_byhorses/smil:blutv_byhorses.smil/playlist.m3u8
-FOX
-http://laurakaren.serv00.net/Gledai.php?ID=foxtv
-ATV
-http://laurakaren.serv00.net/Gledai.php?ID=atv
-STAR
-http://laurakaren.serv00.net/Gledai.php?ID=startv
-KANAL D
-http://laurakaren.serv00.net/Gledai.php?ID=kanald
-SHOW
-http://laurakaren.serv00.net/Gledai.php?ID=showtv
-TRT 1
-http://laurakaren.serv00.net/Gledai.php?ID=trt1
-DIEMA SPORT
-http://laurakaren.serv00.net/Gledai.php?ID=diemasport
-DIEMA SPORT 2
-http://laurakaren.serv00.net/Gledai.php?ID=diemasport2
-DIEMA SPORT 3
-http://laurakaren.serv00.net/Gledai.php?ID=diemasport3
-MAXSPORT 1 HD
-http://laurakaren.serv00.net/Gledai.php?ID=maxsport
-MAXSPORT 2 HD
-http://laurakaren.serv00.net/Gledai.php?ID=maxsport2
-MAXSPORT 3 HD
-http://laurakaren.serv00.net/Gledai.php?ID=maxsport3
-MAXSPORT 4 HD
-http://laurakaren.serv00.net/Gledai.php?ID=maxsport4
-Eurosport 1
-http://laurakaren.serv00.net/Gledai.php?ID=eurosport
-Eurosport 2
-http://laurakaren.serv00.net/Gledai.php?ID=eurosport2
-Ring Bg
-http://laurakaren.serv00.net/Gledai.php?ID=ringbg
-BNT 3
-http://laurakaren.serv00.net/Gledai.php?ID=bnt3
-BNT 1
-http://laurakaren.serv00.net/Gledai.php?ID=bnt
-BNT 4
-http://laurakaren.serv00.net/Gledai.php?ID=bnt4
-Nova Tv
-http://laurakaren.serv00.net/Gledai.php?ID=novatvbg
-BTV
-http://laurakaren.serv00.net/Gledai.php?ID=btv
-Code Fashion Tv
-http://laurakaren.serv00.net/Gledai.php?ID=codefashiontv
-Investigation Discovery
-http://laurakaren.serv00.net/Gledai.php?ID=investigationdiscovery
-Fox
-http://laurakaren.serv00.net/Gledai.php?ID=fox
-24 Kitchen
-http://laurakaren.serv00.net/Gledai.php?ID=24kitchen
-BTV Lady
-http://laurakaren.serv00.net/Gledai.php?ID=btvlady
-Diema
-http://laurakaren.serv00.net/Gledai.php?ID=diemabg
-Nova Tv
-http://laurakaren.serv00.net/Gledai.php?ID=novatvbg
-BTV Action
-http://laurakaren.serv00.net/Gledai.php?ID=btvaction
-FilmBox Plus
-http://laurakaren.serv00.net/Gledai.php?ID=filmboxplus
-FilmBox Extra
-http://laurakaren.serv00.net/Gledai.php?ID=filmboxextra
-Movie Star
-http://laurakaren.serv00.net/Gledai.php?ID=moviestar
-AXN White
-http://laurakaren.serv00.net/Gledai.php?ID=axnwhite
-AXN Black
-http://laurakaren.serv00.net/Gledai.php?ID=axnblack
-Axn
-http://laurakaren.serv00.net/Gledai.php?ID=axn
-Fox Crime
-http://laurakaren.serv00.net/Gledai.php?ID=foxcrime
-Fox Life
-http://laurakaren.serv00.net/Gledai.php?ID=foxlife
-BTV Comedy
-http://laurakaren.serv00.net/Gledai.php?ID=btvcomedy
-BTV Cinema
-http://laurakaren.serv00.net/Gledai.php?ID=btvcinema
-Diema Family
-http://laurakaren.serv00.net/Gledai.php?ID=diemafamilybg
-Kino Nova
-http://laurakaren.serv00.net/Gledai.php?ID=kinonovabg
-Planeta Folk
-http://laurakaren.serv00.net/Gledai.php?ID=planetafolk
-City Tv
-http://laurakaren.serv00.net/Gledai.php?ID=citytv
-Planeta Tv
-http://laurakaren.serv00.net/Gledai.php?ID=planetatv
-Planeta HD
-http://laurakaren.serv00.net/Gledai.php?ID=planetahd
-Fen Tv
-http://laurakaren.serv00.net/Gledai.php?ID=fantv
-Balkanika Tv
-http://laurakaren.serv00.net/Gledai.php?ID=balkanikatv
-The Voice
-http://laurakaren.serv00.net/Gledai.php?ID=thevoicebg
-Nick JR
-http://laurakaren.serv00.net/Gledai.php?ID=nickjr
-Nicktoons
-http://laurakaren.serv00.net/Gledai.php?ID=nicktoons
-Nickelodeon
-http://laurakaren.serv00.net/Gledai.php?ID=nickelodeon
-Disney Channel
-http://laurakaren.serv00.net/Gledai.php?ID=disneychannel
-Cartoon Network
-http://laurakaren.serv00.net/Gledai.php?ID=cartoonnetwork
-DocuBox
-http://laurakaren.serv00.net/Gledai.php?ID=docubox
-Discovery Science
-http://laurakaren.serv00.net/Gledai.php?ID=discoveryscience
-TLC
-http://laurakaren.serv00.net/Gledai.php?ID=tlc
-Viasat History
-http://laurakaren.serv00.net/Gledai.php?ID=viasathistory
-Viasat Nature
-http://laurakaren.serv00.net/Gledai.php?ID=viasatnature
-Travel Tv
-http://laurakaren.serv00.net/Gledai.php?ID=traveltv
-Viasat Explore
-http://laurakaren.serv00.net/Gledai.php?ID=viasatexplorer
-National Geographic
-http://laurakaren.serv00.net/Gledai.php?ID=nationalgeographic
-Nat Geo Wild
-http://laurakaren.serv00.net/Gledai.php?ID=natgeowild
-Animal Planet
-http://laurakaren.serv00.net/Gledai.php?ID=animalplanet
-History Channel
-http://laurakaren.serv00.net/Gledai.php?ID=historychannel
-Discovery Channel
-http://laurakaren.serv00.net/Gledai.php?ID=discovery
+#EXTM3U x-tvg-url="https://epg.tvcdn.net/guide/tr-guide.xml"
+
+#EXTINF:-1 tvg-name="TJK TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TJKTV" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV HD
+https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TJK TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TJKTV" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK YURTDIŞI TV HD
+https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TAY TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TAYTVHD" tvg-logo="https://pbs.twimg.com/media/GM_nwskXEAAKcOb.jpg:large" group-title="Spor",TAY TV SD
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/track_0_400/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI AT YARIŞLARI HD
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8
+https://dsmartgo-live.ercdn.net/taytv/taytv_1080p.m3u8?st=YDfCXi8ivvxqLB-Qr0thLQ&e=1746747209&uid=7324107414801286404&sid=QwFgYPcCCrvpxw&userid=&reqid=90f86f2be74091fcb2a4f07fe9c84709&tmode=1
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinkral.m3u8#
+
+#EXTINF:-1 tvg-name="HalkTv" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HalkTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png"group-title="HABER",HalkTV HD
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png"group-title="HABER",TELE 1 HD
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png"group-title="ULUSAL",NOW HD
+http://66.160.192.241/foxturk/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1 tvg-name="Star TV"tvg-id="startv.com.tr"tvg-logo="https://i.imgur.com/le0hb7q.png"group-title="ULUSAL",Star TV HD
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?token=WDBlVnFzeUZCcHNCT2xjZkJzMjc5OWI1Z2J3UmQ3aFVHRzFuQVBTZmRLQT0=&sid=7d11gi1c9jj8&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718&ce=3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg90xsB/eurostar22.png"group-title="ULUSAL",EURO STAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
+
+#EXTINF:-1 tvg-id="ATV.COM.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png"group-title="ULUSAL",ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+
+#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.COM.tr"tvg-logo="https://i.imgur.com/ULv7b06.png"group-title="ULUSAL",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7e0dhusd341k&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7dbf2y9dn8jn&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THj0Jrg/eurod22.png"group-title="ULUSAL",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="YABANCI",Kanal D Drama HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Show TV"tvg-id="ShowTV.tr"tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png"group-title="ULUSAL",SHOW TV HD 
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png"group-title="ULUSAL",SHOW TÜRK HD
+https://canlitvulusal.xyz/live/showturk/index.m3u8
+https://ecanlitv3.etvserver.com/showturk.m3u8?tkn=sOgRWgg6z1QLhkIg39N-rQ&tms=1745947059
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="ULUSAL",Show Max HD
+https://github.com/rideordie16/YouTube/raw/main/ch/showmax.m3u8
+
+#EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr"tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png"group-title="ULUSAL",TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png"group-title="ULUSAL",TV8.5 HD
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7e0ljliq5wnk&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beyaz TV"tvg-id="BeyazTV.tr"tvg-logo="https://beyaztv.com.tr/images/logo.png"group-title="ULUSAL",BEYAZ TV HD
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=7cg8vo091pkj&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+
+#EXTINF:-1 tvg-name="360"tvg-id="360.tr"tvg-logo="https://i.imgur.com/eXKohZ5.png"group-title="ULUSAL",360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TV 4"tvg-id="TV4.tr"tvg-logo="https://i.imgur.com/gnkPxVV.png"group-title="ULUSAL",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-name="Teve2"tvg-id="Teve2.tr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png"group-title="ULUSAL",Teve 2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT1.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"group-title="ULUSAL",TRT 1
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7cft216arjhi&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:-1 tvg-name="TRT 2"tvg-id="TRT2.tr"tvg-logo="https://i.imgur.com/h9Q88CW.png"group-title="ULUSAL",TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png"group-title="HABER",FLASH HABER HD
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+
+#EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr"tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png"group-title="HABER",NTV HD
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="CNN TURK HD" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/jpg/59310b5017a91855a65fd3993f085710.jpg" group-title="Canlı TV",CNN TURK HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/cnnturk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="27. |EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",CNN INT
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" user-agent="Star Wars",CNN FAST
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png",GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png",SKY NEWS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png",GB NEWS
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png",REUTERS TV
+https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png",AL JAZEERA NEWS 
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="BloombergHT.tr"tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png"group-title="HABER",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&sid=7cg0zkdxycte&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3
+
+#EXTINF:-1 tvg-name="TGRT Haber"tvg-id="TGRTHaber.tr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt_haber.png"group-title="HABER",TGRT Haber HD
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRTHaber.tr"tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_haber.png"group-title="HABER",TRT Haber HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://1.bp.blogspot.com/-drZSrst5Udc/Xr8AR_5z9WI/AAAAAAAAYbI/z1AW5wsbBjEazrAdc475JRQ38dysGCWvQCLcBGAsYHQ/s1600/tiviturk.jpg"group-title="SİNEMA",TİVİ TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:-1 tvg-name="DMAX Turkey"tvg-id="DMAXTurkey.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="BELGESEL",DMAX TR HD
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=dWFTMldpMlpZdTZsSnJXZDVuK3QrZ2grV3VsRjMwdTJUU2kxRnEzU3l0QT0=&sid=7ctz0sl5ta7g&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1 tvg-name="TLC Turkey"tvg-id="TLCTurkey.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"group-title="BELGESEL",TLC
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=T1owd05oeDliaGxveWlXbENPTlBIeU8yZ3dwSGplU0xXUEZybFpPRXNtST0=&sid=7ctwx1thx4ck&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=eUszS0NleUtUMCtUZnRUUG1LVER5S3puL015bUxLalNMZzFHZkU3eURGcz0=
+
+#EXTINF:-1 tvg-id="89" tvg-name="NATIONAL GEO HD" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" group-title="BELGESEL", NATIONAL GEO HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:-1 tvg-id="88" tvg-name="NATIONAL GEO WILD" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/jpg/ae18d42e87a266954420b315bb23c749.jpg" group-title="BELGESEL", NATIONAL GEO WILD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-name="TRT BELGESEL"tvg-id="TRT BELGESEL"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaa9kOVnaq3Nb69OAvPVYzTSMFqo_-nlqQKCDBBEV__LIfd6_7Q3aXde27JkXnmeUccw&usqp=CAU"group-title="BELGESEL",TRT BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8 
+
+#EXTINF:-1 tvg-id="85" tvg-name="TARİH TV" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="BELGESEL", TARİH TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/tarihtv.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="LOVE NATURE" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/c34095b97dc3f94306666eec346defb8.png" group-title="BELGESEL", LOVE NATURE
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/lovenature.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 1"tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="BEIN SPORTS", BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinkral.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 1"tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="BEIN SPORTS", BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+
+#EXTINF:-1 tvg-name="Bein Sports 2"tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="BEIN SPORTS", BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinb2.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 3" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="BEIN SPORTS",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://r14.af92.workers.dev/static/bs3.m3u8
+
+#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 4" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="BEIN SPORTS",BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://r14.af92.workers.dev/static/bs4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="BEIN SPORTS", BEIN SPORTS 5
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinb5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="TİVİBU SPORTS", Tivibu Sports 1
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayint1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="TİVİBU SPORTS", Tivibu Sports 2
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayint2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="TİVİBU SPORTS", Tivibu Sports 3
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayint3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="TİVİBU SPORTS", Tivibu Sports 4
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayint4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DSMART SPORTS", Smart Sports
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinsmarts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DSMART SPORTS", Smart Sports 2
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinsms2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DeaTHLesS-TR", NBA TV
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinnbatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DeaTHLesS-TR", Tâbii 1
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinex1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DeaTHLesS-TR", Tâbii 2
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinex2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DeaTHLesS-TR", Tâbii 3
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinex3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DeaTHLesS-TR", Tâbii 4
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinex4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DeaTHLesS-TR", Tâbii 5
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinex5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DeaTHLesS-TR", Tâbii 6
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinex6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/s2o0scm.png" group-title="DeaTHLesS-TR", Tâbii 7
+#EXTVLCOPT:http-referrer=https://1028kralbettv.com
+https://t6co.32ufajdjfnsa32.workers.dev/list//yayinex7.m3u8
+
+
+#EXTINF:-1 tvg-name="TRT Spor"tvg-id="TRTSpor.tr"tvg-logo="https://i.imgur.com/jiTZGme.png"group-title="SPOR",TRT Spor HD
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?&sid=7d58voxp0co9&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2
+
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/460px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="Spor",TRT Spor Yildiz HD
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="HT Spor" tvg-id="HT Spor.tr" tvg-logo="https://yt3.googleusercontent.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a=s900-c-k-c0x00ffffff-no-rj" group-title="Spor",HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg"group-title="SPOR",Sports TV HD
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-logo="https://i.imgur.com/2jIItAy.png"group-title="SPOR",S Sport 2 HD
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SSport.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png"group-title="SPOR",S SportV HD
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="S SPORT 2.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="SPOR",Tennis Channel HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TabiiSpor6.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" group-title="SPOR",Tabii Spor 6 HD 
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="PokerGo.us" tvg-logo="https://i.imgur.com/1603HED.png" group-title="SPOR",PokerGo
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="7. |TR|🇹🇷 BELGESEL & YAŞAM",WOMAN KADIN TV HD
+https://embedlp.b-cdn.net/womantv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQtd480/wlife.jpg" group-title="7. |TR|🇹🇷 BELGESEL & YAŞAM",WOMAN LIFE TV HD
+
+#EXTINF:-1 tvg-name="CARAC1" tvg-id="CARAC1" tvg-logo="https://images.seeklogo.com/logo-png/21/1/playboy-logo-png_seeklogo-213001.png"group-title="EROS",CARAC1 TV HD
+https://edge17.vedge.infomaniak.com/livecast/event/chunklist_w110381751.m3u8
+https://edge14.vedge.infomaniak.com/livecast/rougetv/chunklist_w1629681313.m3u8
+
+#EXTINF:-1 tvg-name="CARAC2" tvg-id="CARAC2" tvg-logo="https://images.seeklogo.com/logo-png/21/1/playboy-logo-png_seeklogo-213001.png" group-title="EROS",CARAC2 TV HD
+https://edge14.vedge.infomaniak.com/livecast/onefmmd/chunklist_w359919243.m3u8
+
+#EXTINF:-1 tvg-name="CARAC3" tvg-id="CARAC3" tvg-logo="https://images.seeklogo.com/logo-png/21/1/playboy-logo-png_seeklogo-213001.png" group-title="EROS",CARAC3 TV HD
+https://edge19.vedge.infomaniak.com/livecast/lfmmd/chunklist_w1623174376.m3u8
+
+#EXTINF:-1 tvg-name="CARAC4" tvg-id="CARAC4" tvg-logo="https://images.seeklogo.com/logo-png/21/1/playboy-logo-png_seeklogo-213001.png" group-title="EROS",CARAC4 TV HD
+https://edge13.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w261792525_b3000000.m3u8?spark=b3ea72cd-e8af-42cb-9677-3b90dc32f45f&token=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9grLJCS/fone22.png"group-title="PODYUM",FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="PODYUM",FashionTV Europe HD 
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Midnight Secrets.sp" tvg-name="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="PODYUM",FASHION TV HD  
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="PODYUM",FASHION TV HD  
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="PODYUM",FASHION TV HD  
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/se9_CELEB_INTE_658220.smil/chunklist_b3500000_sleng_t64MTA4MHBAMy41bWJpdA==.m3u8
+
+#EXTINF:-1 tvg-id="KaloopyTV" tvg-name="KaloopyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="PODYUM",KALOOPY TV HD  
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="General",Nickelodeon HD
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV HD
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cine 1" tvg-id="Cine1 Tv.tr" tvg-logo="https://pbs.twimg.com/profile_images/1859948416903593984/-3arVFel_400x400.jpg" group-title="SİNEMA",Cine 1 HD 
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="SİNEMA",Cine5 HD
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Eşref Rüya 1" tvg-id="Eşref Rüya" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/680a8513db0c47dc3f612f77.jpg" group-title="KANAL D DİZİ",Eşref Rüya 1
+https://vod3.cf.dmcdn.net/sec2(YrTIyBa2phSH-yYTN4rufSaSJXXWS8R6Oh66gumVB3K1RPlesvMk2nYtwmW69kYhDxeu6ZtUlagcsD4ZWO6vgAQRzGD5yqdd57TgD85aIbvNzIerhKYHbhw1IuEirgRK3WRMa2O_ywI8iaTbl5FpLtnCllGIog4Ni2qFqhfSiaxl_KQqw4u7kKjXeAtWqGXK)/video/471/308/571803174_mp4_h264_aac_fhd_2.m3u8
+
+#EXTINF:-1 tvg-name="Eşref Rüya 2" tvg-id="Eşref Rüya 2" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/680a8513db0c47dc3f612f77.jpg" group-title="KANAL D DİZİ",Eşref Rüya 2
+https://kanaldvod.duhnet.tv/hls/7/b6/er_2_bolumm/er_2_bolumm.smil/hlssubplaylist-ovbnGvek_oacncx7.m3u8?&app=com.kanald&min=0&max=1250
+
+#EXTINF:-1 tvg-name="Eşref Rüya 3" tvg-id="Eşref Rüya 3" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/680a8513db0c47dc3f612f77.jpg" group-title="KANAL D DİZİ",Eşref Rüya 3
+https://kanaldvod.duhnet.tv/hls/g/Ju/er_3_bolumm/er_3_bolumm.smil/hlssubplaylist-ovbnGvek_oacnmy7.m3u8?&app=com.kanald&min=0&max=1250
+
+#EXTINF:-1 tvg-name="Eşref Rüya 4" tvg-id="Eşref Rüya 4" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/680a8513db0c47dc3f612f77.jpg" group-title="KANAL D DİZİ",Eşref Rüya 4
+https://vod3.cf.dmcdn.net/sec2(Wp0SVMKkrcYDubGoODUCs_YhDu6XdJuebBnQ-1eXigGw4UjpAflcT1z8ephMzwdDecHrQMsgurkpd9VLO6OphG1rknQE74cj68qZ73NbHoC_m3SCHtbkbR6knPMzBBAGnx9bKyj71Fm898XgPvQowgyXdqYxor8A2P0h1D3lLX7qWIr1WF6oCRYH-sCVtJfw)/video/866/094/574490668_mp4_h264_aac_fhd_2.m3u8
+
+#EXTINF:-1 tvg-name="Eşref Rüya 5" tvg-id="Eşref Rüya 5" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/680a8513db0c47dc3f612f77.jpg" group-title="KANAL D DİZİ",Eşref Rüya 5
+https://vod3.cf.dmcdn.net/sec2(5hu6R8yjHPsS46O_Ikd5J5FuHXQ2tPkTEQXrlm0yYpBHwW2jVacJeTik2H2IS5qF0xOKcNSisjhLSA6rLi7bASCdvbZaGq1apaPqlbFINVo5e2H3uyAgZaxKRn3tIgUsEbzaXLWEOtHtAYB8Dum2c8D36_aRE0AfR7c3d9ru45xYktF8n-XlTePdG4Ws7uxM)/video/420/221/575122024_mp4_h264_aac_fhd_2.m3u8
+
+#EXTINF:-1 tvg-name="Eşref Rüya 6" tvg-id="Eşref Rüya 6" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/680a8513db0c47dc3f612f77.jpg" group-title="KANAL D DİZİ",Eşref Rüya 6
+https://vod3.cf.dmcdn.net/sec2(TNYLVkf_T-Vfz0rUgJ0ABVjNzQw2TtsI52lvZtE9MaVeU2BChlmOVVcSJ4RPXkrBZ9ceQ18NZbjllPy8EzHfmRtKd_J3F3LCaCWu51TYkUTAgxRb_-jNaq9MuBFmJdcfIvhnN_HMpVFtTDNOPBaXTEAvft0jrp28ruJzLFzBgZVSqHQUEjsk8getFGRbiow5)/video/281/077/575770182_mp4_h264_aac_fhd_2.m3u8
+
+#EXTINF:-1 tvg-name="Eşref Rüya 7" tvg-id="Eşref Rüya 7" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/680a8513db0c47dc3f612f77.jpg" group-title="KANAL D DİZİ",Eşref Rüya 7
+
+#EXTINF:-1 tvg-id="ZNation.pl" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png" group-title="DİZİ 7/24",Z Nation
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
+
+#EXTINF:-1 group-title="DİZİ 7/24",Dizi Tv
+http://hlss.goodgame.ru/hls/186021.m3u8
+
+#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png" group-title="DİZİ 7/24",FX HD 
+https://saran-live.ercdn.net/fx/index.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="DİZİ 7/24",Dizi Tv
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+#EXTINF:-1 tvg-name="Sinema Planet" tvg-id="Sinema Planet" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/680a8513db0c47dc3f612f77.jpg" group-title="Sinevizyon",
+https://ecanlitv3.etvserver.com/sabantv.m3u8?tkn=Jco13wnb9I0hJw09RQULbA&tms=1746653656
+
+#EXTINF:-1 tvg-id="67" tvg-name="Moviesmart Turk" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="Sinevizyon", Moviesmart Turk
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/mvturk.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="Sinema TV 2" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" group-title="Sinevizyon", Sinema TV 2
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinema2.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="Sinema TV Aksiyon" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="Sinevizyon", Sinema TV Aksiyon
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="Sinema TV Komedi" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="Sinevizyon", Sinema TV Komedi
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="Sinema TV Yerli" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="Sinevizyon", Sinema TV Yerli
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinemayerli2.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="Sinema TV Aile" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="Sinevizyon", Sinema TV Aile
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinemaaile2.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="Sinema TV 1001" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png" group-title="Sinevizyon", Sinema TV 1001
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinema1001.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="Sinema TV 1002" tvg-logo="https://a.prectv46.lol/uploads/cache/channel_thumb/uploads/png/96603c9e4ba10ae864380f670e210cf0.png" group-title="Sinevizyon", Sinema TV 1002
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinema1002.m3u8
+
+#EXTINF:-1 tvg-id="73" tvg-logo="" tvg-name="Cine6 Max" group-title="Sinevizyon",Cine6 Max HD
+https://canli.cinemax6.com:3220/stream/play.m3u8
+https://ip100.radyotelekomtv.com:3220/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="Sinevizyon",Cine6
+https://canli.cine6tv.com.tr:3614/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="Sinevizyon",Kanal 10
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="9. |TR|🇹🇷 MÜZİK",KRAL - KRAL POP HD
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="9. |TR|🇹🇷 MÜZİK",DREAM TÜRK HD
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="9. |TR|🇹🇷 MÜZİK",NUMBER ONE TÜRK DAMAR HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="9. |TR|🇹🇷 MÜZİK",NUMBER ONE HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sicario 1" tvg-id="Sicario 1" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/2864/thumb_p2SdfGmQRaw8xhFbexlHL7srMM8.webp" group-title="SİNEMA",Sicario 1 (2015)
+https://sx1.rovideo.buzz/v/d/tt3397884/tr/1080
+
+#EXTINF:-1 tvg-name="Sicario 2" tvg-id="Sicario 2" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/7553/thumb_OdD7A0LgLXPjqzmfcEl9sTYVPo.webp" group-title="SİNEMA",Sicario 2 : Askerin Günü (2018)
+https://sx1.rovideox.org/v/d/tt5052474/tr/1080
+
+#EXTINF:-1 tvg-name="Jack Reacher 1" tvg-id="Jack Reacher 1" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/2567/thumb_38bmEXmuJuInLs9dwfgOGCHmZ7l.webp" group-title="SİNEMA",Jack Reacher 1 (2012)
+https://s427.rapidrame.com/hls2/01/00022/pt0zliplb00w_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ZUP6Tq37P90e7no-tAq24zeiAPWTejk1oRKHRw8cqJs&s=1746142318&e=1199998800&f=114646&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Jack Reacher 2" tvg-id="Jack Reacher 2" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/3790/thumb_8EzXTn0cwKRSZBojorC2F3H6yS8.webp" group-title="SİNEMA",Jack Reacher 2 (2016)
+https://i6.pictabox.pro/fl/NNVNXx9dRktXAaa2wNQhjNQ1mZQAjVEOvG6yi7FBDYYAi0gtxmZ1xFYLgmZc08h2z3NjOXwlXD_dlZyxYZu8Xvr1b1080
+
+#EXTINF:-1 tvg-name="Adalet 1" tvg-id="Adalet 1" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/2544/thumb_2eQfjqlvPAxd9aLDs8DvsKLnfed.webp" group-title="SİNEMA",The Equalizer - Adalet 1 (2011)
+https://sx1.rovideos.org/v/d/tt0455944/tr/1080
+
+#EXTINF:-1 tvg-name="Adalet 2" tvg-id="Adalet 2" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/7570/thumb_nDZFsjClO6wfKLxd9CEDT4rVv6R.webp" group-title="SİNEMA",The Equalizer - Adalet 2 (2018)
+https://sx1.rovideoz.org/v/d/tt3766354/tr/1080
+
+#EXTINF:-1 tvg-name="Adalet 3" tvg-id="Adalet 3" tvg-logo="https://n11scdn.akamaized.net/a1/602_857/04/62/04/81/IMG-7550265583803248624.jpg" group-title="SİNEMA",The Equalizer - Adalet 3 (2018)
+https://d2.rovideo.buzz/v/d/tt17024450/tr/1080
+
+#EXTINF:-1 tvg-name="Riddick 1" tvg-id="Riddick 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/riddick-1-film-izle@2x.webp" group-title="SİNEMA",Riddick 1  -  Derin Karanlık (2000)
+https://s3.gelsistirire.cfd:183/d/zandmikask3rtzj5xtwunswwckx5ha6rfyoujd3pkb6rvhr2e4y5b6c7psvsc27qm7gizehd/jay5epo0362a.mp4
+https://s3.gelsistirire.cfd:183/d/zandmikask3rtzj5xtwunswwckx5ha6rfyoujd3pkb6rvhr2e5zrifpe5cjb3ntpiashq3su/jay5epo0362a.mp4
+https://vs4.photomag.biz/mq/Lwq2MJMaZauznGEcd0zxpTuiqT9gLJphLzy6s0xi4vr1bhd
+
+#EXTINF:-1 tvg-name="Riddick 2" tvg-id="Riddick 2" tvg-logo="https://img.fullhdfilmizlesene.de/poster/seri-lg/2794_riddick-gunlukleri/tm/1.webp" group-title="SİNEMA",Riddick 2 - Riddick Günlükleri (2004)
+https://s3.gelsistirire.cfd:183/d/zaneywkask3rtzj5xtwulg4rko5xdr6iolgow57ibbn5e6thy74wun6tka6co4cg6liphjw6/o12rhia9tmn0.mp4
+https://vs3.photostack.net/mx/pzWfnmWzZz44AzVkd0zxpTuiqT9mqTSwnl5hMKDs0xi3vr1bhd
+https://cdn43534985721.karpuzcan.space/uploads/encode/zw2lota281c9of9m3a4x/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Riddick 3" tvg-id="Riddick 3" tvg-logo="https://i.pinimg.com/736x/2b/5f/00/2b5f00d80a3f9fc719b3fa034c7aa265.jpg" group-title="SİNEMA",Riddick 3 (2013)
+https://s3.gelsistirire.cfd:183/d/zanjlz2ask3rtzj5qdwu7tgxcm34giob2kowqgoq5wdgtrhrotjl2t4b7pjiynubjt2t4657/n0eryywrwbdh.mp4
+https://vs6.photofunny.org/mw/MJujnQyuZTEaoUIhd0zxpTuiqT9zqJ5hrF5ipzps0xi6vr1bhd
+https://bagardavay.click/uploads/encode/4frrgge3ajjqwx4v8g7b/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Iron Man 1" tvg-id="Iron Man 1" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-demir-adam-1-iron-man-1.jpg" group-title="SİNEMA",Iron Man 1 (2008)
+https://vidrame.pro/vr/get/ef7709d0/1080.txt
+
+#EXTINF:-1 tvg-name="Iron man 2" tvg-id="Iron man 2" tvg-logo="https://filmkovasi.pw/wp-content/themes/filmplus/tm/ll/XGZ/ZF8kk0P8CYmH1e3ViYUNfZsp2AmSYXsVCmxbdG/AZF9KYXxtUNN==.jpg" group-title="SİNEMA",Iron man 2 (2010)
+https://s231.rapidrame.com/hls2/01/00006/vnbcio4pm9j4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=DB4JcO8_T9W1VG7BD6wWrci7xahns86Wl7nzu3thmQQ&s=1746137264&e=1199998800&f=31785&srv=s372&i=0.0&sp=0&p1=s231&p2=s231
+https://s2.imgmania.org/mp/ETIgnKVhDJEuoF4lYwRjBQOjYxEILHjd0zxnJ1aoJShnJRho3Was0xi2vr1b1080
+https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/ZQ01hGwHzcEG8SWrhPD/ZX
+
+#EXTINF:-1 tvg-name="Iron Man 3" tvg-id="Iron Man 3" tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Iron-Man-3-2013.png" group-title="SİNEMA",Iron Man 3 (2013)
+https://px.rovideox.org/v/d/tt1300854/tr/1080
+
+#EXTINF:-1 tvg-name="Hulk 1" tvg-id="Hulk 1" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/722b707472b3d365e66876554b2042875340230dffae36b7aaef021150501fb3.jpg" group-title="SİNEMA",Hulk 1 (2003)
+https://sx1.rovideoz.org/v/d/tt0286716/tr/1080
+
+#EXTINF:-1 tvg-name="Hulk 2" tvg-id="Hulk 2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/722b707472b3d365e66876554b2042875340230dffae36b7aaef021150501fb3.jpg" group-title="SİNEMA",Hulk 2 (2008)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/64/65/76/06/58/59/23/14/80/0/9e960adc-dc35-4d5c-a352-93fbb8f96977/kaltura/desc_f68a98f76d83ed9f8ed93a714ffc2752/vr2mmC_Bqjwg/vw=1920,vh=816,fps=24.00,vbrt=2098510,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Ilk Yenilmez" tvg-id="Ilk Yenilmez" tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Kaptan-Amerika-Ilk-Yenilmez-180x270.jpg" group-title="SİNEMA",Kaptan Amerika 1 İlk Yenilmez (2011)
+https://sx1.rovideos.org/v/d/tt0458339/tr/1080
+
+#EXTINF:-1 tvg-name="Kaptan Amerika 2" tvg-id="Kaptan Amerika 2" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/525/thumb_2uBOjlRjbN00lgPyNdYx8jQiScM.webp" group-title="SİNEMA",Kaptan Amerika 2 Kış Askeri (2014)
+https://vidrame.pro/vr/get/08b02408/1080.txt
+
+#EXTINF:-1 tvg-name="Kaptan Amerika 3 Civil War" tvg-id="Kaptan Amerika 3 Civil War" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_HsuaaksL2tF7XBUf3bXDO5nRzTd6zINyg&s" group-title="SİNEMA",Kaptan Amerika 3 Civil War (2016)
+https://sx1.rovideoz.org/v/d/tt3498820/tr/1080
+
+#EXTINF:-1 tvg-name="Kaptan Amerika Cesur Yeni Dünya4" tvg-id="Kaptan Amerika Cesur Yeni Dünya4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/captain-america-brave-new-world@2x.webp" group-title="SİNEMA",Kaptan Amerika 4 Cesur Yeni Dünya (2025)
+https://s230.rapidrame.com/hls2/01/00023/2nkzg4adwm1l_,l,n,.urlset/index-f2-v1-a1.m3u8?t=4GX2Nf-XsVkbL7U4SV1YzwTzEP0zM8klLklONodOB7c&s=1746144097&e=1199998800&f=115089&srv=s379&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Avengers1" tvg-id="Avengers 1" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-yenilmezler-the-avengers-izle.jpg" group-title="SİNEMA",Avengers 1 (2012)
+https://sx1.rovideo.buzz/v/d/tt0848228/tr/1080
+
+#EXTINF:-1 tvg-name="Avengers 2" tvg-id="Avengers 2" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3D27801687E91EC2B9DAA49E927B2E908174809679FA9C251F37837D64376EBC/scale?width=1200&aspectRatio=1.78&format=webp" group-title="SİNEMA",Avengers 2 Ultron Çağı (2015)
+https://sx1.rovideox.org/v/d/tt2395427/tr/1080
+
+#EXTINF:-1 tvg-name="Avengers 3" tvg-id="Avengers 3" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3D27801687E91EC2B9DAA49E927B2E908174809679FA9C251F37837D64376EBC/scale?width=1200&aspectRatio=1.78&format=webp" group-title="SİNEMA",Avengers 3 Sonsuzluk Savaşı (2018)
+https://px.rovideoz.org/v/d/tt4154756/tr/1080
+
+#EXTINF:-1 tvg-name="Avengers 4" tvg-id="Avengers 4" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3D27801687E91EC2B9DAA49E927B2E908174809679FA9C251F37837D64376EBC/scale?width=1200&aspectRatio=1.78&format=webp" group-title="SİNEMA",Avengers 4 Son Oyun (2019)
+https://sx1.rovideos.org/v/d/tt4154796/tr/1080
+
+#EXTINF:-1 tvg-name="Galaksinin Koruyuculari" tvg-id="Galaksinin Koruyuculari" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6f/Galaksinin_Koruyucular%C4%B1_2.jpg" group-title="SİNEMA",Galaksinin Koruyuculari 1
+https://vod.plvideo.ru/GMPb65uk/AZAevqJa5r/iyfN6I3e-US2QwYb4Sb/ZX
+
+#EXTINF:-1 tvg-name="Galaksinin Koruyuculari 2" tvg-id="Galaksinin Koruyuculari 2" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-galaksinin-koruyuculari-2-guardians-of-the-galaxy-vol-2.jpg" group-title="SİNEMA",Galaksinin Koruyuculari 2
+https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/iyfN6I32JIf-pFNgZi-/ZX
+
+#EXTINF:-1 tvg-name="Galaksinin Koruyuculari 3" tvg-id="Galaksinin Koruyuculari 3" tvg-logo="https://tr.web.img4.acsta.net/pictures/23/05/04/08/22/5434226.jpg" group-title="SİNEMA",Galaksinin Koruyuculari 3
+https://s230.rapidrame.com/hls2/01/00017/ecwqshhs3aq0_,l,n,.urlset/master.m3u8?t=oO1N8VRujNdEtDAk1ihVXFrxpSwJTB8aZ3OxmH5SMso&s=1727448594&e=1199998800&f=87506&srv=s298&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Galaksinin Koruyuculari Special" tvg-id="Galaksinin Koruyuculari Special" tvg-logo="https://images.justwatch.com/poster/301774755/s718/the-guardians-of-the-galaxy-holiday-special.jpg" group-title="SİNEMA",Galaksinin Koruyuculari Special
+https://s2.photogrids.site/m5/ITuyYxq1LKWxnJShpl5iMv50nTHhE2SfLKu5YxuioTyxLKxhH3OyL2yuoP4lZQVlYyqSDv1RGP4kZQtjpP5RIHSZd0zxpTuiqT9apzyxpl5mnKEys0xi2vr1
+
+#EXTINF:-1 tvg-name="Doctor Strange 1" tvg-id="Doctor Strange 1" tvg-logo="https://de.web.img2.acsta.net/pictures/16/10/18/11/39/193242.jpg" group-title="SİNEMA",Doctor Strange 1 (2016)
+https://vod.plvideo.ru/GMPb65uk/EiKYJIFOyO/FP7MRNSTRclLpgpULqQ/ZX
+https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/ZQ01hGwTRclLpgpULqQ/ZX
+
+#EXTINF:-1 tvg-name="Doctor Strange 2" tvg-id="Doctor Strange 2" tvg-logo="https://www.paribucineverse.com/Files/POSTER/DR-STRANGE.jpg" group-title="SİNEMA",Doctor Strange 2 (2022)
+https://s26.pixtures.art/m5/ET9wqT9lYyA0pzShM2HhnJ4hqTuyYx11oUEcqzIlp2Hho2LhGJSxozImpl4lZQVlYxyKEHVgERjhZGN4ZUNhESIOGNd0zxpTy4qUIlMKZhLKW0s0xi26vr1
+
+#EXTINF:-1 tvg-name="Thor" tvg-id="Thor" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-thor-turkce-dublaj-izle.jpg" group-title="SİNEMA",Thor 1 (2011)
+https://px.rovideox.org/v/d/tt0800369/tr/1080
+
+#EXTINF:-1 tvg-name="Thor" tvg-id="Thor" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-thor-turkce-dublaj-izle.jpg" group-title="SİNEMA",Thor 2 (2013)
+https://px.rovideoz.org/v/d/tt1981115/tr/1080
+
+#EXTINF:-1 tvg-name="Thor 3" tvg-id="Thor 3" tvg-logo="https://images.justwatch.com/poster/109512582/s718/thor-ragnarok.jpg" group-title="SİNEMA",Thor 3 (2017)
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/95/16/11/42/94/27/53/31/86/eae39336-3bbb-4c43-a7b2-abaf51a92b74/kaltura/desc_6799424806bc07201bcc338703bd8867/vkmG07isuB3s/vw=1280,vh=536,fps=24.00,vbrt=1239825,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Thor 4" tvg-id="Thor 4" tvg-logo="https://tr.web.img3.acsta.net/pictures/22/07/06/14/47/0142016.jpg" group-title="SİNEMA",Thor 4 (2022)
+https://s2.pixtures.art/m8/ITuipv5Zo3MyYzShMP5HnUIhMTIlYwVjZwVhFIqSDv1RGP4kZQtjpP5RIHRd0zxpTy4qUIlMKZhLKW0s0xi2vr1
+
+#EXTINF:-1 tvg-name="Black Panter" tvg-id="Black Panter" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810" group-title="SİNEMA",Black Panter (2018)
+https://s4.imglink.info/ml/DzkuL2fhHTShqTuypv4lZQR4YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1aoTyhnl5cozMis0xi4vr1
+
+#EXTINF:-1 tvg-name="Black Panter 2" tvg-id="Black Panter 2" tvg-logo="https://tr.web.img4.acsta.net/pictures/22/11/07/07/30/1572006.jpg" group-title="SİNEMA",Black Panter 2 (2022)
+https://s5.imgmania.org/m1/DzkuL2fhHTShqTuypv5KLJguozEuYxMipzI2MKVhZwNlZv5WI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1aoJShnJRho3Was0xi5vr1
+
+#EXTINF:-1 tvg-name="Karinca Adam" tvg-id="Karinca Adam" tvg-logo="https://de.web.img2.acsta.net/pictures/15/07/20/18/06/476503.jpg" group-title="SİNEMA",Karinca Adam 1 (2015)
+https://sx1.rovideo.buzz/v/d/tt0478970/tr/1080
+
+#EXTINF:-1 tvg-name="karinca Adam 2" tvg-id="karinca Adam 2" tvg-logo="https://images.justwatch.com/poster/264494138/s332/karinca-adam-ve-yaban-arisi" group-title="SİNEMA",karinca Adam 2 (2018)
+https://sx1.rovideos.org/v/d/tt5095030/tr/1080
+
+#EXTINF:-1 tvg-name="Karinca adam 3" tvg-id="Karinca adam 3" tvg-logo="https://tr.web.img3.acsta.net/pictures/23/01/25/11/45/2784455.jpg" group-title="SİNEMA",Karinca adam 3 (2023)
+https://s18.photogrids.site/md/DJ50Yx1uov5uozDhqTuyYyqup3NhHKIuoaE1oJShnJRhZwNlZl5WI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi18vr1
+
+#EXTINF:-1 tvg-name="Black Widow" tvg-id="Black Widow" tvg-logo="https://images.justwatch.com/poster/265588420/s718/kara-dul.jpg" group-title="SİNEMA",Black Widow (2021)
+https://vidrame.pro/vr/get/226fe687/1080.txt
+
+#EXTINF:-1 tvg-name="Shang-Chi" tvg-id="Shang-Chi" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/shang-chi-ve-on-halka-efsanesi-65118.jpg" group-title="SİNEMA",Shang-Chi
+https://s230.rapidrame.com/hls2/01/00018/m2f6xqjx70oc_,l,n,.urlset/index-f2-v1-a1.m3u8?t=MxOZpd0Gd5TioNLlAgaO-lVEestIkVWXrEIlc8jdvJo&s=1735341296&e=1199998800&f=92684&srv=s385&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Eternals" tvg-id="Eternals" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-eternals-film-izle.jpg" group-title="SİNEMA",Eternals (2021)
+https://sx1.rovideo.buzz/v/d/tt9032400/tr/1080
+
+#EXTINF:-1 tvg-name="Captain Marvels" tvg-id="Captain Marvels" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/8134/thumb_AtsgWhDnHTq68L0lLsUrCnM7TjG.webp" group-title="SİNEMA",Captain Marvels (2019)
+https://sx1.rovideo.buzz/v/d/tt4154664/tr/1080
+
+#EXTINF:-1 tvg-name="The Marvels" tvg-id="The Marvels" tvg-logo="https://m.media-amazon.com/images/I/81TggnlygZL._AC_UF894,1000_QL80_.jpg" group-title="SİNEMA",The Marvels (2023)
+https://d2.rovideo.buzz/v/d/tt10676048/tr/1080
+
+#EXTINF:-1 tvg-name="Batman The Dark Knight" tvg-id="Batman The Dark Knight" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/ll_XGZ_ZF8kk0R829ipVmRfBppmmqfgV8D-WZUpk9txWAliBm9CYXxtUNN.jpg" group-title="SİNEMA",Batman The Dark Knight (2008)
+https://vidrame.pro/vr/get/503b6fee/1080.txt
+
+#EXTINF:-1 tvg-name="Batman the Dark Rises" tvg-id="Batman the Dark Rises" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/784cd10ce5985eb2f3dac50c87f9806e2f23e28c6a5b82f035b3915a302b109e.jpg" group-title="SİNEMA",Batman the Dark Rises (2012)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/82/56/75/98/01/45/51/56/90/9/1632ab4e-c9f7-449c-81d0-1565f6bb8544/kaltura/desc_a9e6fc0adb48bb2b1bfc3dafbeae3f7f/vmxduwGb1KwY/vw=1920,vh=1080,fps=24.00,vbrt=1486064,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Süpermen (2013)" tvg-id="Süpermen (2013)" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/726/thumb_tz5MqU6BnMToJbaM2m7MizpMnlu.webp" group-title="SİNEMA",Süpermen Çekik Adam (2013)
+https://sx1.rovideox.org/v/d/tt0770828/tr/1080
+
+#EXTINF:-1 tvg-name="Batman ve Superman: Adaletin Şafağı" tvg-id="Batman ve Superman: Adaletin Şafağı" tvg-logo="https://filmekseni.net/uploads/poster/batman-ve-superman-adaletin-safagi_list.webp" group-title="SİNEMA",Batman ve Superman: Adaletin Şafağı (2016)
+https://sx1.rovideox.org/v/d/tt2975590/tr/1080
+
+#EXTINF:-1 tvg-name="Zack Snyder'ın Adalet Birliği " tvg-id="Zack Snyder'ın Adalet Birliği " tvg-logo="https://filmekseni.net/uploads/poster/zack-snyder-in-adalet-birligi_list.webp" group-title="SİNEMA",Zack Snyder'ın Adalet Birliği (2021)
+https://sx1.rovideox.org/v/d/tt12361974/tr/1080
+
+#EXTINF:-1 tvg-name="Avatar 1" tvg-id="Avatar 1" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/4215/thumb_8Ic8rRVoVrDJJlXzVzGxAesufUV.webp" group-title="SİNEMA",Avatar 1 (2009)
+https://px.rovideos.org/v/d/tt0499549/tr/1080
+
+#EXTINF:-1 tvg-name="Avatar 2" tvg-id="Avatar 2" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/12731/thumb_bidENTLt6baEa2ieNT95brFtsvb.webp" group-title="SİNEMA",Avatar 2 Suyun Yolu (2022)
+https://sx1.rovideo.buzz/v/d/tt1630029/tr/1080
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli" tvg-id="Hizli ve Ofkeli" tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/Xmp2ZUQDYmLWmCBgPZhZFUVX8wTfZwSZPDblYPgBG3SX18fdFNpN.jpg" group-title="SİNEMA",Hizli ve Ofkeli 1
+https://vidrame.pro/vr/get/2ab5b9a3/1080.txt
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 2" tvg-id="Hizli ve Ofkeli 2" tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/ll/XGZ/ZF8kk0Z9kf3N2GfyXADxC8HlXfUNAZ60VvjlZQR2k0ZfdFNpN.jpg" group-title="SİNEMA",Hizli ve Ofkeli 2
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/84/45/02/07/16/07/50/89/88/1/e848b010-3955-49ed-af75-ed8d2d2e0a73/kaltura/desc_908bc3faf1c36080ee4407b3974b33a2/vPKj9ibs-9iw/vw=1920,vh=818,fps=24.00,vbrt=2502976,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 3" tvg-id="Hizli ve Ofkeli 3" tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/Xmp2ZUQDA8jbqGVkvvmk9aNZPGL0mvtXQ0jBGKL0800f1ffdFNpN.jpg" group-title="SİNEMA",Hizli ve Ofkeli 3
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/23/27/24/23/79/09/34/31/77/7/1a91e7b0-e9be-44ec-af30-ab710bd54976/kaltura/desc_93571659f7d3dee47b255fe795aeb143/vJX7sHKeRTB4/vw=1280,vh=536,fps=24.00,vbrt=1206082,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 4" tvg-id="Hizli ve Ofkeli 4" tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/ll/XGZ/ZF8kk0Z8ZGiVcF0b2YFtglfxVweYVYbt0pn/0X091qgUYXxtUNN==.jpg" group-title="SİNEMA",Hizli ve Ofkeli 4
+https://vidrame.pro/vr/get/63bc9250/1080.txt
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 5" tvg-id="Hizli ve Ofkeli 5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7d/H%C4%B1zl%C4%B1_ve_%C3%96fkeli_5_%28afi%C5%9F%29.jpg" group-title="SİNEMA",Hizli ve Ofkeli 5
+https://vidrame.pro/vr/get/03790982/1080.txt
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 6" tvg-id="Hizli ve Ofkeli 6" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/5444349.jpg" group-title="SİNEMA",Hizli ve Ofkeli 6
+https://vidrame.pro/vr/get/25624c87/1080.txt
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 7" tvg-id="Hizli ve Ofkeli 7" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b8/Furious_7_poster.jpg" group-title="SİNEMA",Hizli ve Ofkeli 7
+https://vidrame.pro/vr/get/66988bb7/1080.txt
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 8" tvg-id="Hizli ve Ofkeli 8" tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/612cba43ebc8302ed043479d.jpg" group-title="SİNEMA",Hizli ve Ofkeli 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://eksenload.site/uploads/encode/z1sgbf61btl42knpj4cn/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 9" tvg-id="Hizli ve Ofkeli 9" tvg-logo="https://images.justwatch.com/poster/264337564/s718/hizli-ve-ofkeli-9.jpg" group-title="SİNEMA",Hizli ve Ofkeli 9
+https://s230.rapidrame.com/hls2/01/00013/sfetopj1spwn_,l,n,.urlset/index-f2-v1-a2.m3u8?t=Sr5MqW7EkJ-lt8UiuNVO8i0xoCw3MPqzX-DZE2KADME&s=1746308453&e=1199998800&f=65958&srv=s342&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 10" tvg-id="Hizli ve Ofkeli 10" tvg-logo="https://images.justwatch.com/poster/320021290/s166/hizli-ve-ofkeli-10" group-title="Hizli ve Ofkeli",Hizli ve Ofkeli 10
+https://s24.seeshare.pics/mv/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1
+
+#EXTINF:-1 tvg-name="Harry Potter 1" tvg-id="Harry Potter 1" tvg-logo="https://static.posters.cz/image/1300/poster/harry-potter-der-stein-der-weisen-i104639.jpg" group-title="SİNEMA",Harry Potter 1: Felsefe Taşı (2001)
+https://s230.rapidrame.com/hls2/01/00017/cy460arilytd_,l,n,.urlset/index-f2-v1-a1.m3u8?t=fMcaseI9__-8SnLr-3GDlemG4johOE2N24mb-zGGztQ&s=1746308669&e=1199998800&f=89219&srv=s373&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Harry Potter 2" tvg-id="Harry Potter 2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fff72385d087e1d4bbcbc45052fbafcd69fa2b4cc92dad9eb4d5297d06e0c0af._SX780_.jpg" group-title="SİNEMA",Harry Potter 2: Sırlar Odası (2002)
+https://s230.rapidrame.com/hls2/01/00017/5ja69e6regtp_,l,n,.urlset/index-f2-v1-a1.m3u8?t=yJ96Lsd4_4wkxpUkY0v_5EntBA4G5ENhD-L4dX92ew4&s=1746308913&e=1199998800&f=89222&srv=s377&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Harry Potter 3" tvg-id="Harry Potter 3" tvg-logo="https://play-lh.googleusercontent.com/lBQTnSIfJAsUilF4SJM-YFsfe-xEsXUcnhpQxurGkj4pWZT9jIsHLqa7XPN3tRjLoGOQCF3nx1FD8dGPtl8" group-title="SİNEMA",Harry Potter 3: Azkaban Tutsağı (2004)
+https://s425.rapidrame.com/hls2/01/00017/zeubya8zbx3r_,l,n,.urlset/index-f2-v1-a1.m3u8?t=sfDPiytFlaMmzCNjQhHyXTZFFk5cf52mKgYZ5RWFhx0&s=1746309323&e=1199998800&f=89202&srv=s377&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:-1 tvg-name="Harry Potter 4" tvg-id="Harry Potter 4" tvg-logo="https://cdn.culture.ru/images/a3e4e9f4-5fbd-5269-8495-4e5103cd2c15" group-title="SİNEMA",Harry Potter 4: Ateş kadehi (2005)
+https://ka5m.uk-traffic-076.com/hls2/01/00018/vjmna1ls6b4c_n/index-v1-a2.m3u8?t=SdwlA1CVL69PoUhm-MSqfxSjurmTXMdUSrcIUDD4HkA&s=1746551424&e=43200&f=92269&srv=x1&i=0.0&sp=5000&p1=ka5m&p2=ka5m
+
+#EXTINF:-1 tvg-name="Harry Potter 5" tvg-id="Harry Potter 5" tvg-logo="https://images.justwatch.com/poster/264875049/s718/harry-potter-ve-zumruduanka-yoldasligi.jpg" group-title="SİNEMA",Harry Potter 5: Zümrüdüanka Yoldaşlığı (2007)
+https://s24.imageshub.pro/mc/FTSlpaxhHT90qTIlYwHhZwNjAl5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1uM2ImnUIvYaOlojs0xi24vr1
+
+#EXTINF:-1 tvg-name="Harry Potter 6" tvg-id="Harry Potter 6" tvg-logo="https://www.justwatch.com/images/poster/264900088/s718/harry-potter-ve-melez-prens.jpg" group-title="SİNEMA",Harry Potter 6: Melez Prens (2009)
+https://s3.gelsistirire.cfd:183/d/zanooucask3rtzj5xxwupggslmzgl4lyyndvxiglsilyiawmv7g3wcbauaygiyytprzyhqfs/7ne6a4gk30rk.mp4
+https://s3.gelsistirire.cfd:183/d/zanooucask3rtzj5xxwupggslmzgl4lyyndvxiglsilyiawmv43aiwbew6oyx5kuiplgtayz/7ne6a4gk30rk.mp4
+
+#EXTINF:-1 tvg-name="Harry Potter 7" tvg-id="Harry Potter 7" tvg-logo="https://www.justwatch.com/images/poster/264900069/s718/harry-potter-ve-olum-yadigarlari-bolum-1.jpg" group-title="SİNEMA",Harry Potter 7: Ölüm Yadigarları 1 (2010)
+https://bordeaux.eu-traffic-05.com/hls2/01/00018/yqb3yeeshmlk_n/index-v1-a1.m3u8?t=7v9-agb76u3b-SRZ_26SmFyaoYW-nB-Vmh8MfI04eKw&s=1746551748&e=43200&f=92270&srv=x1&i=0.0&sp=5000&p1=bordeaux&p2=bordeaux
+
+#EXTINF:-1 tvg-name="Harry Potter 8" tvg-id="Harry Potter 8" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-harry-potter-ve-olum-yadigarlari-2-izle@2x.webp" group-title="SİNEMA",Harry Potter 8: Ölüm Yadigarları 2 (2011)
+https://leicester.eu-traffic-05.com/hls2/01/00018/4r92cmbhv5fs_n/index-v1-a1.m3u8?t=z97VLHM16CPVGcUMaG18G-3IL6RVoZnok98uejIviSc&s=1746551752&e=43200&f=92271&srv=x1&i=0.0&sp=5000&p1=leicester&p2=leicester
+https://leicester.eu-traffic-05.com/hls2/01/00018/4r92cmbhv5fs_n/index-v1-a1.m3u8?t=Fdl8aJ-6b5Hnbvx3dcrc4JVGRnXIAoXDqSdJdEHarMw&s=1746492241&e=43200&f=92271&srv=x1&i=0.0&sp=5000&p1=leicester&p2=leicester
+
+#EXTINF:-1 tvg-name="Harry Potter 9" tvg-id="Harry Potter 9" tvg-logo="https://filmekseni.net/uploads/poster/harry-potter-20th-anniversary-return-to-hogwarts_list.webp" group-title="SİNEMA",Harry Potter 9: 20th Anniversary: Return to Hogwarts (2022)
+https://s425.rapidrame.com/hls2/01/00012/b7gzzfig14ol_,l,n,.urlset/index-f2-v1-a1.m3u8?t=kO7y8kgX7ERZT5y-VZsWoo4GJBHJJTCYujwg_lVme2A&s=1746758019&e=1199998800&f=63760&srv=s375&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:-1 tvg-name="Suicide Squad: Gerçek Kötüler" tvg-id="Suicide Squad: Gerçek Kötüler" tvg-logo="https://www.indyturk.com/sites/default/files/styles/800x600/public/article/main_image/2019/09/14/168521-2126424618.jpg?itok=_nf5-Rtg" group-title="SİNEMA",Suicide Squad: Gerçek Kötüler (2016)
+https://vidmody.com/vs/tt1386697
+
+#EXTINF:-1 tvg-name="Yırtıcı Kuşlar Ve Muhteşem Harley Quinn 2020" tvg-id="Yırtıcı Kuşlar Ve Muhteşem Harley Quinn 2020" tvg-logo="https://tr.web.img4.acsta.net/pictures/19/12/17/15/04/0868807.jpg" group-title="SİNEMA",Yırtıcı Kuşlar Ve Muhteşem Harley Quinn (2020)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/16/62/09/53/38/50/30/80/49/1/f5b149ff-ce83-4185-b74b-22bd8c83d309/kaltura/desc_2f94977dbd38335967a70f9e8aa6a513/vcz3BvydIzDs/vw=1920,vh=800,fps=24.00,vbrt=2076514,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Star Wars 1 (1977)" tvg-id="Star Wars 1 (1977)" tvg-logo="https://m.media-amazon.com/images/I/61OEiOMy3zL.jpg" group-title="SİNEMA",Star Wars 1: Yeni Umut (1977)
+https://vidmody.com/vs/tt0076759
+
+#EXTINF:-1 tvg-name="Yıldız Savaşları: İmparator (1980)" tvg-id="Yıldız Savaşları: İmparator (1980)" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/25802.jpg" group-title="SİNEMA",Yıldız Savaşları: İmparator (1980)
+https://p1.gamephotos.pro/v/7ikmw6x436ef/1080.m3u8
+
+#EXTINF:-1 tvg-name="Star Wars Bölüm 6 – Jedi'ın Dönüşü" tvg-id="Star Wars Bölüm 6 – Jedi'ın Dönüşü" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/25803.jpg" group-title="SİNEMA",Star Wars Bölüm 6 – Jedi'ın Dönüşü (1983)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/70/98/91/07/74/02/50/10/23/a9957f2e-f341-487e-bc3a-9595353f3ab3/kaltura/desc_d7aa54f688fd563d66123167523d0337/vhpOMKPIj_hc/vw=1920,vh=818,fps=24.00,vbrt=2520221,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+https://vidmody.com/vs/tt0086190
+
+#EXTINF:-1 tvg-name="Star Wars: Bölüm I - Gizli Tehlike (1999)" tvg-id="Star Wars: Bölüm I - Gizli Tehlike (1999)" tvg-logo="https://tr.web.img2.acsta.net/medias/nmedia/18/88/86/28/20012725.jpg" group-title="SİNEMA",Star Wars: Bölüm I - Gizli Tehlike (1999)
+https://sx1.rovideo.buzz/v/d/tt0120915/tr/1080
+
+#EXTINF:-1 tvg-name="Star Wars: Bölüm II - Klonlar'ın Saldırısı (2002)" tvg-id="Star Wars: Bölüm II - Klonlar'ın Saldırısı (2002)" tvg-logo="https://images.justwatch.com/poster/265835220/s718/yildiz-savaslari-bolum-ii-klonlarin-saldirisi.jpg" group-title="SİNEMA",Star Wars: Bölüm II - Klonlar'ın Saldırısı (2002)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/37/67/18/59/42/82/88/44/59/3/1760187a-f101-4ca2-a035-b43f4fa48296/kaltura/desc_52f2b828150d2da71c6a8072c7ac6eba/v9fU0gRNdWw0/vw=1920,vh=816,fps=24.00,vbrt=1972352,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Star Wars: Bölüm III - Sith'in İntikamı (2005)" tvg-id="Star Wars: Bölüm III - Sith'in İntikamı (2005)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_FMjpg_UX1000_.jpg" group-title="SİNEMA",Star Wars: Bölüm III - Sith'in İntikamı (2005)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/82/42/05/65/95/52/00/81/63/4/2185b0a5-2a70-4959-a3f7-5a5a97b47878/kaltura/desc_2e34ed11e27072f363acb6f19336a146/vM6PoaOMnhyI/vw=1920,vh=820,fps=24.00,vbrt=2077262,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Star Wars Bölüm 7 - Güc Uyanıyor 2015" tvg-id="Star Wars Bölüm 7 - Güc Uyanıyor 2015" tvg-logo="https://tr.web.img4.acsta.net/pictures/15/11/02/11/48/213313.jpg" group-title="SİNEMA",Star Wars Bölüm 7 - Güc Uyanıyor (2015)
+https://sx1.rovideoz.org/v/d/tt2488496/tr/1080
+
+#EXTINF:-1 tvg-name="Rogue One Bir Star Wars Hikayesi 2016" tvg-id="Rogue One Bir Star Wars Hikayesi 2016" tvg-logo="https://tr.web.img3.acsta.net/pictures/16/11/09/15/01/505813.jpg" group-title="SİNEMA",Rogue One Bir Star Wars Hikayesi (2016)
+https://d2.rovideo.buzz/v/d/tt3748528/tr/1080
+
+#EXTINF:-1 tvg-name="Star Wars 8 Son Jedi 2017" tvg-id="Star Wars 8 Son Jedi 2017" tvg-logo="https://images.justwatch.com/poster/265130780/s718/yildiz-savaslari-bolum-viii-son-jedi.jpg" group-title="SİNEMA",Star Wars 8 Son Jedi (2017)
+https://sx1.rovideo.buzz/v/d/tt2527336/tr/1080
+
+#EXTINF:-1 tvg-name="Han Solo: Bir Star Wars Hikayesi 2018" tvg-id="Han Solo: Bir Star Wars Hikayesi 2018" tvg-logo="https://images.justwatch.com/poster/269397201/s718/han-solo-bir-star-wars-hikayesi.jpg" group-title="SİNEMA",Han Solo: Bir Star Wars Hikayesi (2018)
+https://sx1.rovideo.buzz/v/d/tt3778644/tr/1080
+
+#EXTINF:-1 tvg-name="Star Wars Bölüm 9 - Skywalker'in Yükselisi (2019)" tvg-id="Star Wars Bölüm 9 - Skywalker'in Yükselisi (2019)" tvg-logo="https://tr.web.img4.acsta.net/pictures/19/10/30/13/52/0959246.jpg" group-title="SİNEMA",Star Wars Bölüm 9 - Skywalker'in Yükselisi (2019)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/38/28/36/28/07/39/92/64/85/8/8774a72e-6871-4885-b976-7d90ad0a533a/kaltura/desc_85911daed8e820e7d6be917abefed19e/vnSvq6NvkgHo/vw=1920,vh=808,fps=24.00,vbrt=2062344,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Jumanji  1" tvg-id="Jumanji  1" tvg-logo="https://de.web.img3.acsta.net/medias/nmedia/18/78/71/33/19475409.jpg" group-title="SİNEMA",Jumanji 1: (1995)
+https://sx1.rovideox.org/v/d/tt0113497/tr/1080
+https://vidmody.com/vs/tt0113497
+
+#EXTINF:-1 tvg-name="Jumanji 2" tvg-id="Jumanji 2" tvg-logo="https://de.web.img3.acsta.net/r_654_368/img/eb/5d/eb5d4ed327176ff7524b2d31790e91fd.jpg" group-title="SİNEMA",Jumanji 2: Vahşi Orman (2017)
+https://sx1.rovideos.org/v/d/tt2283362/tr/1080
+
+#EXTINF:-1 tvg-name="Jumanji 3" tvg-id="Jumanji 3" tvg-logo="https://i.ebayimg.com/images/g/Lg0AAOSw-uVfJHru/s-l1200.jpg" group-title="SİNEMA",Jumanji 3: Yeni Seviye (2019)
+https://sx1.rovideos.org/v/d/tt7975244/tr/1080
+
+#EXTINF:-1 tvg-name="Venom" tvg-id="Venom" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/4-venom-hd-film-izle.webp" group-title="SİNEMA",Venom 1: Zehirli Öfke (2018)
+https://vidrame.pro/vr/get/2e79093d/1080.txt
+
+#EXTINF:-1 tvg-name="Venom 2" tvg-id="Venom 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/venom-let-there-be-carnage.webp" group-title="SİNEMA",Venom 2: Zehirli Öfke 2 (2021)
+https://sx1.rovideo.buzz/v/d/tt7097896/tr/1080
+
+#EXTINF:-1 tvg-name="Venom 3" tvg-id="Venom 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/venom-let-there-be-carnage.webp" group-title="SİNEMA",Venom 3: Son Dans (2024)
+https://s230.rapidrame.com/hls2/01/00022/pzb0fizkd1ht_,l,n,.urlset/master.m3u8?t=a8nvLAhFMyJo2dZ9Mx7F3s5o5mn1-tYkeNcoUj_Y7EM&s=1745967899&e=1199998800&f=110795&srv=s379&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Gladyatör 1" tvg-id="Gladyatör 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gladyator-izle-hd@2x.webp" group-title="SİNEMA",Gladyatör 1 (2000)
+https://s231.rapidrame.com/hls2/01/00023/sylh07yptncw_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6YMBEdvAa1rjo9U-gm4sb8Lomzw33X_7AOvi2lu8vNQ&s=1746373314&e=1199998800&f=115032&srv=s394&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 tvg-name="Gladyator 2" tvg-id="Gladyator 2" tvg-logo="https://www.filmwelt-gruenstadt.de/images/Breite_400px_RGB/p_106696.jpg" group-title="SİNEMA",Gladyator 2 (2024)
+https://s230.rapidrame.com/hls2/01/00023/1jaw9zbbqfus_,l,n,.urlset/index-f2-v1-a1.m3u8?t=5SrVdDJhEk9CoGXGxQZLV0xuIr09ABz7ob89w3INZY4&s=1746373691&e=1199998800&f=115022&srv=s379&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Deadpool" tvg-id="Deadpool" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-deadpool-1-hd-film-izle.webp" group-title="SİNEMA",Deadpool 1: (2016)
+https://sx1.rovideo.buzz/v/d/tt1431045/tr/1080
+
+#EXTINF:-1 tvg-name="Deadpool 2" tvg-id="Deadpool 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/2-hd-film-deadpool-2-super-duper-cut-izle.webp" group-title="SİNEMA",Deadpool 2: (2018)
+https://sx1.rovideoz.org/v/d/tt5463162/tr/1080
+
+#EXTINF:-1 tvg-name="Deadpool 3" tvg-id="Deadpool 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/deadpool-3.webp" group-title="SİNEMA",Deadpool 3: (2024) Deadpool & Wolverine
+https://sx1.rovideox.org/v/d/tt6263850/tr/1080
+
+#EXTINF:-1 tvg-name="Deadpool 3" tvg-id="Deadpool 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/deadpool-3.webp" group-title="SİNEMA",Deadpool 4: Once Upon a Deadpool
+https://s1.imagesbox.cloud/m9/ETIuMUOio2jhLJ5xYyqioUMypzyhMF4lZQV0YyqSDv1RGP4kZQtjpP5RIHSZd0zxnJ1uM2ImLz94YzAfo3Ixs0xi1vr1
+
+#EXTINF:-1 tvg-name="Prometheus 1" tvg-id="Prometheus 1" tvg-logo="https://c3.klipartz.com/pngpicture/453/357/sticker-png-alien-covenant-2017-folder-icon-alien-covenant-v2.png" group-title="SİNEMA", Prometheus 1 (2012)
+https://px.rovideox.org/v/d/tt1446714/tr/1080
+
+#EXTINF:-1 tvg-name="Prometheus 2" tvg-id="Prometheus 2" tvg-logo="https://c3.klipartz.com/pngpicture/453/357/sticker-png-alien-covenant-2017-folder-icon-alien-covenant-v2.png" group-title="SİNEMA",Prometheus 2: Covenant (2017)
+https://sx1.rovideo.buzz/v/d/tt2316204/tr/1080
+
+#EXTINF:-1 tvg-name="Predator 1" tvg-id="Predator 1" tvg-logo="https://m.media-amazon.com/images/I/71MLsweKQeL._AC_UF894,1000_QL80_.jpg" group-title="SİNEMA",Predator 1: Av 1 (1987)
+https://sx1.rovideos.org/v/d/tt0093773/tr/1080
+
+#EXTINF:-1 tvg-name="Predator 2" tvg-id="Predator 2" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/8691/thumb_zvliTkCns7f37iUeedDdo7rFyYH.webp" group-title="SİNEMA",Predator 2: Av 2 (1990)
+https://sx1.rovideoz.org/v/d/tt0100403/tr/1080
+
+#EXTINF:-1 tvg-name="Predator 3" tvg-id="Predator 3" tvg-logo="https://m.media-amazon.com/images/I/91RWyDtJS4L._AC_UF894,1000_QL80_.jpg" group-title="SİNEMA",Predator 3: Av 3 (2010)
+https://d2.rovideo.buzz/v/d/tt1424381/tr/1080
+
+#EXTINF:-1 tvg-name="Predator 4" tvg-id="Predator 4" tvg-logo="https://play-lh.googleusercontent.com/hfOkhY_SoUqGMI3HRqGomGrPGKzC8bU4G18nal3QvHSYYtdekyNO7xxB6M6xzT4LG4ij=w240-h480-rw" group-title="SİNEMA",Predator 4: Predator Avcısı (2018) 
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/79/85/43/94/20/44/09/40/60/6/8d0c9d74-bda5-4d48-b861-fb20daae38b1/kaltura/desc_7344c293213a65f9992db0d6fc8cb2ef/vIkCk9An9ohc/vw=1920,vh=804,fps=24.00,vbrt=2017645,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Prey" tvg-id="Prey" tvg-logo="https://de.web.img2.acsta.net/pictures/22/06/13/14/26/2450551.jpg" group-title="SİNEMA",Predator 5: Prey (2022)
+https://s425.rapidrame.com/hls2/01/00020/0zmmxt3oh0vb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=7H722EcC_6u85Y6DvkCSyi7BCBkLv1NIlW72Z2LiHp8&s=1746498748&e=1199998800&f=101424&srv=s379&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:-1 tvg-name="Alien 1" tvg-id="Alien 1" tvg-logo="https://tr.web.img2.acsta.net/r_654_368/img/27/81/27811bec43496824b03f52f3b31544cb.jpg" group-title="SİNEMA",Alien 1 (1979)
+https://s230.rapidrame.com/hls2/01/00006/om714rvr76cq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=NPvxe9V4eXzeSek37jJPxJNBFKQ5EvmHIhi9FBxYgNc&s=1746393416&e=1199998800&f=30300&srv=s289&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Alien 2" tvg-id="Alien 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/yaratik-2-izle@2x.webp" group-title="SİNEMA",Alien 2 (1986)
+https://s384.rapidrame.com/hls2/01/00016/x6vv18zph3q3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=FTX_cUvrkYYt9BzZ9swN3GNj6WwLEHOtIfesLFNpF-c&s=1746393637&e=1199998800&f=82171&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Alien 3" tvg-id="Alien 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/yaratik-3-izle@2x.webp" group-title="SİNEMA",Alien 3 (1992)
+https://s427.rapidrame.com/hls2/01/00021/sat0odsura8d_,l,n,.urlset/index-f2-v1-a1.m3u8?t=mPYXPnLt6_c-ho65u5FlcANorEfz2F3OPN5ZpvHQIVg&s=1746393848&e=1199998800&f=109170&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Alien 4" tvg-id="Alien 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/yaratik-4-izle@2x.webp" group-title="SİNEMA",Alien 4 (1997)
+https://s427.rapidrame.com/hls2/01/00021/sz3cockg0tsu_,l,n,.urlset/index-f2-v1-a1.m3u8?t=EZ8Am_OaZRSNPMgXP2PlWKgd7mB_6SlSCpwlqhPng2U&s=1746393943&e=1199998800&f=109172&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="AVP: Alien vs. Predator" tvg-id="AVP: Alien vs. Predator" tvg-logo="https://tr.web.img3.acsta.net/img/5b/b7/5bb79665ef56087f79cac5ade0a3994e.jpg" group-title="SİNEMA",AVP: Alien vs. Predator (2004)
+https://d6.imgpics.us/fu/NNNLmAjH7AjRGXeVqGcVKXYNAYXalFcpUZjVmZFCw0ixpXXulPIi0XG3ZGWm8ph2z3NDOMJT2QE6Muqxlbfl1W_PlVePGWMqYeLgYZu8YAk8lvr1b1080
+
+#EXTINF:-1 tvg-name="Aliens vs Predator Requiem 2" tvg-id="Aliens vs Predator Requiem2" tvg-logo="https://filmekseni.net/uploads/poster/aliens-vs-predator-requiem_list.webp" group-title="SİNEMA",Aliens vs Predator Requiem  2-Ölüm Ayini (2007)
+https://s3.gelsistirire.cfd:183/d/zannwikask3rtzj5xtwrphmkinqnkwdexkkxgmafrzh47kw24leizqao3ign6ipxo2cwpseh/niek86ej9ng1.mp4
+https://donkeygrorup.click/uploads/encode/5embizm8yvn7yah214v7/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alien: Romulus" tvg-id="Alien: Romulus" tvg-logo="https://www.hdfilmizle.to/v/58367/poster/watch-lg/alien-romulus-hd.webp" group-title="SİNEMA",Alien: Romulus (2024)
+https://vs9.photofunny.org/v/Alien.Romulus.2024.WEB-DL.1080p.DUAL/1080.m3u8
+
+#EXTINF:-1 tvg-name="Dune Çöl Gezegeni 1" tvg-id="Dune Çöl Gezegeni 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/dune-izle-hdf1@2x.webp" group-title="SİNEMA",Dune Çöl Gezegeni 1 (2021)
+https://donkeygrorup.click/uploads/encode/y2gcimwanucw3xoohtu2/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dune Çöl Gezegeni 2" tvg-id="Dune Çöl Gezegeni 2" tvg-logo="https://img01.imgsinemalar.com/images/afis_dev/d/dune-2-1707397100.jpg" group-title="SİNEMA",Dune Çöl Gezegeni 2 (2024)
+https://donkeygrorup.click/uploads/encode/iuc8gkjum1qkm7hbv964/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aquaman 1" tvg-id="Aquaman 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/2-aquaman-film-izle@2x.webp" group-title="SİNEMA",Aquaman 1 (2018)
+https://vidmody.com/mm/tt1477834/main/index-v1-a1.gif
+https://j2mx.uk-traffic-076.com/hls2/01/00018/6axvhx8au8li_n/index-v1-a2.m3u8?t=yEvck5w6Iq8smOts4HEZIdm_cQT-10ujnHKwENsdBks&s=1746500754&e=43200&f=92219&srv=x1&i=0.0&sp=5000&p1=j2mx&p2=j2mx
+
+#EXTINF:-1 tvg-name="Aquaman 2" tvg-id="Aquaman 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/aquaman-and-the-lost-kingdom@2x.webp" group-title="SİNEMA",Aquaman 2 Kayıp Krallık (2023)
+https://vidmody.com/mm/tt9663764/main/index-v1-a1.gif
+
+#EXTINF:-1 tvg-name="The Accountant 1" tvg-id="The Accountant 1" tvg-logo="https://www.hdfilmizle.to/v/1138/poster/watch-lg/hesaplasma-hd-izle.webp" group-title="SİNEMA",The Accountant 1  -  Hesaplaşma (2016)
+https://s425.rapidrame.com/hls2/01/00018/b5uie63qtbl1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=XYV9uacclZ0kzQf7dzj0g8HR1MFTq64cAWlXx3eJQvg&s=1746291008&e=1199998800&f=93312&srv=s384&i=0.0&sp=0&p1=s425&p2=s425
+https://vs2.photofunny.org/m3/LwWkqzkcoQD2ZKWzd0zxpTuiqT9zqJ5hrF5ipzps0xi2vr1bhd
+
+#EXTINF:-1 tvg-name="The Accountant 2" tvg-id="The Accountant 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-accountant-2@2x.webp" group-title="SİNEMA",The Accountant 2 - Hesaplaşma (2025)
+https://s230.rapidrame.com/hls2/01/00023/0wtbmfb5ps90_,l,n,.urlset/index-f2-v1-a1.m3u8?t=CGAQab7Mz8C1_nF7zqFb-ejpdHWxH5NTAXrfoAE6wqU&s=1746290685&e=1199998800&f=115775&srv=s390&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Yüzüklerin Efendisi 1" tvg-id="Yüzüklerin Efendisi 1" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/1258/thumb_oqMTjBd67EaSJRrA09EgwkIfVRY.webp" group-title="SİNEMA",Yüzüklerin Efendisi 1: Yüzük Kardeşliği (2001)
+https://px.rovideoz.org/v/d/tt0120737/tr/1080
+
+#EXTINF:-1 tvg-name="Yüzüklerin Efendisi 2" tvg-id="Yüzüklerin Efendisi 2" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/3081/thumb_wf3v0Pn09jnT5HSaYal7Ami3bdA.webp" group-title="SİNEMA",Yüzüklerin Efendisi 2: İki Kule (2002)
+https://sx1.rovideo.buzz/v/d/tt0167261/tr/1080
+
+#EXTINF:-1 tvg-name="Yüzüklerin Efendisi 3" tvg-id="Yüzüklerin Efendisi 3" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/198/thumb_uexxR7Kw1qYbZk0RYaF9Rx5ykbj.webp" group-title="SİNEMA",Yüzüklerin Efendisi 3: Kralın Dönüşü (2003)
+https://px.rovideox.org/v/d/tt0167260/tr/1080
+
+#EXTINF:-1 tvg-name="Hobbit 1" tvg-id="Hobbit 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkUN8AipSzFcjbHc-R7Dg4e8AH3GojhsKGaA&s" group-title="SİNEMA",Hobbit 1: Beklenmedik Yolculuk(2012)
+https://sx1.rovideo.buzz/v/d/tt0903624/tr/1080
+
+#EXTINF:-1 tvg-name="Hobbit 2" tvg-id="Hobbit 2" tvg-logo="https://de.web.img2.acsta.net/pictures/210/581/21058146_20131115113552071.jpg" group-title="SİNEMA",Hobbit 2: Smaug'un Çorak Toprakları (2013)
+https://sx1.rovideo.buzz/v/d/tt1170358/tr/1080
+
+#EXTINF:-1 tvg-name="Hobbit 3" tvg-id="Hobbit 3" tvg-logo="https://de.web.img2.acsta.net/pictures/14/11/17/09/52/047745.jpg" group-title="SİNEMA",Hobbit 3: Beş Ordunun Savaşı (2014)
+https://sx1.rovideo.buzz/v/d/tt2310332/tr/1080
+https://vidmody.com/vs/tt2310332
+
+#EXTINF:-1 tvg-name="Açlık Oyunları" tvg-id="Açlık Oyunları" tvg-logo="https://tr.web.img4.acsta.net/pictures/23/09/21/14/38/1198785.jpg" group-title="SİNEMA",Açlık Oyunları 1
+https://vidmody.com/vs/tt1392170
+
+#EXTINF:-1 tvg-name="Açlık Oyunları 2" tvg-id="Açlık Oyunları 2" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/210/512/21051270_20131021162051824.jpg" group-title="SİNEMA",Açlık Oyunları 2
+https://vidmody.com/vs/tt1951264
+
+#EXTINF:-1 tvg-name="Açlık Oyunları 3" tvg-id="Açlık Oyunları 3" tvg-logo="https://www.filmizlesene.pro/wp-content/uploads/2015/02/167.jpg" group-title="SİNEMA",Açlık Oyunları 3
+https://vidmody.com/vs/tt1951265
+
+#EXTINF:-1 tvg-name="Açlık Oyunları 4" tvg-id="Açlık Oyunları 4" tvg-logo="https://i.dr.com.tr/cache/600x600-0/originals/0001871709001-1.jpg" group-title="SİNEMA",Açlık Oyunları 4
+https://vidmody.com/vs/tt1951266
+
+#EXTINF:-1 tvg-name="Malefiz 1" tvg-id="Malefiz 1 2014" tvg-logo="https://tr.web.img4.acsta.net/pictures/14/03/11/12/16/409785.jpg" group-title="SİNEMA",Malefiz 1 (2014)
+https://vidmody.com/vs/tt1587310
+
+#EXTINF:-1 tvg-name="Malefiz 2" tvg-id="Malefiz 2 Kötülüğün Gücü 2019" tvg-logo="https://tr.web.img4.acsta.net/pictures/19/10/14/15/55/0450718.jpg" group-title="Filmler",Malefiz 2 Kötülüğün Gücü (2019)
+https://vidmody.com/vs/tt4777008
+
+#EXTINF:-1 tvg-name="İsyan Gezegeni 1" tvg-id="İsyan Gezegeni - Birinci Bölüm" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/rebel-moon-part-one-a-child-of-fire@2x.webp" group-title="SİNEMA",İsyan Gezegeni 1 - Ateşin Çocuğu (2023)
+https://funnydavay.click/uploads/encode/v4c1o5fygdevh1namzuo/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="İsyan Gezegeni 2" tvg-id="Rebel Moon - Part Two" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/rebel-moon-part-two-the-scargiver@2x.webp" group-title="SİNEMA",İsyan Gezegeni 2 - İz Bırakan (2024)
+https://s379.rapidrame.com/hls2/01/00021/vnkb1a41edch_,l,n,.urlset/index-f2-v1-a1.m3u8?t=BU2MX3cVH1AYtkVZ-8XRy7L_tkByrkvAeMB1JFYUb_k&s=1746312922&e=1199998800&f=105872&i=0.0&sp=0
+https://funnydavay.click/uploads/encode/avholc84sa9z4wu99lcs/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bourne 1" tvg-id="Bourne 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gecmisi-olmayan-adam-izle@2x.webp" group-title="SİNEMA",Bourne 1: Geçmişi Olmayan Adam (2002)
+https://s298.rapidrame.com/hls2/01/00006/bsns8wj0rmba_,l,n,.urlset/index-f2-v1-a2.m3u8?t=DZ_PtD3XsZ8iyStZDg5CMJERK1pUPcL78fLR-ttZzx4&s=1746374065&e=1199998800&f=30896&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Bourne 2" tvg-id="Bourne 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/medusa-darbesi-izle@2x.webp" group-title="SİNEMA",Bourne 2: Medusa Darbesi (2004)
+https://s298.rapidrame.com/hls2/01/00006/to0o7dreumqp_,l,n,.urlset/index-f2-v1-a2.m3u8?t=WiS5ZYoAw-qH9tbzYWSMNYzdKU5FtKP_Atob85gMbik&s=1746374187&e=1199998800&f=30895&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Bourne 3" tvg-id="Bourne 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/bourne-son-ultimatom-izle@2x.webp" group-title="SİNEMA",Bourne 3: Son Ültimatom (2007)
+https://s298.rapidrame.com/hls2/01/00006/pzoj172tbd8e_,l,n,.urlset/index-f2-v1-a2.m3u8?t=rvhmjNFWrNsG6WNEDOn_MBfbHYEMPS1wMxIfZ3zXq40&s=1746374228&e=1199998800&f=30894&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Bourne 4" tvg-id="Bourne 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/bourne-bourneun-mirasi-izle@2x.webp" group-title="SİNEMA",Bourne 4: Bourne'un Mirası (2012)
+https://s298.rapidrame.com/hls2/01/00006/5okafl8kgahi_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Rvzk7drG2EEdUc1gdWKcWg7RgDDYfPF14ne33wNICJQ&s=1746374342&e=1199998800&f=30893&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Bourne 5" tvg-id="Bourne 5" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-jason-bourne-izle@2x.webp" group-title="SİNEMA",Bourne 5: Jason Bourne (2016)
+https://s427.rapidrame.com/hls2/01/00020/wruqn7qvr12a_,l,n,.urlset/index-f2-v1-a1.m3u8?t=sYWxnNtMAuXQhK6OltT-maVKYdv8GEzJYdltlJxcR8k&s=1746373845&e=1199998800&f=101011&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Çin Seddi" tvg-id="Çin Seddi" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/cin-seddi-film-izle@2x.webp" group-title="SİNEMA",Çin Seddi (2016)
+https://s343.rapidrame.com/hls2/01/00006/bwe7yxdlss4x_,l,n,.urlset/index-f2-v1-a1.m3u8?t=uRqc5VG0nyTXgeFv6s5FFDUTlCZXkIDbcR4ARMqdkPk&s=1746374631&e=1199998800&f=30498&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Arıcı Ölüm Kovanı" tvg-id="Arıcı Ölüm Kovanı" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-beekeeper@2x.webp" group-title="SİNEMA",Arıcı Ölüm Kovanı (2024)
+https://argamdavay.click/uploads/encode/7gpvg3k1ncsfn9hb6pv3/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="A Working Man" tvg-id="A Working Man" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/a-working-man@2x.webp" group-title="SİNEMA",A Working Man (2025)
+https://s425.rapidrame.com/hls2/01/00023/9b7zrkm5vi9k_,l,n,.urlset/index-f2-v1-a1.m3u8?t=0l7_tzEQIJ9pRZEuHHB7QeOOPeo4R_tRN7edR-3Pmro&s=1746756341&e=1199998800&f=115130&srv=s379&i=0.0&sp=0&p1=s425&p2=s425
+https://s425.rapidrame.com/hls2/01/00023/sv6dykyb71xt_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6tN0CZCKzAq7znZa5lg9Lb4DVhPDhm4gS_eQ8_mqbug&s=1746376298&e=1199998800&f=115101&srv=s379&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:-1 tvg-name="Gülümse 1" tvg-id="Gülümse 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/smile@2x.webp" group-title="SİNEMA",Gülümse 1: (2022)
+https://s230.rapidrame.com/hls2/01/00020/wupha5v2jh51_,l,n,.urlset/index-f2-v1-a1.m3u8?t=vnJ2u3jdITlfSvp5eu9--klf4HQHbeX4IkTHBNaxnSc&s=1746376071&e=1199998800&f=100511&srv=s390&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Gülümse 2" tvg-id="Gülümse 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/smile-2-hdfc@2x.webp" group-title="SİNEMA",Gülümse 2:(2024)
+https://s231.rapidrame.com/hls2/01/00022/3byr774dy2t0_,l,n,.urlset/index-f2-v1-a1.m3u8?t=0U7YvEztuRS15EgNybMwwlhdM2fbvqeGyk7Gc4gsBhk&s=1746375865&e=1199998800&f=113451&srv=s390&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 tvg-name="The Gorge" tvg-id="The Gorge" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-gorge@2x.webp" group-title="SİNEMA",The Gorge ALTYAZILI (2025)
+https://s230.rapidrame.com/hls2/01/00022/j4b4kvc0s24l_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ahaGnpcElk_EzD4YYFQbbKyJi_mXhs_zVYliX0ym814&s=1746376529&e=1199998800&f=112189&srv=s390&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="The Gorge" tvg-id="The Gorge" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-gorge@2x.webp" group-title="SİNEMA",The Gorge TÜRKÇE (2025)
+https://s230.rapidrame.com/hls2/01/00022/1i7thgjn7k3g_,l,n,.urlset/index-f2-v1-a1.m3u8?t=1NS3FZxO0c5ZOvSg0H4qUW-SBsNs0bzg7k2sIM79llo&s=1746564046&e=1199998800&f=113925&srv=s424&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Underworld Karanlıklar Ülkesi 1" tvg-id="Underworld Karanlıklar Ülkesi 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-karanliklar-ulkesi-1-izle@2x.webp" group-title="SİNEMA",Karanlıklar Ülkesi 1: (2003)
+https://s427.rapidrame.com/hls2/01/00021/1cgjv0fb41rr_,l,n,.urlset/index-f2-v1-a2.m3u8?t=QPgMY9KQIw0xhde2oTBlT8Fc7fKtwv4zqmrkGHlrHbQ&s=1746377352&e=1199998800&f=106047&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Underworld Karanlıklar Ülkesi 2" tvg-id="Underworld Karanlıklar Ülkesi 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-karanliklar-ulkesi-evrim-izle@2x.webp" group-title="SİNEMA",Karanlıklar Ülkesi 2: Evrim (2006)
+https://s427.rapidrame.com/hls2/01/00021/nokio5g16dir_,l,n,.urlset/index-f2-v1-a1.m3u8?t=OD0edDZmPDTit7h8cpXJnVusIUuNkDFg1fOBbh0ybVA&s=1746377882&e=1199998800&f=106046&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Underworld Karanlıklar Ülkesi 3" tvg-id="Underworld Karanlıklar Ülkesi 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-karanliklar-ulkesi-lycanlarin-yukselisi-izle@2x.webp" group-title="SİNEMA",Karanlıklar Ülkesi 3: Lycanların Yükselişi (2009)
+https://s351.rapidrame.com/hls2/01/00021/mq7bag17hija_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bdvKWx7XSf25F96t2J05FngR39P0_rbEJ0Cv-kuZpS0&s=1746378061&e=1199998800&f=106044&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Underworld Karanlıklar Ülkesi 4" tvg-id="Underworld Karanlıklar Ülkesi 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-karanliklar-ulkesi-uyanis-izle@2x.webp" group-title="SİNEMA",Karanlıklar Ülkesi 4: Uyanış (2012)
+https://s425.rapidrame.com/hls2/01/00021/1g7qunf7wmf2_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6_vXazuvDMbDSIXY8Y_gr6IShzwfWMzB4SP0Ge2OAL4&s=1746377736&e=1199998800&f=106043&srv=s350&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:-1 tvg-name="Underworld Karanlıklar Ülkesi 5" tvg-id="Underworld Karanlıklar Ülkesi 5" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-underworld-blood-wars-izle@2x.webp" group-title="SİNEMA",Karanlıklar Ülkesi 5: Kan Savaşları (2016)
+https://s379.rapidrame.com/hls2/01/00021/zabhgpcq30zk_,l,n,.urlset/index-f2-v1-a1.m3u8?t=1Yk33MD3RR297QgOF7TyLVKgvOcFChMrqTCSJF4Qmck&s=1746377934&e=1199998800&f=106045&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="John Wick 1" tvg-id="John Wick 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-2-john-wick-izle@2x.webp" group-title="SİNEMA",John Wick 1: (2014)
+https://s230.rapidrame.com/hls2/01/00017/qpi0mwio5szb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=st2a7fQlL1xXNOhdeKE4X6HtH9TTSEQSF1TLaihwbSQ&s=1746378554&e=1199998800&f=89296&srv=s342&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="John Wick 2" tvg-id="John Wick 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/4-johhnn-wick-2-full-hd-film-izle@2x.webp" group-title="SİNEMA",John Wick 2: (2017)
+https://s230.rapidrame.com/hls2/01/00018/c5b8xil7zf07_,l,n,.urlset/index-f2-v1-a2.m3u8?t=1814ORs7GBEAKmwAlQzuA57Z2ZA7HKY7gSbpQQgdNfc&s=1746378674&e=1199998800&f=93198&srv=s314&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="John Wick 3" tvg-id="John Wick 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-john-wick-3-parabellum-1080p-full-hd-izle@2x.webp" group-title="SİNEMA",John Wick 3: Parabellum (2019)
+https://s230.rapidrame.com/hls2/01/00017/d6p9owysjf3p_,l,n,.urlset/index-f2-v1-a2.m3u8?t=EX1irPgSPlo2nfFNDKkzFKcxSXvI-ThhBYZyNUWQm2w&s=1746378861&e=1199998800&f=89300&srv=s342&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="John Wick 4" tvg-id="John Wick 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/john-wick-chapter-4@2x.webp" group-title="SİNEMA",John Wick 4: (2023)
+https://s231.rapidrame.com/hls2/01/00017/3k4fprb7uhr2_,l,n,.urlset/index-f2-v1-a2.m3u8?t=bwZU5O9TzfSOT3a6vj3VhGBy3dKQiAv1lGla-7VyxHE&s=1746379017&e=1199998800&f=89294&srv=s402&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 tvg-name="Kingsman 1" tvg-id="Kingsman 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-1-kingsman-gizli-servis-1080p-turkce-dublaj-izle@2x.webp" group-title="SİNEMA",The Kingsman 1: Gizli Servis (2014)
+https://s373.rapidrame.com/hls2/01/00018/bpspshspsm4j_,l,n,.urlset/index-f2-v1-a1.m3u8?t=DcSgpt7Lhny-bqDLuEjDGS4B0PrnxULznswDeTHCHhA&s=1746381435&e=1199998800&f=93273&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Kingsman 2" tvg-id="Kingsman 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/3-hd-film-kingsman-altin-cember-izle-1080p@2x.webp" group-title="SİNEMA",The Kingsman 2: Altın Çember (2017)
+https://s350.rapidrame.com/hls2/01/00018/zcgg4ohk70n7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=q3_3MWB9rLEBzcAIp5pvzPkK-5pOmLP0N5p3zQg_Nn8&s=1746381673&e=1199998800&f=93324&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Kingsman 3" tvg-id="Kingsman 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-kings-man-ilk-gorev-izle@2x.webp" group-title="SİNEMA",The Kingsman 3: Başlangıç (2021)
+https://s3.gelsistirire.cfd:183/d/zanbmdcask3rtzj5x3wrzh4tjbwbdvtsfw6elhtjbdttobtxvrufh23t3w5h63i2mrljzgo4/ceozqi1n0nv8.mp4
+
+#EXTINF:-1 tvg-name="Örümcek Adam 1" tvg-id="Örümcek Adam 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-orumcek-adam-izle@2x.webp" group-title="SİNEMA",Örümcek Adam 1: Spider-Man 1 (2002)
+https://s230.rapidrame.com/hls2/01/00021/8mjkprvjeivk_,l,n,.urlset/index-f1-v1-a1.m3u8?t=45_NlC3_w4OINljsmnthcs45pBu6rim2zq2ngvaQsN0&s=1746382778&e=1199998800&f=107543&srv=s389&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Örümcek Adam 2" tvg-id="Örümcek Adam 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-orumcek-adam-2-izle@2x.webp" group-title="SİNEMA",Örümcek Adam 2: Spider-Man 2 (2004)
+https://s230.rapidrame.com/hls2/01/00021/bxfa0clmzsmz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=cl4vyF6igB1RhbWDS_4ExD0QUDGf7RyfpsgxMwlPzKQ&s=1746382802&e=1199998800&f=107539&srv=s298&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Örümcek Adam 3" tvg-id="Örümcek Adam 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-orumcek-adam-3-izle@2x.webp" group-title="SİNEMA",Örümcek Adam 3: Spider-Man 3 (2007)
+https://s350.rapidrame.com/hls2/01/00021/6fq0ih7mj9sv_,l,n,.urlset/index-f2-v1-a1.m3u8?t=mlJupXoM6Kjj95AC55Kc-ykHe4eiEKByht5DG562tx4&s=1746382835&e=1199998800&f=107540&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Örümcek Adam 4" tvg-id="Örümcek Adam 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/inanilmaz-orumcek-adam-hd-izle@2x.webp" group-title="SİNEMA",Örümcek Adam 4:İnanılmaz Örümcek Adam 1 (2012)
+https://s231.rapidrame.com/hls2/01/00018/9o0kpyc18kp3_,l,n,.urlset/index-f2-v1-a1.m3u8?t=_w4vmiFQt171aTFy2wcxvSJDbAZGsDRMMbsClkYkM3Q&s=1746383930&e=1199998800&f=93470&srv=s350&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 tvg-name="Örümcek Adam 5" tvg-id="Örümcek Adam 5" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/inanilmaz-orumcek-adam-2-film-izle@2x.webp" group-title="SİNEMA",Örümcek Adam 5: İnanılmaz Örümcek Adam 2 (2014)
+https://s230.rapidrame.com/hls2/01/00018/9j5h2am7bcig_,l,n,.urlset/index-f2-v1-a1.m3u8?t=pyWzRPZm-_g9mQBL0GST_qUYp1xnp0TapmL78vjQGNo&s=1746384097&e=1199998800&f=93327&srv=s350&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Spiderman Homecoming" tvg-id="Spiderman Homecoming" tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg" group-title="SİNEMA",Örümcek Adam 6: Yuvaya Dönüş (2017)
+https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1
+
+#EXTINF:-1 tvg-name="Spiderman Far from Home" tvg-id="Spiderman Far from Home" tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg" group-title="SİNEMA",Örümcek Adam 7: Evden Uzakta (2019)
+https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1
+
+#EXTINF:-1 tvg-name="Spiderman No way Home" tvg-id="Spiderman No way Home" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/orumcek-adam-eve-donus-yok-izle-1-16915.jpg" group-title="SİNEMA",Örümcek Adam 8: Eve Dönüş Yok (2021)
+https://px.rovideos.org/v/d/tt10872600/tr/1080
+
+#EXTINF:-1 tvg-name="Cehennem Melekleri 1" tvg-id="Cehennem Melekleri 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-cehennem-melekleri-izle@2x.webp" group-title="SİNEMA",Cehennem Melekleri 1 (2010)
+https://sx1.rovideoz.org/v/d/tt1320253/tr/1080
+https://s394.rapidrame.com/hls2/01/00020/9zsuh629ac1y_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bHcDsVsTrBkThN3-AWAcHrraow1RblktCSACI9_vYto&s=1746385166&e=1199998800&f=100188&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Cehennem Melekleri 2" tvg-id="Cehennem Melekleri 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-cehennem-melekleri-2-izle@2x.webp" group-title="SİNEMA",Cehennem Melekleri 2 (2012)
+https://sx1.rovideo.buzz/v/d/tt1764651/tr/1080
+
+#EXTINF:-1 tvg-name="Cehennem Melekleri 3" tvg-id="Cehennem Melekleri 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-cehennem-melekleri-3-hd-film-izle@2x.webp" group-title="SİNEMA",Cehennem Melekleri 3 (2014)
+https://sx1.rovideox.org/v/d/tt2333784/tr/1080
+https://vidmody.com/mm/tt2333784/main/index-v1-a1.gif
+
+#EXTINF:-1 tvg-name="Cehennem Melekleri 4" tvg-id="Cehennem Melekleri 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/expend4bles@2x.webp" group-title="SİNEMA",Cehennem Melekleri 4 (2023)
+https://d2.rovideo.buzz/v/d/tt3291150/tr/1080
+
+#EXTINF:-1 tvg-name="X-MEN 1" tvg-id="X-MEN 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/x-men-hd-izle@2x.webp" group-title="SİNEMA",X-MEN 1: X-MEN (2000)
+https://s377.rapidrame.com/hls2/01/00018/gkb3ecel3q16_,l,n,.urlset/index-f2-v1-a1.m3u8?t=PqecShrzldSneqb4NTJu04aNKrs-8X-UapQMtKKMUT4&s=1746386651&e=1199998800&f=93351&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="X-MEN 2" tvg-id="X-MEN 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/x2@2x.webp" group-title="SİNEMA",X-MEN 2: X2 (2003)
+https://s400.rapidrame.com/hls2/01/00018/0jnnp2847j5i_,l,n,.urlset/index-f2-v1-a1.m3u8?t=V1pqAtAnAYrklEP-7aCxIPmlNcwKdUIHFGp8kUhdCA0&s=1746386810&e=1199998800&f=93453&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="X-MEN 3" tvg-id="X-MEN 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/x-men-son-direnis-hd-izle@2x.webp" group-title="SİNEMA",X-MEN 3: Son Direniş (2006)
+https://s373.rapidrame.com/hls2/01/00018/at0zx9o0x9kg_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Ybzw1b0g6rmMMMvYvi86v3RZuYiRZmcuD4F3MHg2IJE&s=1746386890&e=1199998800&f=93441&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="X-MEN 4" tvg-id="X-MEN 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/x-men-baslangic-hd-izle@2x.webp" group-title="SİNEMA",X-MEN 4: Başlangıç (2009)
+https://s373.rapidrame.com/hls2/01/00018/9kl5ma8hf24j_,l,n,.urlset/index-f2-v1-a1.m3u8?t=j2m8p8ide5HjA8NuOulnElO3b8hQQsdneOn_GlQAZx0&s=1746387025&e=1199998800&f=93407&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="X-MEN 5" tvg-id="X-MEN 5" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/x-men-first-class-hd-izle@2x.webp" group-title="SİNEMA",X-MEN 5: Birinci Sınıf (2011)
+https://s400.rapidrame.com/hls2/01/00018/7qgbgnqead1r_,l,n,.urlset/index-f2-v1-a1.m3u8?t=KCrjHG4ILbsUmbwGAVYvo-iXZ9B2a9rNbo-1JifpQ6U&s=1746387150&e=1199998800&f=93378&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="X-MEN 6" tvg-id="X-MEN 6" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-wolverine-hd-izle@2x.webp" group-title="SİNEMA",X-MEN 6: The Wolverine (2013)
+https://s400.rapidrame.com/hls2/01/00018/ayhmszkg1xb4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=60YXX851LxAqwE_bKjhLSnKSyp3PSh73T8KWwMs7NKY&s=1746387241&e=1199998800&f=93333&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="X-MEN 7" tvg-id="X-MEN 7" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-x-men-gecmis-gunler-gelecek-1080p-turkce-dublaj-izle@2x.webp" group-title="SİNEMA",X-MEN 7: Geçmiş Günler Gelecek (2014)
+https://s400.rapidrame.com/hls2/01/00018/uruyy4159rbi_,l,n,.urlset/index-f2-v1-a1.m3u8?t=ZOJ1MdYfaFWj7hXSnUfKITxyqjtl2xQtI6qgC1wcNyc&s=1746387342&e=1199998800&f=93395&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="X-MEN 8" tvg-id="X-MEN 8" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/x-men-kiyamet-film-izle@2x.webp" group-title="SİNEMA",X-MEN 8: Kıyamet (2016)
+https://sx1.rovideo.buzz/v/d/tt3385516/tr/1080
+
+#EXTINF:-1 tvg-name="X-MEN 9" tvg-id="X-MEN 9" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/4-loggganizle@2x.webp" group-title="SİNEMA",X-MEN 9: Logan (2017)
+https://s375.rapidrame.com/hls2/01/00018/j8fa6nkna1sm_,l,n,.urlset/index-f2-v1-a1.m3u8?t=WW09kjDlg6uyAE6U6efkST7Yoc6pt-c9jrD6YsbdOgs&s=1746387486&e=1199998800&f=93479&i=0.0&sp=0
+https://dplayer82.site/multiplayer.php?v=70576980de351f51afb54f438d86e5fa
+
+#EXTINF:-1 tvg-name="Fantastik Canavarlar 1" tvg-id="Fantastik Canavarlar 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/fantastik-canavarlar-1-film-izle@2x.webp" group-title="SİNEMA",Fantastik Canavarlar 1: Nelerdir Nerede Bulunurlar (2016)
+https://tmstr4.shadowlandschronicles.com/pl/H4sIAAAAAAAAAwXB0XqCIBgA0FcCMRe7tETnBn4hPwZ3ITYnulUfreXT7xySoWHwKCPnc5LQF7rJ.p72buO2FG39yb02R766hY6nmSdQ4sTr8W50WA8IjyeVEw9p2sLfW3tkeihSIpcYu0k2QOpLTwrcVpAewGO_n59myo1WNnaAS7naK9_Fbz2zG0fmMYRL1lQ2F_t5kkW8SxUeEugKX_HQlFELfFF8ygMQ.6NKudNdgdRSVyJJkWZy01X52hNGdPDGhS1ynZ9UNz7fsWQcWSOxRz3Q0cBnKrFthwJuDRPcIfpoQz16JJgl_kMg2.pkvsIzKjHJ339K8t74IQEAAA--/6a909f4727881a3469bd52fa9b42122c/index.m3u8
+https://hls32-eu.zcdn.stream/80db449cb3cf5234b0c55c5c8dc02d05/2025-02-06/1080.m3u8?token=842fbf108fd04a47892022393717ba02&client=6fe34c7542624cd2c865ec367608af0a&expires=1746584924&type=edge&asn=13335&node=Ce4TnMK8kKl4Fv-kAaojM4OHCYe_YEylsHWC4DqeIU16s60v1GVsp7wQ9lE9OBdwmick3PfO0P3tphy3YMfB7g
+
+#EXTINF:-1 tvg-name="Fantastik Canavarlar 2" tvg-id="Fantastik Canavarlar 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-fantastik-canavarlar-grindelwaldin-suclari-film-izle@2x.webp" group-title="SİNEMA",Fantastik Canavarlar 2: Grindelwald'ın Suçları (2018)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/54/10/46/38/53/52/78/54/80/7/e05cb620-c5f1-4bd0-93b4-a4910e7a84cc/kaltura/desc_5126e680d31801a86d3dcac39db0a590/vpR21FbSb-kY/vw=1920,vh=800,fps=24.00,vbrt=1406897,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+https://sx1.rovideos.org/v/d/tt4123430/tr/1080
+
+#EXTINF:-1 tvg-name="Fantastik Canavarlar 3" tvg-id="Fantastik Canavarlar 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/fantastic-beasts-the-secrets-of-dumbledore@2x.webp" group-title="SİNEMA",Fantastik Canavarlar 3: Dumbledore'un Sırları (2022)
+https://sx1.rovideo.buzz/v/d/tt4123432/tr/1080
+
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 1" tvg-id="Görevimiz Tehlike 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gorevimiz-tehlike-1-izle-hd@2x.webp" group-title="SİNEMA",Görevimiz Tehlike 1: (1996)
+https://s295.rapidrame.com/hls2/01/00006/fe1o0xhihk1i_,l,n,.urlset/index-f2-v1-a2.m3u8?t=cVyui3PPCtUZNX5Wizti951iE7oXPQhVx18Ws98Zwgg&s=1746396585&e=1199998800&f=31773&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 2" tvg-id="Görevimiz Tehlike 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gorevimiz-tehlike-2-izle-hd@2x.webp" group-title="SİNEMA",Görevimiz Tehlike 2: (2000)
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/ZQ01hGwlDlEHfYENNfi/ZX
+
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 3" tvg-id="Görevimiz Tehlike 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gorevimiz-tehlike-3-izle-hd@2x.webp" group-title="SİNEMA",Görevimiz Tehlike 3: (2006)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/62/76/00/86/19/62/09/51/19/3/2ced1cb4-43ff-46c3-855c-5378c8301d99/kaltura/desc_5e69d52644edc754982c0d84dcdb7e4e/vRz-aOQbcKiQ/vw=1920,vh=818,fps=24.00,vbrt=2740811,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 4" tvg-id="Görevimiz Tehlike 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gorevimiz-tehlike-4-izle-hd@2x.webp" group-title="SİNEMA",Görevimiz Tehlike 4: Hayalet Protokol (2011)
+https://s289.rapidrame.com/hls2/01/00006/8se8ab9anxxj_,l,n,.urlset/index-f2-v1-a1.m3u8?t=QVwZNiBMbyhFjiHuNUjz-3DuA59X9yIfYFB7C1YULiA&s=1746397110&e=1199998800&f=31772&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 5" tvg-id="Görevimiz Tehlike 5" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-gorevimiz-tehlike-5-izle@2x.webp" group-title="SİNEMA",Görevimiz Tehlike 5: Rogue Nation (2015)
+https://s285.rapidrame.com/hls2/01/00006/iitth5werogz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=YQLuqpH8gUXTAx2WTpuecSIXeLSKs6tMm3Z-adJ4LCg&s=1746397178&e=1199998800&f=31770&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 6" tvg-id="Görevimiz Tehlike 6" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gorevimiz-tehlike-6-film-izle@2x.webp" group-title="SİNEMA",Görevimiz Tehlike 6: Yansımalar (2018)
+https://s375.rapidrame.com/hls2/01/00005/lf1ixo4i37o6_,l,n,.urlset/index-f2-v1-a1.m3u8?t=xb51M-WOOwVa1Of3B6wluxmnqkuFlxHr3LBhfFkgRnY&s=1746397330&e=1199998800&f=29414&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 7" tvg-id="Görevimiz Tehlike 7" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/mission-impossible-7@2x.webp" group-title="SİNEMA",Görevimiz Tehlike 7: Ölümcül Hesaplaşma 1 (2022)
+https://s230.rapidrame.com/hls2/01/00018/g6xheqs3dg8b_,l,n,.urlset/index-f2-v1-a1.m3u8?t=fKQswblaAga6cqkMd0NRkHKWUa3oNB9LBpqKmsy5L78&s=1746397451&e=1199998800&f=92361&srv=s289&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Görevimiz Tehlike 8" tvg-id="Görevimiz Tehlike 8" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/mission-impossible-the-final-reckoning@2x.webp" group-title="SİNEMA",Görevimiz Tehlike 8: Son Hesaplaşma 2 (2025)
+https://s230.rapidrame.com/hls2/01/00018/g6xheqs3dg8b_,l,n,.urlset/index-f2-v1-a1.m3u8?t=fKQswblaAga6cqkMd0NRkHKWUa3oNB9LBpqKmsy5L78&s=1746397451&e=1199998800&f=92361&srv=s289&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Transformers 1" tvg-id="Transformers 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-transformers-izle@2x.webp" group-title="SİNEMA",Transformers 1: (2007)
+https://s425.rapidrame.com/hls2/01/00006/uvvbz3v0k27l_,l,n,.urlset/index-f2-v1-a1.m3u8?t=g51BzI5mr6k9N6MmM1EINGE1DhJKxJ2pfAMjyA5FzNA&s=1746401752&e=1199998800&f=30548&srv=s354&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:-1 tvg-name="Transformers 2" tvg-id="Transformers 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-transformers-2-izle@2x.webp" group-title="SİNEMA",Transformers 2: Yenilenlerin İntikamı (2009)
+https://s230.rapidrame.com/hls2/01/00006/43szy9w8tekk_,l,n,.urlset/index-f2-v1-a1.m3u8?t=NnHZny8Etj6UIc2_LUFIhKsKk1-2jjrIF410CLPNkcI&s=1746402068&e=1199998800&f=30557&srv=s354&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Transformers 3" tvg-id="Transformers 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-transformers-3-izle@2x.webp" group-title="SİNEMA",Transformers 3: Ay'ın Karanlık Yüzü (2011)
+https://s230.rapidrame.com/hls2/01/00006/yd31hgrfcygn_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Xj425KMcTexLrrgKnPd6bl8TusC3olsteZZX4-wsUZI&s=1746402599&e=1199998800&f=30543&srv=s289&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Transformers 4" tvg-id="Transformers 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/transformers-4-izle@2x.webp" group-title="SİNEMA",Transformers 4: Kayıp Çağ (2014)
+https://s425.rapidrame.com/hls2/01/00006/lqtniarxy4m1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=mV9I5o8LCdOROlrxJlvoetsALJnwUfgOulgHxZLS2nc&s=1746403094&e=1199998800&f=30542&srv=s388&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:-1 tvg-name="Transformers 5" tvg-id="Transformers 5" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/2-transformers-the-last-knight-hd-film-izle@2x.webp" group-title="SİNEMA",Transformers 5: Son Şövalye (2017)
+https://s230.rapidrame.com/hls2/01/00018/5vs5mqrqc4j8_,l,n,.urlset/index-f2-v1-a1.m3u8?t=faM3KLBt6tkFGRKE_U6VdgKMIO-bWP2cQ1FMCZnLX2o&s=1746403228&e=1199998800&f=93336&srv=s289&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Transformers 6" tvg-id="Transformers 6" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/10-bumblebee-1080p-full-hd-film-izle@2x.webp" group-title="SİNEMA",Transformers 6: Bumblebee (2018)
+https://sx1.rovideo.buzz/v/d/tt4701182/tr/1080
+
+#EXTINF:-1 tvg-name="Transformers 7" tvg-id="Transformers 7" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/transformers-rise-of-the-beasts-4@2x.webp" group-title="SİNEMA",Transformers 7: Canavarların Yükselişi (2023)
+https://s230.rapidrame.com/hls2/01/00018/1h6zgg03vhtq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=dMqB8nXfMonI7xzG-soHxU3MG6w09Ves5MklFKcyFsY&s=1746403589&e=1199998800&f=91770&srv=s314&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Transformers 8" tvg-id="Transformers 8" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/transformers-one@2x.webp" group-title="SİNEMA",Transformers 8: Transformers Başlangıç (2024)
+https://s231.rapidrame.com/hls2/01/00022/jagxxxk97ztt_,l,n,.urlset/index-f2-v1-a1.m3u8?t=rahallqrdMw7FpyCZ6Pe5gYXAqRI9D8c4pVWXRRxomA&s=1746401102&e=1199998800&f=112276&srv=s390&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 tvg-name="Extraction 1" tvg-id="Extraction 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/extraction-izle@2x.webp" group-title="SİNEMA",Extraction 1 (2020)
+https://vidmody.com/mm/tt8936646/main/index-v1-a1.gif
+
+#EXTINF:-1 tvg-name="Extraction 2" tvg-id="Extraction 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/extraction-2@2x.webp" group-title="SİNEMA",Extraction 2 (2023)
+https://vidmody.com/mm/tt12263384/main/index-v1-a1.gif
+https://s3.gelsistirire.cfd:183/d/zanoav2ask3rtzj5xtwqdq67irubklwcndijpuaamcr6htavr74qafn7qyozwxwwn4k6ul5b/rxiafn2rd6n6.mp4
+
+#EXTINF:-1 tvg-name="The Old Guard" tvg-id="The Old Guard" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-old-guard-izle@2x.webp" group-title="SİNEMA",The Old Guard-Eski Muhafız (2020)
+https://sx1.rovideos.org/v/d/tt7556122/tr/1080
+
+#EXTINF:-1 tvg-name="The Matrix 1" tvg-id="The Matrix 1" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-the-matrix-1-720p.webp" group-title="SİNEMA",The Matrix 1: The Matrix (1999)
+https://sx1.rovideox.org/v/d/tt0133093/tr/1080
+
+#EXTINF:-1 tvg-name="The Matrix 2" tvg-id="The Matrix 2" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-the-matrix-2-reloaded-720p-2.webp"group-title="SİNEMA",The Matrix 2: Yeniden Yüklendi (2003)
+https://sx1.rovideos.org/v/d/tt0234215/tr/1080
+
+#EXTINF:-1 tvg-name="The Matrix 3" tvg-id="The Matrix 3" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-the-matrix-3-revolutions-720p.webp"group-title="SİNEMA",The Matrix 3: Devrim (2003)
+https://vidmody.com/mm/tt0242653/main/index-v1-a1.gif
+
+#EXTINF:-1 tvg-name="The Matrix 4" tvg-id="The Matrix 4" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/the-matrix-resurrections-2021.jpg-thumb-detay.webp"group-title="SİNEMA",The Matrix 4: Resurrections (2021)
+https://vidmody.com/mm/tt10838180/main/index-v1-a1.gif
+
+#EXTINF:-1 tvg-name="Indiana Jones 1" tvg-id="Indiana Jones 1" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/1342/thumb_44sKJOGP3fTm4QXBcIuqu0RkdP7.webp" group-title="SİNEMA",Indiana Jones 1: Kutsal Hazine Avcıları (1981)
+https://sx1.rovideo.buzz/v/d/tt0082971/tr/1080
+
+#EXTINF:-1 tvg-name="Indiana Jones 2" tvg-id="Indiana Jones 2" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/2029/thumb_f2nTRKk2zGdUTE7tLJ5EGGSuKA6.webp" group-title="SİNEMA",Indiana Jones 2: Kamçılı Adam (1984)
+https://sx1.rovideo.buzz/v/d/tt0087469/tr/1080
+
+#EXTINF:-1 tvg-name="Indiana Jones 3" tvg-id="Indiana Jones 3" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/443/thumb_4p1N2Qrt8j0H8xMHMHvtRxv9weZ.webp" group-title="SİNEMA",Indiana Jones 3: Son Macera (1989)
+https://d2.rovideo.buzz/v/d/tt0097576/tr/1080
+
+#EXTINF:-1 tvg-name="Indiana Jones 4" tvg-id="Indiana Jones 4" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/4438/thumb_zeaUw2DwrS40wGB3oIZQjsCEbAF.webp" group-title="SİNEMA",Indiana Jones 4: Kristal Kafatası Krallığı (2008)
+https://i7.abphoto.live/f3/NNODDubGOTLcETbwSTMxu6aMXMxoBWXDtmfxRYYkxGmUAmW5PYX7l8Ii0XECw1gf0mXCC1YkplYk88h2z3NDOYkFlYsqlitZldj0Fvr1b1080
+https://d2.rovideo.buzz/v/d/tt0367882/en/1080
+
+#EXTINF:-1 tvg-name="Indiana Jones 5" tvg-id="Indiana Jones 5" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/indiana-jones-ve-kader-kadrani-indiana-jones-and-the-dial-of-destiny-97476.webp" group-title="SİNEMA",Indiana Jones 5: Kader Kadranı (2023)
+https://p1.photostack.net/v/klc833ot9u58/1080.m3u8
+
+#EXTINF:-1 tvg-name="300 Spartalı 1" tvg-id="300 Spartalı 1" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/2231/thumb_bYR8O1H1ZlME7Dm9ysfTYZnRDpw.webp" group-title="SİNEMA",300 Spartalı 1: 300 Spartalı (2006)
+https://sx1.rovideo.buzz/v/d/tt0416449/tr/1080
+
+#EXTINF:-1 tvg-name="300 Spartalı 2" tvg-id="300 Spartalı 2" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/2342/thumb_gWQf5j3ZqEfOdW2rIZnkuOOva78.webp" group-title="SİNEMA",300 Spartalı 2: Bir İmparatorluğun Yükselişi (2014)
+https://sx1.rovideos.org/v/d/tt1253863/tr/1080
+
+#EXTINF:-1 tvg-name="Mad Max 1" tvg-id="Mad Max 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/cilgin-max-izle@2x.webp" group-title="SİNEMA",Mad Max 1: Çılgın Max (1979)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/65/74/74/72/43/01/88/58/78/9/b98582ac-d986-4a31-8a35-21cff9cfc492/kaltura/desc_634080a7cc8189ae3fb2151099b92827/vNy9Kemu2Q2k/vw=1920,vh=816,fps=24.00,vbrt=1644526,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Mad Max 2" tvg-id="Mad Max 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/cilgin-max-2-yol-savascisi-izle@2x.webp" group-title="SİNEMA",Mad Max 2: Yol Savaşcısı (1981)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/21/19/58/04/91/12/75/53/56/5/1ecc2888-c8ae-4e5e-8c5b-ce443d97d6bb/kaltura/desc_bbcc123a2ecba4b6fcb3babe8dc0f744/vknd8952zzhY/vw=1280,vh=534,fps=24.00,vbrt=1432569,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Mad Max 3" tvg-id="Mad Max 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/cilgin-maks-3-gokkubbenin-ardinda-izle@2x.webp" group-title="SİNEMA",Mad Max 3: Gök gürültüsünün ardında (1985)
+https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/85/91/22/34/78/67/01/75/50/8/64bce3c4-9703-48b8-88af-cd9547cbcd65/kaltura/desc_3fc267086628e9708ed5b92dc1168e25/vtcistLyt31Y/vw=1920,vh=796,fps=24.00,vbrt=2393176,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="Mad Max 4" tvg-id="Mad Max 4" tvg-logo="https://www.hdfilmizle.to/v/13911/poster/watch-lg/mad-max-4-ofkeli-yollar.webp" group-title="SİNEMA",Mad Max 4: Öfkeli Yollar (2015)
+https://p3.photofunia.pro/v/h0r64zlfp27u/1080.m3u8
+
+#EXTINF:-1 tvg-name="Mad Max 5" tvg-id="Mad Max 5" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/furiosa-a-mad-max-saga@2x.webp" group-title="SİNEMA",Mad Max 5: Furiosa: Bir Mad Max Destanı (2024)
+https://vidmody.com/mm/tt12037194/main2/index-v1-a1.gif
+
+#EXTINF:-1 tvg-name="Mad Max 6" tvg-id="Mad Max 6" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4575512%2F&psig=AOvVaw19ulrL0nHW7J-u32_uP7yA&ust=1746812928087000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCy_7W3lI0DFQAAAAAdAAAAABAE" group-title="SİNEMA",Mad Max 6: Çorak Topraklar (2025)
+
+#EXTINF:-1 tvg-name="Derin Kargaşa" tvg-id="Derin Kargaşa" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/havoc@2x.webp" group-title="SİNEMA",Derin Kargaşa (2025)
+https://s231.rapidrame.com/hls2/01/00023/0i0t3o2hq962_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Eg91ujnxz2oA3Z7ukRya83aEKOcHQz63sYQLZ8qTZsk&s=1746756636&e=1199998800&f=115692&srv=s390&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:-1 tvg-name="Dokunulmazlık" tvg-id="Dokunulmazlık" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/exterritorial@2x.webp" group-title="SİNEMA",Dokunulmazlık (2025)
+https://s230.rapidrame.com/hls2/01/00023/s3uh9459j2xe_,l,n,.urlset/index-f2-v1-a1.m3u8?t=6XRTRLOMnx6YrRJZpxKaq50m_WMZsP9leOFI97XfdH8&s=1746756955&e=1199998800&f=115791&srv=s390&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Son Durak 1" tvg-id="Son Durak 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-izle@2x.webp" group-title="SİNEMA",Son Durak 1: Final Destination 1 (2000)
+https://sx1.rovideoz.org/v/d/tt0195714/tr/1080
+
+#EXTINF:-1 tvg-name="Son Durak 2" tvg-id="Son Durak 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-2-izle@2x.webp" group-title="SİNEMA",Son Durak 2: Final Destination 2 (2003)
+https://s25.imageshub.pro/md/H29hYxE1pzSeYwVhEzyhLJjhETImqTyhLKEco24hZv4lZQNmYwRjBQOjYxE1LJjd0zxnJ1uM2ImnUIvYaOlojs0xi25vr1b1080
+
+#EXTINF:-1 tvg-name="Son Durak 3" tvg-id="Son Durak 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-3-izle@2x.webp" group-title="SİNEMA",Son Durak 3: Final Destination 3 (2006)
+https://s23.rapidimages.pro/my/H29hYxE1pzSeYwZhEzyhLJjhETImqTyhLKEco24hZl4lZQN2YwRjBQOjYxE1LJjd0zxpzSjnJEcoJSaMKZhpUWis0xi23vr1b1080
+
+#EXTINF:-1 tvg-name="Son Durak 4" tvg-id="Son Durak 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-4-izle@2x.webp" group-title="SİNEMA",Son Durak 4: The Final Destination (2009)
+https://s3.gelsistirire.cfd:183/d/zanm4dkask3rtzj5x3wqnte6kbn7k56ygs5yaf3cbnsukgqqdiryhyonb7opg6x5j6t42qar/nof60ozpo9ou.mp4
+https://s3.gelsistirire.cfd:183/d/zanm4dkask3rtzj5x3wqnte6kbn7k56ygs5yaf3cbnsukgqqdigz2vmq6oqyhie5hh2bml7m/nof60ozpo9ou.mp4
+
+#EXTINF:-1 tvg-name="Son Durak 5" tvg-id="Son Durak 5" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-5-izle@2x.webp" group-title="SİNEMA",Son Durak 5: Final Destination 5 (2011)
+https://sx1.rovideoz.org/v/d/tt1622979/tr/1080
+
+#EXTINF:-1 tvg-name="Son Durak 6" tvg-id="Son Durak 6" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/final-destination-bloodlines@2x.webp" group-title="SİNEMA",Son Durak 6: Final Destination Bloodlines (2025)
+https://sx1.rovideoz.org/v/d/tt1622979/tr/1080
+
+#EXTINF:-1 tvg-name="Hayalperest" tvg-id="Hayalperest" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/dreamer-inspired-by-a-true-story@2x.webp" group-title="SİNEMA",Hayalperest Inspired By a True Story (2005)
+https://s3.gelsistirire.cfd/down/ecixgsyhtcpu/n/ecixgsyhtcpu.mp4_n.mp4
+
+#EXTINF:-1 tvg-name="Şampiyon Secretariat" tvg-id="Şampiyon Secretariat" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/secretariat@2x.webp" group-title="SİNEMA",Şampiyon Secretariat (2010)
+https://d2.rovideo.buzz/v/d/tt1028576/tr/1080
+
+#EXTINF:-1 tvg-name="Bold Pilot" tvg-id="Bold Pilot" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/bizim-icin-sampiyon-izle-1@2x.webp" group-title="SİNEMA",Bizim İçin Şampiyon One Love (2018)
+https://s230.rapidrame.com/hls2/01/00000/w3fpj935o7od_,l,n,.urlset/index-f2-v1-a1.m3u8?t=yYo3s-9UmWVOJ4OTrXyA2NP8NDmnCKZhKICoWFusHX8&s=1746832205&e=1199998800&f=1740&srv=s285&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Savaş Atı" tvg-id="Savaş Atı" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/savas-ati-film-izle@2x.webp" group-title="SİNEMA",Savaş Atı War Horse (2011)
+https://sx1.rovideoz.org/v/d/tt1568911/tr/1080
+
+#EXTINF:-1 tvg-name="Savaş Atı" tvg-id="Savaş Atı" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/war-pony@2x.webp" group-title="SİNEMA",Savaş Atı War Pony (2023)
+https://s3.gelsistirire.cfd/down/cggw6kjvb1bu/n/cggw6kjvb1bu.mp4_n.mp4
+
+#EXTINF:-1 tvg-name="Savaş Vadisi" tvg-id="Savaş Vadisi" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/savas-vadisi-izle-hd@2x.webp" group-title="SİNEMA",Savaş Vadisi Hacksaw Ridge (2016)
+https://s3.gelsistirire.cfd:183/d/zanp6ucask3rtzj5xxwqpwmqjndeaw5iaa2nywpwutccecwss3akg2wsfycrx67po2l3bph3/0cgdg8pfugh9.mp4
+
+#EXTINF:-1 tvg-name="Hitman 1" tvg-id="Hitman 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hitman-2007-izle-1080p-hd@2x.webp" group-title="SİNEMA",Hitman 1: Hitman (2007)
+https://sx1.rovideox.org/v/d/tt0465494/tr/1080
+
+#EXTINF:-1 tvg-name="Hitman 2" tvg-id="Hitman 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hitman-ajan-47-izle@2x.webp" group-title="SİNEMA",Hitman 2: Ajan 47 (2015)
+https://sx1.rovideo.buzz/v/d/tt2679042/tr/1080
+https://s3.gelsistirire.cfd/down/3xg5x17d3nxu/n/3xg5x17d3nxu.mp4_n.mp4
+
+#EXTINF:-1 tvg-name="Lara Croft 1" tvg-id="Lara Croft 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-lara-croft-tomb-raider-izle@2x.webp" group-title="SİNEMA",Lara Croft 1: Tomb Raider (2001)
+https://s3.gelsistirire.cfd/down/kgzjrecml335/n/kgzjrecml335.mp4_n.mp4
+
+#EXTINF:-1 tvg-name="Lara Croft 2" tvg-id="Lara Croft 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/lara-croft-tomb-raider-the-cradle-of-life@2x.webp" group-title="SİNEMA",Lara Croft 2: Tomb Raider Yaşamın Kaynağı (2003)
+https://s3.gelsistirire.cfd/down/nnsrm91gn055/n/nnsrm91gn055.mp4_n.mp4
+
+#EXTINF:-1 tvg-name="Lara Croft 3" tvg-id="Lara Croft 3" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/tomb-raider-hd-film-izle@2x.webp" group-title="SİNEMA",Lara Croft 3: Tomb Raider (2018)
+https://s3.gelsistirire.cfd:183/d/zanggisask3rtzj5xtwqlxucisfzb4lmlnr2lo262qmm7ibrzttxslbyunx4j4pb4vqyxrpo/l7yw57nz7zyp.mp4
+
+#EXTINF:-1 tvg-name="The X Files 1" tvg-id="1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-x-files@2x.webp" group-title="SİNEMA",The X Files 1: Gelecekle Savaş (1998)
+https://d2.rovideo.buzz/v/d/tt0120902/tr/1080
+https://s3.gelsistirire.cfd/down/hsfopfu5qq9q/n/hsfopfu5qq9q.mp4_n.mp4
+
+#EXTINF:-1 tvg-name="The X Files 2" tvg-id="The X Files 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-x-files-i-want-to-believe@2x.webp" group-title="SİNEMA",The X Files 2: İnanmak İstiyorum (2008)
+https://s3.gelsistirire.cfd/down/1sthp1kbkgns/n/1sthp1kbkgns.mp4_n.mp4
+
+#EXTINF:-1 tvg-name="The Thing (Şey) 1" tvg-id="The Thing (Şey) 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-thing-sey-1-hd@2x.webp" group-title="SİNEMA",The Thing (Şey) 1: (1982)
+https://sx1.rovideox.org/v/d/tt0084787/tr/1080
+
+#EXTINF:-1 tvg-name="The Thing (Şey) 2" tvg-id="The Thing (Şey) 2" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-thing-sey-2-hd-izle@2x.webp" group-title="SİNEMA",The Thing (Şey) 2: (2011)
+https://s386.rapidrame.com/hls2/01/00003/48zu0wj4caku_,l,n,.urlset/index-f2-v1-a1.m3u8?t=etbu1Eb16vfEnlE3tI7WoCqMnN27GcnuoTRlmGRmq14&s=1746834889&e=1199998800&f=16992&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Muhteşem Yedili " tvg-id="Muhteşem Yedili " tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-muhtesem-yedili-film-izle-hdf4@2x.webp" group-title="SİNEMA",Muhteşem Yedili (2016)
+https://sx1.rovideo.buzz/v/d/tt2404435/tr/1080
+
+#EXTINF:-1 tvg-name="Gazap Ateşi Man on Fire" tvg-id="Gazap Ateşi Man on Fire" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gazap-atesi-hd@2x.webp" group-title="SİNEMA",Gazap Ateşi Man on Fire (2004)
+https://sx1.rovideo.buzz/v/d/tt0328107/tr/1080
+
+#EXTINF:-1 tvg-name="Deja Vu" tvg-id="Deja Vu" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/deja-vu-izle-1080p-hd@2x.webp" group-title="SİNEMA",Deja Vu (2006)
+https://sx1.rovideox.org/v/d/tt0453467/tr/1080
+
+#EXTINF:-1 tvg-name="Frankenstein" tvg-id="Frankenstein" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1hd-frankenstein-olumsuzlerin-savasi-izle@2x.webp" group-title="SİNEMA",Frankenstein Ölümsüzlerin Savaşı (2014)
+https://i4.imgpics.us/fp/NNPxjPHmdFAxvlmOAXjNYAmRAAjVmZGmpmW5lXA70lZe0XmE98h2z3NLDYeLgYZu8YAk8lvr1b1080
+https://s3.gelsistirire.cfd/down/yrdsssqu1spe/n/yrdsssqu1spe.mp4_n.mp4
+
+#EXTINF:-1 tvg-name="Van Helsing" tvg-id="Van Helsing" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-van-helsing-izle@2x.webp" group-title="SİNEMA",Van Helsing (2004)
+https://cdn59.my.mail.ru/hv/71081376.mp4/stream.mpd?slave[]=s%3Ahttp%3A%2F%2F10.146.243.3%3A9091%2Fvideo4%2F71081376-hv&p=f&video_key=c7ce828e00e61bd26637a903a5c487bd5ff6aca1&expire_at=1746990000&touch=1603971219&reg=76&sign=432a3667e88cacff52b95011d783a64da6476cbc&selected_id=video/1
+https://a1.cdnserver1.online/master/05af1960a379ec95a076ee3d46de5b/v1080p/index.jpg
+https://vidmody.com/mm/tt0338526/main/index-v1-a1.gif
+https://sx1.rovideo.buzz/v/d/tt0338526/tr/1080
+
+#EXTINF:-1 tvg-name="John Carter" tvg-id="John Carter" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-john-carter-2-dunya-arasinda-izle@2x.webp" group-title="SİNEMA",John Carter 2 Dünya Arasında (2012)
+https://s385.rapidrame.com/hls2/01/00015/9g1mwed6pj5l_,l,n,.urlset/index-f2-v1-a1.m3u8?t=CJ1Iw0kH350Pn7_K39NWI8y8KFw1mFxa0WFDyQZIgW0&s=1746881069&e=1199998800&f=79034&i=0.0&sp=0
+https://sx1.rovideo.buzz/v/d/tt0401729/tr/1080
+
+#EXTINF:-1 tvg-name="Son Samuray The Last Samurai (2003)" tvg-id="Son Samuray The Last Samurai (2003)" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-samuray-izle-hd@2x.webp" group-title="SİNEMA",Son Samuray The Last Samurai (2003)
+https://s230.rapidrame.com/hls2/01/00022/e6j6k0p9ingz_,l,n,.urlset/index-f2-v1-a1.m3u8?t=_-QU8GtR_9TRC3zJyQ2xoRSpzwqvo59dhAE0Qq-gEJc&s=1746920328&e=1199998800&f=112310&srv=s427&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-name="Wonder Woman 1" tvg-id="Wonder Woman 1" tvg-logo="https://img.fullhdfilmizlesene.de/poster/seri-lg/468552_wonder-woman/tm/1.webp" group-title="SİNEMA",Wonder Woman 1: Wonder Woman (2017)
+https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/ZQ01hGwq1_-Jh7CvEbX/ZX
+https://fcgbwu5x4pis.drewimplemnt.top/d/ggzezqkho7hvw4m6twwm7kivzetfaasvwea6ruu37sdo5djjc3gmm42thu2xtgcajsx2fhyt/Wonder%20Woman%202017%201080p.mkv%20-%20Google%20Drive.mp4
+
+#EXTINF:-1 tvg-name="Wonder Woman 2" tvg-id="Wonder Woman 2" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-wonder-woman-2017-film-izle.webp" group-title="SİNEMA",Wonder Woman 2: Wonder Woman 1984 (2020)
+https://sx1.rovideo.buzz/v/d/tt7126948/tr/1080
+https://s3.gelsistirire.cfd:183/d/zanelzcask3rtzj5qdwrhqmoklxbvjultrnikqdtpklifj4me3mo55uadcudohbo7be565wd/f6gmqv8ijedy.mp4
+
+#EXTINF:-1 tvg-name="Resident Evil 1" tvg-id="Resident Evil 1" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/olumcul-deney-izle@2x.webp" group-title="SİNEMA",Resident Evil 1: Resident Evil (2002)
+https://sx1.rovideox.org/v/d/tt0120804/tr/1080
+
+#EXTINF:-1 tvg-name="Resident Evil 2" tvg-id="Resident Evil 2" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-olumcul-deney-2-turkce-dublaj-izle.webp" group-title="SİNEMA",Resident Evil 2: Kıyamet (2004)
+https://s427.rapidrame.com/hls2/01/00022/nrc9iubt9inb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=qKGGmbjPbJ0DZzMXQCkQSKlFr3qLQhUJv9ZPdmeSnvs&s=1746918771&e=1199998800&f=113097&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Resident Evil 3" tvg-id="Resident Evil 3" tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2021/08/9ac1ab213f26cc432875216715e03dbd-236x350.jpg" group-title="SİNEMA",Resident Evil 3: İnsanlığın  Sonu (2007)
+https://s350.rapidrame.com/hls2/01/00022/lno8qr8hs0f7_,l,n,.urlset/index-f2-v1-a1.m3u8?t=r7_b5Ci_upM9iGHZ2Bt-BobAon8Nd_J1LDzHeinmrGI&s=1746918296&e=1199998800&f=113095&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Resident Evil 4" tvg-id="Resident Evil 4" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-olumcul-deney-4-olumden-sonra-izle@2x.webp" group-title="SİNEMA",Resident Evil 4: Ölümden Sonra (2010)
+https://s427.rapidrame.com/hls2/01/00022/3rov4yjt9m5g_,l,n,.urlset/index-f2-v1-a1.m3u8?t=_ZUX7jJVKyIVUeG_vchSJo230M7y1c7jl-pWwwd1XmM&s=1746919155&e=1199998800&f=113094&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Resident Evil 5" tvg-id="Resident Evil 5" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/olumcul-deney-5-intikam-izle@2x.webp" group-title="SİNEMA",Resident Evil 5: İntikam (2012)
+https://s427.rapidrame.com/hls2/01/00022/e0t0q5cchdhm_,l,n,.urlset/index-f2-v1-a2.m3u8?t=HeNeaVByUEsNfEoz2kl2o1QBm2lZjyjLQIbNvVSgVbc&s=1746919248&e=1199998800&f=113092&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Resident Evil 6" tvg-id="Resident Evil 6" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-olumcul-deney-6-resident-evil-the-final-chapter-hd-izle.webp" group-title="SİNEMA",Resident Evil 6: Son Bölüm (2016)
+https://sx1.rovideoz.org/v/d/tt2592614/tr/1080
+
+#EXTINF:-1 tvg-name="Resident Evil 7" tvg-id="Resident Evil 7" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/11265/thumb_z9pAIpejI3gCey4FZDtEEyjrm9Y.webp" group-title="SİNEMA",Resident Evil 7: Welcome to Raccoon City (2021)
+https://sx1.rovideo.buzz/v/d/tt6920084/tr/1080
+
+#EXTINF:-1 tvg-name="Resident Evil: Degeneration (2008)" tvg-id="Resident Evil: Degeneration (2008)" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/resident-evil-degeneration@2x.webp" group-title="SİNEMA ANİMASYON",Resident Evil: Degeneration (2008)
+https://s402.rapidrame.com/hls2/01/00022/yaajny3u3x9o_,l,n,.urlset/index-f2-v1-a1.m3u8?t=0F8KRzTLVZ6heqLmGdtZ8Aqr1ilCCrRYHWVTnsJiTz0&s=1746920815&e=1199998800&f=113412&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Resident Evil: Damnation (2012)" tvg-id="Resident Evil: Damnation (2012)" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-resident-evil-damnation@2x.webp" group-title="SİNEMA ANİMASYON",Resident Evil: Damnation (2012)
+https://s427.rapidrame.com/hls2/01/00022/rbhacwvnvwm1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=iUMb1emFpTLlRUh5bSW7Ht3yW3oQKVd_1UKn0qw3hRQ&s=1746921080&e=1199998800&f=113411&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Resident Evil: Vendetta(2017)" tvg-id="Resident Evil: Vendetta(2017)" tvg-logo="https://cdn.filmmodu.nl/uploads/movie/poster/3356/thumb_yxzNUk906GnHAknnXeHj8KuGbmj.webp" group-title="SİNEMA ANİMASYON",Resident Evil: Vendetta(2017)
+https://d2.rovideo.buzz/v/d/tt5776208/tr/1080
+
+#EXTINF:-1 tvg-name="Resident Evil : Infinite Darkness (2021)" tvg-id="Resident Evil : Infinite Darkness (2021)" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/resident-evil-infinite-darkness-izle@2x.webp" group-title="SİNEMA ANİMASYON",Resident Evil : Infinite Darkness (2021)
+https://s394.rapidrame.com/hls2/01/00022/8xrv1wn2egnn_,l,n,.urlset/index-f2-v1-a2.m3u8?t=CyTPoKg5WzVdrCfpJgkofCRiFi5nFxxDY3cDZIcI-XM&s=1746921560&e=1199998800&f=113410&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="Resident Evil: Death Island (2023)" tvg-id="Resident Evil: Death Island (2023)" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/resident-evil-death-island@2x.webp" group-title="SİNEMA ANİMASYON",Resident Evil: Death Island (2023)
+https://s394.rapidrame.com/hls2/01/00022/8xrv1wn2egnn_,l,n,.urlset/index-f2-v1-a2.m3u8?t=CyTPoKg5WzVdrCfpJgkofCRiFi5nFxxDY3cDZIcI-XM&s=1746921560&e=1199998800&f=113410&i=0.0&sp=0
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="SİNEMA",
+
+
+
+
+
