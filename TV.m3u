@@ -1,438 +1,81 @@
-#EXTINF:0, ssport
-https://tv.arectv3.xyz:443/live/ssport.m3u8
-#EXTINF:0, ssport2
-https://tv.arectv3.xyz:443/live/ssport2.m3u8
-#EXTINF:0, smart1
-https://tv.arectv3.xyz:443/live/smart1.m3u8
-#EXTINF:0, smart2
-https://tv.arectv3.xyz:443/live/smart2.m3u8
-#EXTINF:0, eurosport 1
-https://tv.arectv3.xyz:443/live/euro1.m3u8
-#EXTINF:0, eurosport 2
-https://tv.arectv3.xyz:443/live/euro2.m3u8
-#EXTINF:0, fbtv
-https://tv.arectv3.xyz:443/live/fbtv.m3u8
-#EXTINF:0, trtspor
-https://tv.arectv3.xyz:443/live/trtspor.m3u8
-#EXTINF:0, aspor
-https://tv.arectv3.xyz:443/live/aspor.m3u8
-#EXTINF:0, edgespor
-https://tv.arectv3.xyz:443/live/edgesport.m3u8
-#EXTINF:0, nbatv
-https://tv.arectv3.xyz:443/live/nbatv.m3u8
-#EXTINF:0, tivi1
-https://tv.arectv3.xyz:443/live/tivi1.m3u8
-#EXTINF:0, tivi2
-https://tv.arectv3.xyz:443/live/tivi2.m3u8
-#EXTINF:0, tivi3
-https://tv.arectv3.xyz:443/live/tivi3.m3u8
-#EXTINF:0, tivi4
-https://tv.arectv3.xyz:443/live/tivi4.m3u8
-#EXTINF:0, fx
-https://tv.arectv3.xyz:443/live/fx.m3u8
-#EXTINF:0, epicdrama
-https://tv.arectv3.xyz:443/live/epicdrama.m3u8
-#EXTINF:0, dmax
-https://tv.arectv3.xyz:443/live/dmax.m3u8
-#EXTINF:0, trtbelgesel
-https://tv.arectv3.xyz:443/live/trtbelgesel.m3u8
-#EXTINF:0, tarihtv
-https://tv.arectv3.xyz:443/live/tarihtv.m3u8
-#EXTINF:0, bbc
-https://tv.arectv3.xyz:443/live/bbc.m3u8
-#EXTINF:0, viasathistory
-https://tv.arectv3.xyz:443/live/viasathistory.m3u8
-#EXTINF:0, viasatexplore
-https://tv.arectv3.xyz:443/live/viasatexplore.m3u8
-#EXTINF:0, history
-https://tv.arectv3.xyz:443/live/history.m3u8
-#EXTINF:0, habitat
-https://tv.arectv3.xyz:443/live/habitat.m3u8
-#EXTINF:0, discovery
-https://tv.arectv3.xyz:443/live/discovery.m3u8
-#EXTINF:0, lovenature
-https://tv.arectv3.xyz:443/live/lovenature.m3u8
-#EXTINF:0, natgeo
-https://tv.arectv3.xyz:443/live/natgeo.m3u8
-#EXTINF:0, natgeowild
-https://tv.arectv3.xyz:443/live/natgeowild.m3u8
-#EXTINF:0, docubox
-https://tv.arectv3.xyz:443/live/docubox.m3u8
-#EXTINF:0, trtmuzik
-https://tv.arectv3.xyz:443/live/trtmuzik.m3u8
-#EXTINF:0, nr1
-https://tv.arectv3.xyz:443/live/nr1.m3u8
-#EXTINF:0, nr1turk
-https://tv.arectv3.xyz:443/live/nr1turk.m3u8
-#EXTINF:0, power
-https://tv.arectv3.xyz:443/live/power.m3u8
-#EXTINF:0, powerturk
-https://tv.arectv3.xyz:443/live/powerturk.m3u8
-#EXTINF:0, dreamturk
-https://tv.arectv3.xyz:443/live/dreamturk.m3u8
-#EXTINF:0, disneyjunior
-https://tv.arectv3.xyz:443/live/disneyjunior.m3u8
+#EXTM3U
+#EXTINF:0,atv
+http://65.108.239.207/atv/index.m3u8
+#EXTINF:0,tv8
+http://65.108.239.207/tv8/index.m3u8
+#EXTINF:0,tv85
+http://65.108.239.207/tv85/index.m3u8
+#EXTINF:0,ssport
+http://65.108.239.207/ss1/index.m3u8
+#EXTINF:0,ssport2
+http://65.108.239.207/ss2/index.m3u8
+#EXTINF:0,smart1
+http://65.108.239.207/smart1/index.m3u8
+#EXTINF:0,smart2
+http://65.108.239.207/smart2/index.m3u8
+#EXTINF:0,eurosport 1
+http://65.108.239.207/euro1/index.m3u8
+#EXTINF:0,eurosport 2
+http://65.108.239.207/euro2/index.m3u8
+#EXTINF:0,fbtv
+http://65.108.239.207/fbtv/index.m3u8
+#EXTINF:0,Tivibu Spor 1
+http://65.108.239.207/t1/index.m3u8
+#EXTINF:0,Tivibu Spor 2
+http://65.108.239.207/t2/index.m3u8
+#EXTINF:0,Tivibu Spor 3
+http://65.108.239.207/t3/index.m3u8
+#EXTINF:0,Tivibu Spor 4
+http://65.108.239.207/t4/index.m3u8
+#EXTINF:0,tabii sport 1
+http://65.108.239.207/tabi1/index.m3u8
+#EXTINF:0,tabii sport 2
+http://65.108.239.207/tabi2/index.m3u8
+#EXTINF:0,tabii sport 3
+http://65.108.239.207/tabi3/index.m3u8
+#EXTINF:0,tabii sport 4
+http://65.108.239.207/tabi4/index.m3u8
+#EXTINF:0,tabii sport 5
+http://65.108.239.207/tabi5/index.m3u8
+#EXTINF:0,tabii sport 6
+http://65.108.239.207/tabi6/index.m3u8
+#EXTINF:0,tarih tv
+http://65.108.239.207/tarihtv/index.m3u8
+#EXTINF:0,bbc
+http://65.108.239.207/bbc/index.m3u8
+#EXTINF:0,viasathistory
+http://65.108.239.207/viasathistory/index.m3u8
+#EXTINF:0,history
+http://65.108.239.207/history/index.m3u8
+#EXTINF:0,lovenature
+http://65.108.239.207/lovenature/index.m3u8
+#EXTINF:0,docubox
+http://65.108.239.207/docubox/index.m3u8
+#EXTINF:0,bsaction1
+http://65.108.239.207/bsaction1/index.m3u8
+#EXTINF:0,bspremier1
+http://65.108.239.207/bspremier1/index.m3u8
+#EXTINF:0,beinofice 3
+http://65.108.239.207/bsfamily/index.m3u8
+#EXTINF:0,sinemaaksiyon2
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+#EXTINF:0,benseri 1
+http://65.108.239.207/box1/index.m3u8
+#EXTINF:0,benseri 2
+http://65.108.239.207/box2/index.m3u8
+#EXTINF:0,box3
+http://65.108.239.207/box3/index.m3u8
+#EXTINF:0,bsstars
+http://65.108.239.207/bsstars/index.m3u8
+#EXTINF:0,sinemayerli
+http://65.108.239.207/sinemayerli/index.m3u8
+#EXTINF:0,sinemayerli2
+http://65.108.239.207/sinemayerli2/index.m3u8
+#EXTINF:0,sinema
+http://65.108.239.207/sinema/index.m3u8
+#EXTINF:0,sinema2
+http://65.108.239.207/sinema2/index.m3u8
 #EXTINF:0, cartoonnetwork
-https://tv.arectv3.xyz:443/l...onnetwork.m3u8
-#EXTINF:0, davinci
-https://tv.arectv3.xyz:443/live/davinci.m3u8
-#EXTINF:0, moviesmart turk
-https://tv.arectv3.xyz:443/live/mvturk.m3u8
-#EXTINF:0, sinemaaile
-https://tv.arectv3.xyz:443/live/sinemaaile.m3u8
-#EXTINF:0, sinemaaile2
-https://tv.arectv3.xyz:443/l...nemaaile2.m3u8
-#EXTINF:0, beinofice 3
-https://tv.arectv3.xyz:443/live/bsfamily.m3u8
-#EXTINF:0, sinema1001
-https://tv.arectv3.xyz:443/live/sinema1001.m3u8
-#EXTINF:0, sinemaaksiyon
-https://tv.arectv3.xyz:443/live/sinemaaksiyon.m3u8
-#EXTINF:0, sinemaaksiyon2
-https://tv.arectv3.xyz:443/live/sinemaaksiyon2.m3u8
-#EXTINF:0, sinema1002
-https://tv.arectv3.xyz:443/live/sinema1002.m3u8
-#EXTINF:0, sinemakomedi
-https://tv.arectv3.xyz:443/live/sinemakomedi.m3u8
-#EXTINF:0, sinemakomedi2
-https://tv.arectv3.xyz:443/live/sinemakomedi2.m3u8
-#EXTINF:0, bspremier1
-https://tv.arectv3.xyz:443/live/bspremier1.m3u8
-#EXTINF:0, benseri 3
-https://tv.arectv3.xyz:443/live/box1.m3u8
-#EXTINF:0, benseri 2
-https://tv.arectv3.xyz:443/live/box2.m3u8
-#EXTINF:0, box3
-https://tv.arectv3.xyz:443/live/box3.m3u8
-#EXTINF:0, bsstars
-https://tv.arectv3.xyz:443/live/bsstars.m3u8
-#EXTINF:0, sinemayerli
-https://tv.arectv3.xyz:443/live/sinemayerli.m3u8
-#EXTINF:0, sinemayerli2
-https://tv.arectv3.xyz:443/live/sinemayerli2.m3u8
-#EXTINF:0, sinema2
-https://tv.arectv3.xyz:443/live/sinema2.m3u8
-#EXTINF:0, sinema
-https://tv.arectv3.xyz:443/live/sinema.m3u8
-#EXTINF:0, bsaction1
-https://tv.arectv3.xyz:443/live/bsaction1.m3u8
-#EXTINF:0, bsturk movies
-https://tv.arectv3.xyz:443/live/bsturk.m3u8
-#EXTINF:0,max1
-https://tv.arectv3.xyz:443/live/mix1.m3u8
-#EXTINF:0,max2
-https://tv.arectv3.xyz:443/live/mix2.m3u8
-#EXTINF:0,max3
-https://tv.arectv3.xyz:443/live/mix3.m3u8
-#EXTINF:0,max4
-https://tv.arectv3.xyz:443/live/mix4.m3u8
-#EXTINF:0,max5
-https://tv.arectv3.xyz:443/live/mix5.m3u8
-#EXTINF:0,korku 1
-https://tv.arectv3.xyz:443/live/kor1.m3u8
-#EXTINF:0,korku 2
-https://tv.arectv3.xyz:443/live/kor2.m3u8
-#EXTINF:0, trtavaz
-https://tv.arectv3.xyz:443/live/trtavaz.m3u8
-#EXTINF:0, aks1 OF
-https://tv.arectv3.xyz:443/live/aks1.m3u8
-#EXTINF:0, aks2
-https://tv.arectv3.xyz:443/live/aks2.m3u8
-#EXTINF:0, aks3
-https://tv.arectv3.xyz:443/live/aks3.m3u8
-#EXTINF:0, ger1
-https://tv.arectv3.xyz:443/live/ger1.m3u8
-#EXTINF:0, ger2
-https://tv.arectv3.xyz:443/live/ger2.m3u8
-#EXTINF:0, bil1
-https://tv.arectv3.xyz:443/live/bil1.m3u8
-#EXTINF:0, bil2
-https://tv.arectv3.xyz:443/live/bil2.m3u8
-#EXTINF:-1,24tv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=24tv
-#EXTINF:-1,360tv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=360tv
-#EXTINF:-1,FilmScreen
-https://koprulu4.global.ssl.fastly.net/kablo/?id=FilmScreen
-#EXTINF:-1,a2
-https://koprulu4.global.ssl.fastly.net/kablo/?id=a2
-#EXTINF:-1,ahaber
-https://koprulu4.global.ssl.fastly.net/kablo/?id=ahaber
-#EXTINF:-1,akittv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=akittv
-#EXTINF:-1,aljazeeraarabic
-https://koprulu4.global.ssl.fastly.net/kablo/?id=aljazeeraarabic
-#EXTINF:-1,aljazeeraint
-https://koprulu4.global.ssl.fastly.net/kablo/?id=aljazeeraint
-#EXTINF:-1,alquran
-https://koprulu4.global.ssl.fastly.net/kablo/?id=alquran
-#EXTINF:-1,alsunnah
-https://koprulu4.global.ssl.fastly.net/kablo/?id=alsunnah
-#EXTINF:-1,anews
-https://koprulu4.global.ssl.fastly.net/kablo/?id=anews
-#EXTINF:-1,apara
-https://koprulu4.global.ssl.fastly.net/kablo/?id=apara
-#EXTINF:-1,arirang
-https://koprulu4.global.ssl.fastly.net/kablo/?id=arirang
-#EXTINF:-1,aspor
-https://koprulu4.global.ssl.fastly.net/kablo/?id=aspor
-#EXTINF:-1,astv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=astv
-#EXTINF:-1,atv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=atv
-#EXTINF:-1,aztv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=aztv
-#EXTINF:-1,babytv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=babytv
-#EXTINF:-1,beinsportshaber
-https://koprulu4.global.ssl.fastly.net/kablo/?id=beinsportshaber
-#EXTINF:-1,benguturk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=benguturk
-#EXTINF:-1,beyaztv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=beyaztv
-#EXTINF:-1,birtv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=birtv
-#EXTINF:-1,bloomberg
-https://koprulu4.global.ssl.fastly.net/kablo/?id=bloomberg
-#EXTINF:-1,bloombergtv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=bloombergtv
-#EXTINF:-1,brt1
-https://koprulu4.global.ssl.fastly.net/kablo/?id=brt1
-#EXTINF:-1,cartoonnetwork
-https://koprulu4.global.ssl.fastly.net/kablo/?id=cartoonnetwork
-#EXTINF:-1,cctv4
-https://koprulu4.global.ssl.fastly.net/kablo/?id=cctv4
-#EXTINF:-1,cgtn
-https://koprulu4.global.ssl.fastly.net/kablo/?id=cgtn
-#EXTINF:-1,cgtndocu
-https://koprulu4.global.ssl.fastly.net/kablo/?id=cgtndocu
-#EXTINF:-1,classical_harmony
-https://koprulu4.global.ssl.fastly.net/kablo/?id=classical_harmony
-#EXTINF:-1,cnbce
-https://koprulu4.global.ssl.fastly.net/kablo/?id=cnbce
-#EXTINF:-1,cnnint
-https://koprulu4.global.ssl.fastly.net/kablo/?id=cnnint
-#EXTINF:-1,cnnturk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=cnnturk
-#EXTINF:-1,davinci
-https://koprulu4.global.ssl.fastly.net/kablo/?id=davinci
-#EXTINF:-1,discoverychannel
-https://koprulu4.global.ssl.fastly.net/kablo/?id=discoverychannel
-#EXTINF:-1,disneyjunior
-https://koprulu4.global.ssl.fastly.net/kablo/?id=disneyjunior
-#EXTINF:-1,diyanet
-https://koprulu4.global.ssl.fastly.net/kablo/?id=diyanet
-#EXTINF:-1,dmax
-https://koprulu4.global.ssl.fastly.net/kablo/?id=dmax
-#EXTINF:-1,docuscreen
-https://koprulu4.global.ssl.fastly.net/kablo/?id=docuscreen
-#EXTINF:-1,dreamturk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=dreamturk
-#EXTINF:-1,ducktv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=ducktv
-#EXTINF:-1,dwtv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=dwtv
-#EXTINF:-1,ekoltv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=ekoltv
-#EXTINF:-1,ekoturk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=ekoturk
-#EXTINF:-1,englishclub
-https://koprulu4.global.ssl.fastly.net/kablo/?id=englishclub
-#EXTINF:-1,epicdramahd
-https://koprulu4.global.ssl.fastly.net/kablo/?id=epicdramahd
-#EXTINF:-1,eurosport1hd
-https://koprulu4.global.ssl.fastly.net/kablo/?id=eurosport1hd
-#EXTINF:-1,eurosport2hd
-https://koprulu4.global.ssl.fastly.net/kablo/?id=eurosport2hd
-#EXTINF:-1,fbtv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=fbtv
-#EXTINF:-1,fightscreen
-https://koprulu4.global.ssl.fastly.net/kablo/?id=fightscreen
-#EXTINF:-1,france24en
-https://koprulu4.global.ssl.fastly.net/kablo/?id=france24en
-#EXTINF:-1,france24fr
-https://koprulu4.global.ssl.fastly.net/kablo/?id=france24fr
-#EXTINF:-1,freedom
-https://koprulu4.global.ssl.fastly.net/kablo/?id=freedom
-#EXTINF:-1,fx
-https://koprulu4.global.ssl.fastly.net/kablo/?id=fx
-#EXTINF:-1,gamescreen
-https://koprulu4.global.ssl.fastly.net/kablo/?id=gamescreen
-#EXTINF:-1,genctv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=genctv
-#EXTINF:-1,gzttv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=gzttv
-#EXTINF:-1,haberglobalhd
-https://koprulu4.global.ssl.fastly.net/kablo/?id=haberglobalhd
-#EXTINF:-1,haberturk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=haberturk
-#EXTINF:-1,halktv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=halktv
-#EXTINF:-1,hayat2
-https://koprulu4.global.ssl.fastly.net/kablo/?id=hayat2
-#EXTINF:-1,htsporhd
-https://koprulu4.global.ssl.fastly.net/kablo/?id=htsporhd
-#EXTINF:-1,id
-https://koprulu4.global.ssl.fastly.net/kablo/?id=id
-#EXTINF:-1,kanal7
-https://koprulu4.global.ssl.fastly.net/kablo/?id=kanal7
-#EXTINF:-1,kanalb
-https://koprulu4.global.ssl.fastly.net/kablo/?id=kanalb
-#EXTINF:-1,kanald
-https://koprulu4.global.ssl.fastly.net/kablo/?id=kanald
-#EXTINF:-1,kbstv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=kbstv
-#EXTINF:-1,kitchentv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=kitchentv
-#EXTINF:-1,kontv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=kontv
-#EXTINF:-1,krttv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=krttv
-#EXTINF:-1,lalegul
-https://koprulu4.global.ssl.fastly.net/kablo/?id=lalegul
-#EXTINF:-1,langlab
-https://koprulu4.global.ssl.fastly.net/kablo/?id=langlab
-#EXTINF:-1,liderhaber
-https://koprulu4.global.ssl.fastly.net/kablo/?id=liderhaber
-#EXTINF:-1,lingotoons
-https://koprulu4.global.ssl.fastly.net/kablo/?id=lingotoons
-#EXTINF:-1,lovenaturehd
-https://koprulu4.global.ssl.fastly.net/kablo/?id=lovenaturehd
-#EXTINF:-1,mezzohd
-https://koprulu4.global.ssl.fastly.net/kablo/?id=mezzohd
-#EXTINF:-1,minikacocuk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=minikacocuk
-#EXTINF:-1,minikago
-https://koprulu4.global.ssl.fastly.net/kablo/?id=minikago
-#EXTINF:-1,myzen
-https://koprulu4.global.ssl.fastly.net/kablo/?id=myzen
-#EXTINF:-1,natgeo
-https://koprulu4.global.ssl.fastly.net/kablo/?id=natgeo
-#EXTINF:-1,natgeowild
-https://koprulu4.global.ssl.fastly.net/kablo/?id=natgeowild
-#EXTINF:-1,nbatv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=nbatv
-#EXTINF:-1,nhkworld
-https://koprulu4.global.ssl.fastly.net/kablo/?id=nhkworld
-#EXTINF:-1,now
-https://koprulu4.global.ssl.fastly.net/kablo/?id=now
-#EXTINF:-1,ntv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=ntv
-#EXTINF:-1,rtrplaneta
-https://koprulu4.global.ssl.fastly.net/kablo/?id=rtrplaneta
-#EXTINF:-1,russia24
-https://koprulu4.global.ssl.fastly.net/kablo/?id=russia24
-#EXTINF:-1,sauditv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=sauditv
-#EXTINF:-1,showtv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=showtv
-#EXTINF:-1,sinema1001
-https://koprulu4.global.ssl.fastly.net/kablo/?id=sinema1001
-#EXTINF:-1,sinemaaile
-https://koprulu4.global.ssl.fastly.net/kablo/?id=sinemaaile
-#EXTINF:-1,sinemaaksiyon
-https://koprulu4.global.ssl.fastly.net/kablo/?id=sinemaaksiyon
-#EXTINF:-1,sinemakomedi
-https://koprulu4.global.ssl.fastly.net/kablo/?id=sinemakomedi
-#EXTINF:-1,sinematv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=sinematv
-#EXTINF:-1,sinemayerli
-https://koprulu4.global.ssl.fastly.net/kablo/?id=sinemayerli
-#EXTINF:-1,spacetoon
-https://koprulu4.global.ssl.fastly.net/kablo/?id=spacetoon
-#EXTINF:-1,sportstv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=sportstv
-#EXTINF:-1,ssport
-https://koprulu4.global.ssl.fastly.net/kablo/?id=ssport
-#EXTINF:-1,ssport2
-https://koprulu4.global.ssl.fastly.net/kablo/?id=ssport2
-#EXTINF:-1,startv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=startv
-#EXTINF:-1,szctv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=szctv
-#EXTINF:-1,tarihtv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tarihtv
-#EXTINF:-1,tele1
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tele1
-#EXTINF:-1,teve2
-https://koprulu4.global.ssl.fastly.net/kablo/?id=teve2
-#EXTINF:-1,tgrthaber
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tgrthaber
-#EXTINF:-1,thturkhaber
-https://koprulu4.global.ssl.fastly.net/kablo/?id=thturkhaber
-#EXTINF:-1,tinyteen
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tinyteen
-#EXTINF:-1,tivi6
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tivi6
-#EXTINF:-1,tlc
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tlc
-#EXTINF:-1,tmb
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tmb
-#EXTINF:-1,tracesport
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tracesport
-#EXTINF:-1,traceurban
-https://koprulu4.global.ssl.fastly.net/kablo/?id=traceurban
-#EXTINF:-1,trt1
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trt1
-#EXTINF:-1,trt2
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trt2
-#EXTINF:-1,trt3spor-tbmmtv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trt3spor-tbmmtv
-#EXTINF:-1,trtarabi
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtarabi
-#EXTINF:-1,trtavaz
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtavaz
-#EXTINF:-1,trtbelgesel
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtbelgesel
-#EXTINF:-1,trtcocuk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtcocuk
-#EXTINF:-1,trtdiyanetcocuk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtdiyanetcocuk
-#EXTINF:-1,trteba
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trteba
-#EXTINF:-1,trthaber
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trthaber
-#EXTINF:-1,trtkurdi
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtkurdi
-#EXTINF:-1,trtmuzik
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtmuzik
-#EXTINF:-1,trtspor
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtspor
-#EXTINF:-1,trtsporyildiz
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtsporyildiz
-#EXTINF:-1,trtturk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=trtturk
-#EXTINF:-1,turkmenelitv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=turkmenelitv
-#EXTINF:-1,tv100
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tv100
-#EXTINF:-1,tv4
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tv4
-#EXTINF:-1,tv42
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tv42
-#EXTINF:-1,tv5
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tv5
-#EXTINF:-1,tv5mondeeurope
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tv5mondeeurope
-#EXTINF:-1,tv8
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tv8
-#EXTINF:-1,tv8_5
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tv8_5
-#EXTINF:-1,tvnet
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tvnet
-#EXTINF:-1,tytturk
-https://koprulu4.global.ssl.fastly.net/kablo/?id=tytturk
-#EXTINF:-1,ulketv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=ulketv
-#EXTINF:-1,ulusalkanal
-https://koprulu4.global.ssl.fastly.net/kablo/?id=ulusalkanal
-#EXTINF:-1,vavtv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=vavtv
-#EXTINF:-1,viasatexplore
-https://koprulu4.global.ssl.fastly.net/kablo/?id=viasatexplore
-#EXTINF:-1,viasathistory
-https://koprulu4.global.ssl.fastly.net/kablo/?id=viasathistory
-#EXTINF:-1,wsport
-https://koprulu4.global.ssl.fastly.net/kablo/?id=wsport
-#EXTINF:-1,yargitv
-https://koprulu4.global.ssl.fastly.net/kablo/?id=yargitv
+http://65.108.239.207/cartoonnetwork/index.m3u8
+#EXTINF:0, ahaber
+http://65.108.239.207/ahaber/index.m3u8
