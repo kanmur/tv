@@ -79,7 +79,6 @@ http://65.108.239.207/sinema2/index.m3u8
 http://65.108.239.207/cartoonnetwork/index.m3u8
 #EXTINF:0, ahaber
 http://65.108.239.207/ahaber/index.m3u8
-#EXTM3U
 #EXTINF:-1,5600
 https://tv.devtv.nl:80/live/Trexx/Trex1fhgd2z/5600.m3u8
 #EXTINF:-1,5601
